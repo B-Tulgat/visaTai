@@ -1,0 +1,781 @@
+- Consent
+
+- Details
+
+- [#IABV2SETTINGS#]
+
+- About
+
+- Necessary31Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.Amazon1Learn more about this providercookies.jsDetermines whether the visitor has accepted the cookie consent box. This ensures that the cookie consent box will not be presented again upon re-entry.Maximum Storage Duration: SessionType: HTTP CookieCookiebot1Learn more about this providerCookieConsentStores the user's cookie consent state for the current domainMaximum Storage Duration: 1 yearType: HTTP CookieGoogle3Learn more about this providerSome of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.test_cookieUsed to check if the user's browser supports cookies.Maximum Storage Duration: 1 dayType: HTTP Cookie_GRECAPTCHAThis cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.Maximum Storage Duration: 180 daysType: HTTP Cookiear_debugChecks whether a technical debugger-cookie is present.Maximum Storage Duration: 3 monthsType: HTTP CookieHubspot4Learn more about this providerrc::aThis cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.Maximum Storage Duration: PersistentType: HTML Local Storagerc::bThis cookie is used to distinguish between humans and bots.Maximum Storage Duration: SessionType: HTML Local Storagerc::cThis cookie is used to distinguish between humans and bots.Maximum Storage Duration: SessionType: HTML Local Storagerc::fThis cookie is used to distinguish between humans and bots.Maximum Storage Duration: PersistentType: HTML Local StorageLinkedIn1Learn more about this providerli_gcStores the user's cookie consent state for the current domainMaximum Storage Duration: 180 daysType: HTTP CookieTED1Learn more about this provider__mp_opt_in_out_#Stores the user's cookie consent state for the current domainMaximum Storage Duration: SessionType: HTTP Cookiecdn.jsdelivr.net4cookiebot-consent--marketingUsed to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.Maximum Storage Duration: SessionType: HTTP Cookiecookiebot-consent--necessaryUsed to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.Maximum Storage Duration: SessionType: HTTP Cookiecookiebot-consent--preferencesUsed to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.Maximum Storage Duration: SessionType: HTTP Cookiecookiebot-consent--statisticsUsed to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.Maximum Storage Duration: SessionType: HTTP Cookiehsadspixel.neths-banner.comvimeo.com12__cf_bm [x12]This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.Maximum Storage Duration: 1 dayType: HTTP Cookiehsforms.comvimeo.com3_cfuvid [x3]This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators.Maximum Storage Duration: SessionType: HTTP Cookiewww.griffith.ie1SSESS#PendingMaximum Storage Duration: 24 daysType: HTTP Cookie
+
+- Amazon1Learn more about this providercookies.jsDetermines whether the visitor has accepted the cookie consent box. This ensures that the cookie consent box will not be presented again upon re-entry.Maximum Storage Duration: SessionType: HTTP Cookie
+
+- Cookiebot1Learn more about this providerCookieConsentStores the user's cookie consent state for the current domainMaximum Storage Duration: 1 yearType: HTTP Cookie
+
+- Google3Learn more about this providerSome of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.test_cookieUsed to check if the user's browser supports cookies.Maximum Storage Duration: 1 dayType: HTTP Cookie_GRECAPTCHAThis cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.Maximum Storage Duration: 180 daysType: HTTP Cookiear_debugChecks whether a technical debugger-cookie is present.Maximum Storage Duration: 3 monthsType: HTTP Cookie
+
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+
+- Hubspot4Learn more about this providerrc::aThis cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.Maximum Storage Duration: PersistentType: HTML Local Storagerc::bThis cookie is used to distinguish between humans and bots.Maximum Storage Duration: SessionType: HTML Local Storagerc::cThis cookie is used to distinguish between humans and bots.Maximum Storage Duration: SessionType: HTML Local Storagerc::fThis cookie is used to distinguish between humans and bots.Maximum Storage Duration: PersistentType: HTML Local Storage
+
+- LinkedIn1Learn more about this providerli_gcStores the user's cookie consent state for the current domainMaximum Storage Duration: 180 daysType: HTTP Cookie
+
+- TED1Learn more about this provider__mp_opt_in_out_#Stores the user's cookie consent state for the current domainMaximum Storage Duration: SessionType: HTTP Cookie
+
+- cdn.jsdelivr.net4cookiebot-consent--marketingUsed to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.Maximum Storage Duration: SessionType: HTTP Cookiecookiebot-consent--necessaryUsed to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.Maximum Storage Duration: SessionType: HTTP Cookiecookiebot-consent--preferencesUsed to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.Maximum Storage Duration: SessionType: HTTP Cookiecookiebot-consent--statisticsUsed to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.Maximum Storage Duration: SessionType: HTTP Cookie
+
+- hsadspixel.neths-banner.comvimeo.com12__cf_bm [x12]This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.Maximum Storage Duration: 1 dayType: HTTP Cookie
+
+- hsforms.comvimeo.com3_cfuvid [x3]This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators.Maximum Storage Duration: SessionType: HTTP Cookie
+
+- www.griffith.ie1SSESS#PendingMaximum Storage Duration: 24 daysType: HTTP Cookie
+
+- Preferences20Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.Amazon2Learn more about this providerreduxPersist%3AlocalStoragePendingMaximum Storage Duration: 7 daysType: HTTP CookiereduxPersistIndexMaintains website settings across multiple visits.Maximum Storage Duration: 7 daysType: HTTP CookieIssuu11Learn more about this providerfirstSessionTimestampPendingMaximum Storage Duration: PersistentType: HTML Local StorageisFirstSessionPendingMaximum Storage Duration: SessionType: HTML Local StorageLOCAL_STORAGE_ID_pico_lsidPendingMaximum Storage Duration: PersistentType: HTML Local StorageorionV3#identityPendingMaximum Storage Duration: PersistentType: IndexedDBpico#eventsPendingMaximum Storage Duration: PersistentType: IndexedDBpico#keyvalPendingMaximum Storage Duration: PersistentType: IndexedDBSESSION_STORAGE_ID_pico_ssidPendingMaximum Storage Duration: SessionType: HTML Local Storagespidersense#eventPendingMaximum Storage Duration: PersistentType: IndexedDBspidersense#setup_responsePendingMaximum Storage Duration: PersistentType: IndexedDBspidersense#user_infoPendingMaximum Storage Duration: PersistentType: IndexedDBspidersense:user_id:v1_issuu_webPendingMaximum Storage Duration: PersistentType: HTML Local StoragePubble2Learn more about this providerJSESSIONIDPreserves users states across page requests.Maximum Storage Duration: SessionType: HTTP Cookiepubble_triggerPendingMaximum Storage Duration: 1 dayType: HTTP CookieTED5Learn more about this providerautoplay_preferencePendingMaximum Storage Duration: PersistentType: HTML Local Storagemuted_statePendingMaximum Storage Duration: SessionType: HTML Local Storageplayback_rate_statePendingMaximum Storage Duration: SessionType: HTML Local Storageshow-browser-update-bannerPendingMaximum Storage Duration: SessionType: HTML Local Storagemp_uuidPendingMaximum Storage Duration: SessionType: HTTP Cookie
+
+- Amazon2Learn more about this providerreduxPersist%3AlocalStoragePendingMaximum Storage Duration: 7 daysType: HTTP CookiereduxPersistIndexMaintains website settings across multiple visits.Maximum Storage Duration: 7 daysType: HTTP Cookie
+
+- Issuu11Learn more about this providerfirstSessionTimestampPendingMaximum Storage Duration: PersistentType: HTML Local StorageisFirstSessionPendingMaximum Storage Duration: SessionType: HTML Local StorageLOCAL_STORAGE_ID_pico_lsidPendingMaximum Storage Duration: PersistentType: HTML Local StorageorionV3#identityPendingMaximum Storage Duration: PersistentType: IndexedDBpico#eventsPendingMaximum Storage Duration: PersistentType: IndexedDBpico#keyvalPendingMaximum Storage Duration: PersistentType: IndexedDBSESSION_STORAGE_ID_pico_ssidPendingMaximum Storage Duration: SessionType: HTML Local Storagespidersense#eventPendingMaximum Storage Duration: PersistentType: IndexedDBspidersense#setup_responsePendingMaximum Storage Duration: PersistentType: IndexedDBspidersense#user_infoPendingMaximum Storage Duration: PersistentType: IndexedDBspidersense:user_id:v1_issuu_webPendingMaximum Storage Duration: PersistentType: HTML Local Storage
+
+- Pubble2Learn more about this providerJSESSIONIDPreserves users states across page requests.Maximum Storage Duration: SessionType: HTTP Cookiepubble_triggerPendingMaximum Storage Duration: 1 dayType: HTTP Cookie
+
+- TED5Learn more about this providerautoplay_preferencePendingMaximum Storage Duration: PersistentType: HTML Local Storagemuted_statePendingMaximum Storage Duration: SessionType: HTML Local Storageplayback_rate_statePendingMaximum Storage Duration: SessionType: HTML Local Storageshow-browser-update-bannerPendingMaximum Storage Duration: SessionType: HTML Local Storagemp_uuidPendingMaximum Storage Duration: SessionType: HTTP Cookie
+
+- Statistics17Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.Google2Learn more about this providerSome of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness._gaRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.Maximum Storage Duration: 2 yearsType: HTTP Cookie_ga_#Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit.Maximum Storage Duration: 2 yearsType: HTTP CookieHotjar4Learn more about this provider_hjSession_#Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.Maximum Storage Duration: 1 dayType: HTTP Cookie_hjSessionUser_#Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.Maximum Storage Duration: 1 yearType: HTTP CookiehjActiveViewportIdsThis cookie contains an ID string on the current session. This contains non-personal information on what subpages the visitor enters – this information is used to optimize the visitor's experience.Maximum Storage Duration: PersistentType: HTML Local StoragehjViewportIdSaves the user's screen size in order to adjust the size of images on the website.Maximum Storage Duration: SessionType: HTML Local StoragePubble1Learn more about this providerpubble_session_timeTracks how long the user has been on the site. It is used for any time based triggers. Like the Greeting messages.Maximum Storage Duration: SessionType: HTTP CookieSolarwinds2Learn more about this providerpa-lUsed in connection with End User Experience Monitoring (EUEM). The cookie collects information on application/device performance, which allows support/website staff to optimize their products and services.Maximum Storage Duration: PersistentType: HTML Local Storagepa-l_enabledUsed in connection with End User Experience Monitoring (EUEM). The cookie collects information on application/device performance, which allows support/website staff to optimize their products and services.Maximum Storage Duration: PersistentType: HTML Local StorageSpotify1Learn more about this providersentryReplaySessionRegisters data on visitors' website-behaviour. This is used for internal analysis and website optimization.Maximum Storage Duration: SessionType: HTML Local StorageTED2Learn more about this providermuxDataThis cookie is used in context with a video-player, so that if the visitor is interrupted while viewing video content, the cookie remembers where to start the video when the visitor reloads the video.Maximum Storage Duration: 1 yearType: HTTP CookieNRBA_SESSIONCollects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.Maximum Storage Duration: PersistentType: HTML Local StorageTikTok1Learn more about this provider_tt_enable_cookieUsed by the social networking service, TikTok, for tracking the use of embedded services.Maximum Storage Duration: 1 yearType: HTTP CookieVimeo1Learn more about this providervuidCollects data on the user's visits to the website, such as which pages have been read.Maximum Storage Duration: 2 yearsType: HTTP Cookiecdn.mida.so3_abcachePendingMaximum Storage Duration: PersistentType: HTML Local Storagemd_pending_eventsPendingMaximum Storage Duration: PersistentType: HTML Local Storageoptimize_uuidPendingMaximum Storage Duration: 1 yearType: HTTP Cookie
+
+- Google2Learn more about this providerSome of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness._gaRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.Maximum Storage Duration: 2 yearsType: HTTP Cookie_ga_#Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit.Maximum Storage Duration: 2 yearsType: HTTP Cookie
+
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+
+- Hotjar4Learn more about this provider_hjSession_#Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.Maximum Storage Duration: 1 dayType: HTTP Cookie_hjSessionUser_#Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.Maximum Storage Duration: 1 yearType: HTTP CookiehjActiveViewportIdsThis cookie contains an ID string on the current session. This contains non-personal information on what subpages the visitor enters – this information is used to optimize the visitor's experience.Maximum Storage Duration: PersistentType: HTML Local StoragehjViewportIdSaves the user's screen size in order to adjust the size of images on the website.Maximum Storage Duration: SessionType: HTML Local Storage
+
+- Pubble1Learn more about this providerpubble_session_timeTracks how long the user has been on the site. It is used for any time based triggers. Like the Greeting messages.Maximum Storage Duration: SessionType: HTTP Cookie
+
+- Solarwinds2Learn more about this providerpa-lUsed in connection with End User Experience Monitoring (EUEM). The cookie collects information on application/device performance, which allows support/website staff to optimize their products and services.Maximum Storage Duration: PersistentType: HTML Local Storagepa-l_enabledUsed in connection with End User Experience Monitoring (EUEM). The cookie collects information on application/device performance, which allows support/website staff to optimize their products and services.Maximum Storage Duration: PersistentType: HTML Local Storage
+
+- Spotify1Learn more about this providersentryReplaySessionRegisters data on visitors' website-behaviour. This is used for internal analysis and website optimization.Maximum Storage Duration: SessionType: HTML Local Storage
+
+- TED2Learn more about this providermuxDataThis cookie is used in context with a video-player, so that if the visitor is interrupted while viewing video content, the cookie remembers where to start the video when the visitor reloads the video.Maximum Storage Duration: 1 yearType: HTTP CookieNRBA_SESSIONCollects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.Maximum Storage Duration: PersistentType: HTML Local Storage
+
+- TikTok1Learn more about this provider_tt_enable_cookieUsed by the social networking service, TikTok, for tracking the use of embedded services.Maximum Storage Duration: 1 yearType: HTTP Cookie
+
+- Vimeo1Learn more about this providervuidCollects data on the user's visits to the website, such as which pages have been read.Maximum Storage Duration: 2 yearsType: HTTP Cookie
+
+- cdn.mida.so3_abcachePendingMaximum Storage Duration: PersistentType: HTML Local Storagemd_pending_eventsPendingMaximum Storage Duration: PersistentType: HTML Local Storageoptimize_uuidPendingMaximum Storage Duration: 1 yearType: HTTP Cookie
+
+- Marketing53Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.Meta Platforms, Inc.4Learn more about this providerlastExternalReferrerDetects how the user reached the website by registering their last URL-address.Maximum Storage Duration: PersistentType: HTML Local StoragelastExternalReferrerTimeDetects how the user reached the website by registering their last URL-address.Maximum Storage Duration: PersistentType: HTML Local StoragetopicsLastReferenceTimeCollects data on the user across websites - This data is used to make advertisement more relevant.Maximum Storage Duration: PersistentType: HTML Local Storage_fbpUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.Maximum Storage Duration: 3 monthsType: HTTP CookieGoogle6Learn more about this providerSome of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.IDEUsed by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.Maximum Storage Duration: 400 daysType: HTTP CookieNIDRegisters a unique ID that identifies a returning user's device. The ID is used for targeted ads.Maximum Storage Duration: 6 monthsType: HTTP Cookiepagead/1p-conversion/#/PendingMaximum Storage Duration: SessionType: Pixel Trackerpagead/1p-user-list/#Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.Maximum Storage Duration: SessionType: Pixel Tracker_gcl_auUsed by Google AdSense for experimenting with advertisement efficiency across websites using their services.Maximum Storage Duration: 3 monthsType: HTTP Cookie_gcl_lsTracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website.Maximum Storage Duration: PersistentType: HTML Local StorageHotjar2Learn more about this provider_hjTLDTestDetects the SEO-ranking for the current website. This service is part of a third-party statistics and analysis service.Maximum Storage Duration: SessionType: HTTP CookiehubspotutkKeeps track of a visitor's identity. This cookie is passed to the marketing platform HubSpot on form submission and used when de-duplicating contacts.Maximum Storage Duration: PersistentType: HTML Local StorageHubspot5Learn more about this provider__hsscCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Maximum Storage Duration: 1 dayType: HTTP Cookie__hssrcCollects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Maximum Storage Duration: SessionType: HTTP Cookie__hstcCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Maximum Storage Duration: 180 daysType: HTTP CookiehubspotutkKeeps track of a visitor's identity. This cookie is passed to the marketing platform HubSpot on form submission and used when de-duplicating contacts.Maximum Storage Duration: 180 daysType: HTTP Cookie__ptq.gifSends data to the marketing platform Hubspot about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.Maximum Storage Duration: SessionType: Pixel TrackerIssuu1Learn more about this provideriutkRecognises the user's device and what Issuu documents have been read.Maximum Storage Duration: SessionType: HTTP CookieLinkedIn2Learn more about this providerbcookieUsed by the social networking service, LinkedIn, for tracking the use of embedded services.Maximum Storage Duration: 1 yearType: HTTP CookielidcUsed by the social networking service, LinkedIn, for tracking the use of embedded services.Maximum Storage Duration: 180 daysType: HTTP CookieSpotify2Learn more about this providersp_landingUsed to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes.Maximum Storage Duration: 1 dayType: HTTP Cookiesp_tUsed to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes.Maximum Storage Duration: 1 yearType: HTTP CookieTED3Learn more about this provider__mpq_#_#Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.Maximum Storage Duration: PersistentType: HTML Local Storagemp_#_mixpanel [x2]PendingMaximum Storage Duration: SessionType: HTTP CookieTikTok4Learn more about this providertt_appInfoUsed by the social networking service, TikTok, for tracking the use of embedded services.Maximum Storage Duration: SessionType: HTML Local Storagett_pixel_session_indexUsed by the social networking service, TikTok, for tracking the use of embedded services.Maximum Storage Duration: SessionType: HTML Local Storagett_sessionIdUsed by the social networking service, TikTok, for tracking the use of embedded services.Maximum Storage Duration: SessionType: HTML Local Storage_ttpUsed by the social networking service, TikTok, for tracking the use of embedded services.Maximum Storage Duration: 1 yearType: HTTP CookieYouTube22Learn more about this provider#-#Used to track user’s interaction with embedded content.Maximum Storage Duration: SessionType: HTML Local Storage__Secure-ROLLOUT_TOKENPendingMaximum Storage Duration: 180 daysType: HTTP CookieiU5q-!O9@$Registers a unique ID to keep statistics of what videos from YouTube the user has seen.Maximum Storage Duration: SessionType: HTML Local StorageLAST_RESULT_ENTRY_KEYUsed to track user’s interaction with embedded content.Maximum Storage Duration: SessionType: HTTP CookieLogsDatabaseV2:V#||LogsRequestsStoreUsed to track user’s interaction with embedded content.Maximum Storage Duration: PersistentType: IndexedDBnextIdUsed to track user’s interaction with embedded content.Maximum Storage Duration: SessionType: HTTP Cookieremote_sidNecessary for the implementation and functionality of YouTube video-content on the website.Maximum Storage Duration: SessionType: HTTP CookierequestsUsed to track user’s interaction with embedded content.Maximum Storage Duration: SessionType: HTTP CookieServiceWorkerLogsDatabase#SWHealthLogNecessary for the implementation and functionality of YouTube video-content on the website.Maximum Storage Duration: PersistentType: IndexedDBTESTCOOKIESENABLEDUsed to track user’s interaction with embedded content.Maximum Storage Duration: 1 dayType: HTTP CookieVISITOR_INFO1_LIVETries to estimate the users' bandwidth on pages with integrated YouTube videos.Maximum Storage Duration: 180 daysType: HTTP CookieYSCRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Maximum Storage Duration: SessionType: HTTP Cookieyt.innertube::nextIdRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Maximum Storage Duration: PersistentType: HTML Local Storageytidb::LAST_RESULT_ENTRY_KEYStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: PersistentType: HTML Local StorageYtIdbMeta#databasesUsed to track user’s interaction with embedded content.Maximum Storage Duration: PersistentType: IndexedDByt-remote-cast-availableStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: SessionType: HTML Local Storageyt-remote-cast-installedStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: SessionType: HTML Local Storageyt-remote-connected-devicesStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: PersistentType: HTML Local Storageyt-remote-device-idStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: PersistentType: HTML Local Storageyt-remote-fast-check-periodStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: SessionType: HTML Local Storageyt-remote-session-appStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: SessionType: HTML Local Storageyt-remote-session-nameStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: SessionType: HTML Local Storagewww.griffith.ie2ck-s-svcrntimgi_lfPendingMaximum Storage Duration: SessionType: HTTP Cookiegriffith_courses_of_interestPendingMaximum Storage Duration: 3 monthsType: HTTP Cookie
+
+- Meta Platforms, Inc.4Learn more about this providerlastExternalReferrerDetects how the user reached the website by registering their last URL-address.Maximum Storage Duration: PersistentType: HTML Local StoragelastExternalReferrerTimeDetects how the user reached the website by registering their last URL-address.Maximum Storage Duration: PersistentType: HTML Local StoragetopicsLastReferenceTimeCollects data on the user across websites - This data is used to make advertisement more relevant.Maximum Storage Duration: PersistentType: HTML Local Storage_fbpUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.Maximum Storage Duration: 3 monthsType: HTTP Cookie
+
+- Google6Learn more about this providerSome of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.IDEUsed by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.Maximum Storage Duration: 400 daysType: HTTP CookieNIDRegisters a unique ID that identifies a returning user's device. The ID is used for targeted ads.Maximum Storage Duration: 6 monthsType: HTTP Cookiepagead/1p-conversion/#/PendingMaximum Storage Duration: SessionType: Pixel Trackerpagead/1p-user-list/#Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.Maximum Storage Duration: SessionType: Pixel Tracker_gcl_auUsed by Google AdSense for experimenting with advertisement efficiency across websites using their services.Maximum Storage Duration: 3 monthsType: HTTP Cookie_gcl_lsTracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website.Maximum Storage Duration: PersistentType: HTML Local Storage
+
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+
+- Hotjar2Learn more about this provider_hjTLDTestDetects the SEO-ranking for the current website. This service is part of a third-party statistics and analysis service.Maximum Storage Duration: SessionType: HTTP CookiehubspotutkKeeps track of a visitor's identity. This cookie is passed to the marketing platform HubSpot on form submission and used when de-duplicating contacts.Maximum Storage Duration: PersistentType: HTML Local Storage
+
+- Hubspot5Learn more about this provider__hsscCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Maximum Storage Duration: 1 dayType: HTTP Cookie__hssrcCollects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Maximum Storage Duration: SessionType: HTTP Cookie__hstcCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Maximum Storage Duration: 180 daysType: HTTP CookiehubspotutkKeeps track of a visitor's identity. This cookie is passed to the marketing platform HubSpot on form submission and used when de-duplicating contacts.Maximum Storage Duration: 180 daysType: HTTP Cookie__ptq.gifSends data to the marketing platform Hubspot about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.Maximum Storage Duration: SessionType: Pixel Tracker
+
+- Issuu1Learn more about this provideriutkRecognises the user's device and what Issuu documents have been read.Maximum Storage Duration: SessionType: HTTP Cookie
+
+- LinkedIn2Learn more about this providerbcookieUsed by the social networking service, LinkedIn, for tracking the use of embedded services.Maximum Storage Duration: 1 yearType: HTTP CookielidcUsed by the social networking service, LinkedIn, for tracking the use of embedded services.Maximum Storage Duration: 180 daysType: HTTP Cookie
+
+- Spotify2Learn more about this providersp_landingUsed to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes.Maximum Storage Duration: 1 dayType: HTTP Cookiesp_tUsed to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes.Maximum Storage Duration: 1 yearType: HTTP Cookie
+
+- TED3Learn more about this provider__mpq_#_#Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.Maximum Storage Duration: PersistentType: HTML Local Storagemp_#_mixpanel [x2]PendingMaximum Storage Duration: SessionType: HTTP Cookie
+
+- TikTok4Learn more about this providertt_appInfoUsed by the social networking service, TikTok, for tracking the use of embedded services.Maximum Storage Duration: SessionType: HTML Local Storagett_pixel_session_indexUsed by the social networking service, TikTok, for tracking the use of embedded services.Maximum Storage Duration: SessionType: HTML Local Storagett_sessionIdUsed by the social networking service, TikTok, for tracking the use of embedded services.Maximum Storage Duration: SessionType: HTML Local Storage_ttpUsed by the social networking service, TikTok, for tracking the use of embedded services.Maximum Storage Duration: 1 yearType: HTTP Cookie
+
+- YouTube22Learn more about this provider#-#Used to track user’s interaction with embedded content.Maximum Storage Duration: SessionType: HTML Local Storage__Secure-ROLLOUT_TOKENPendingMaximum Storage Duration: 180 daysType: HTTP CookieiU5q-!O9@$Registers a unique ID to keep statistics of what videos from YouTube the user has seen.Maximum Storage Duration: SessionType: HTML Local StorageLAST_RESULT_ENTRY_KEYUsed to track user’s interaction with embedded content.Maximum Storage Duration: SessionType: HTTP CookieLogsDatabaseV2:V#||LogsRequestsStoreUsed to track user’s interaction with embedded content.Maximum Storage Duration: PersistentType: IndexedDBnextIdUsed to track user’s interaction with embedded content.Maximum Storage Duration: SessionType: HTTP Cookieremote_sidNecessary for the implementation and functionality of YouTube video-content on the website.Maximum Storage Duration: SessionType: HTTP CookierequestsUsed to track user’s interaction with embedded content.Maximum Storage Duration: SessionType: HTTP CookieServiceWorkerLogsDatabase#SWHealthLogNecessary for the implementation and functionality of YouTube video-content on the website.Maximum Storage Duration: PersistentType: IndexedDBTESTCOOKIESENABLEDUsed to track user’s interaction with embedded content.Maximum Storage Duration: 1 dayType: HTTP CookieVISITOR_INFO1_LIVETries to estimate the users' bandwidth on pages with integrated YouTube videos.Maximum Storage Duration: 180 daysType: HTTP CookieYSCRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Maximum Storage Duration: SessionType: HTTP Cookieyt.innertube::nextIdRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Maximum Storage Duration: PersistentType: HTML Local Storageytidb::LAST_RESULT_ENTRY_KEYStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: PersistentType: HTML Local StorageYtIdbMeta#databasesUsed to track user’s interaction with embedded content.Maximum Storage Duration: PersistentType: IndexedDByt-remote-cast-availableStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: SessionType: HTML Local Storageyt-remote-cast-installedStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: SessionType: HTML Local Storageyt-remote-connected-devicesStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: PersistentType: HTML Local Storageyt-remote-device-idStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: PersistentType: HTML Local Storageyt-remote-fast-check-periodStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: SessionType: HTML Local Storageyt-remote-session-appStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: SessionType: HTML Local Storageyt-remote-session-nameStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: SessionType: HTML Local Storage
+
+- www.griffith.ie2ck-s-svcrntimgi_lfPendingMaximum Storage Duration: SessionType: HTTP Cookiegriffith_courses_of_interestPendingMaximum Storage Duration: 3 monthsType: HTTP Cookie
+
+- Unclassified13Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.Amazon1Learn more about this providerreduxPersist%3AtutorialPendingMaximum Storage Duration: 7 daysType: HTTP CookieCloudflare1Learn more about this providercf.turnstile.uPendingMaximum Storage Duration: PersistentType: HTML Local StorageSpotify5Learn more about this providerES|#|EVENT|#PendingMaximum Storage Duration: PersistentType: HTML Local StorageES|#|GLOBAL_SEQ_NUMPendingMaximum Storage Duration: PersistentType: HTML Local StorageES|#|INSTALLATION_IDPendingMaximum Storage Duration: PersistentType: HTML Local StorageES|#|SEQ_NUM|#PendingMaximum Storage Duration: PersistentType: HTML Local StorageES|#|STORAGE_IDPendingMaximum Storage Duration: PersistentType: HTML Local StorageTED4Learn more about this providermixpanelBrowserDb#mixpanelRecordingEventsPendingMaximum Storage Duration: PersistentType: IndexedDBmixpanelBrowserDb#mixpanelRecordingRegistryPendingMaximum Storage Duration: PersistentType: IndexedDBmp_gen_new_tab_id_mixpanel_cefc84a7a812fb3bb40d6efadb6b3163PendingMaximum Storage Duration: SessionType: HTML Local Storagemp_tab_id_mixpanel_cefc84a7a812fb3bb40d6efadb6b3163PendingMaximum Storage Duration: SessionType: HTML Local StorageTikTok2Learn more about this providerttcsidPendingMaximum Storage Duration: 1 yearType: HTTP Cookiettcsid_CPLD0SBC77UEE1L2CFNGPendingMaximum Storage Duration: 1 yearType: HTTP Cookie
+
+- Amazon1Learn more about this providerreduxPersist%3AtutorialPendingMaximum Storage Duration: 7 daysType: HTTP Cookie
+
+- Cloudflare1Learn more about this providercf.turnstile.uPendingMaximum Storage Duration: PersistentType: HTML Local Storage
+
+- Spotify5Learn more about this providerES|#|EVENT|#PendingMaximum Storage Duration: PersistentType: HTML Local StorageES|#|GLOBAL_SEQ_NUMPendingMaximum Storage Duration: PersistentType: HTML Local StorageES|#|INSTALLATION_IDPendingMaximum Storage Duration: PersistentType: HTML Local StorageES|#|SEQ_NUM|#PendingMaximum Storage Duration: PersistentType: HTML Local StorageES|#|STORAGE_IDPendingMaximum Storage Duration: PersistentType: HTML Local Storage
+
+- TED4Learn more about this providermixpanelBrowserDb#mixpanelRecordingEventsPendingMaximum Storage Duration: PersistentType: IndexedDBmixpanelBrowserDb#mixpanelRecordingRegistryPendingMaximum Storage Duration: PersistentType: IndexedDBmp_gen_new_tab_id_mixpanel_cefc84a7a812fb3bb40d6efadb6b3163PendingMaximum Storage Duration: SessionType: HTML Local Storagemp_tab_id_mixpanel_cefc84a7a812fb3bb40d6efadb6b3163PendingMaximum Storage Duration: SessionType: HTML Local Storage
+
+- TikTok2Learn more about this providerttcsidPendingMaximum Storage Duration: 1 yearType: HTTP Cookiettcsid_CPLD0SBC77UEE1L2CFNGPendingMaximum Storage Duration: 1 yearType: HTTP Cookie
+
+- Study at GriffithOverviewCourses for Global StudentsHow To ApplyMeet the teamEnglish Language Entry RequirementsAccommodationFeesVisa InformationFAQsGOI-IES
+
+- Overview
+
+- Courses for Global Students
+
+- How To Apply
+
+- Meet the team
+
+- English Language Entry Requirements
+
+- Accommodation
+
+- Fees
+
+- Visa Information
+
+- FAQs
+
+- GOI-IES
+
+- Global OpportunitiesOverviewStudy AbroadErasmusPartnersResources
+
+- Overview
+
+- Study Abroad
+
+- Erasmus
+
+- Partners
+
+- Resources
+
+- Student Ambassadors
+
+- Accessibility Tools
+
+## Further Information
+
+- About
+
+- Academic Calendar
+
+- Faculties
+
+- Opening Hours
+
+- Offices
+
+- Accommodation
+
+- Learner Hub
+
+- Staff Hub
+
+- Blog
+
+## Search form
+
+## Ready to take the next step?
+
+- Apply now
+
+- Contact us
+
+- English - GBEnglish - GB
+
+- French - Europefrançais
+
+- MongolianМонгол
+
+- Italianitaliano
+
+- TurkishTürkçe
+
+- Portugueseportuguês
+
+- Korean한국어
+
+- Japanese日本語
+
+- Chinese Simplified中国简化
+
+- Spanish - Europeespañol
+
+## Breadcrumb
+
+- Home
+
+- Global Engagement Office
+
+- Study at Griffith
+
+- Frequently Asked Questions
+
+# FAQs and Policies
+
+# Frequently Asked Questions
+
+## English language Entry Requirements
+
+## What are the English language requirements to study at Griffith College?
+
+Please see required English language entry requirements by programme typeHERE
+
+## Can I apply without English language Qualifications?
+
+If English is not your native language, you must submit an accredited English language test score with your application. In addition, if you need a Study Visa for Ireland you may be required to submit proof of English proficiency with your visa application.
+
+We can issue aConditional Offer Letterwhere English language results are pending, but an unconditional offer will not be forthcoming until an accredited English test result is provided.
+
+See required English language entry requirements by programme typeHERE
+
+## What happens if my English score doesn't meet the Griffith College entry requirements?
+
+If you do not meet the English language entry requirements for your chosen programme you may take pre-semester English language classes with Griffith College. Further information is availablehere.
+
+## Applying to Griffith College
+
+## How do I apply for a programme in Griffith College?
+
+All applications can be made through ouronline application form.There is no Application Fee!
+
+## What are the Academic Entry Requirements?
+
+Entry Requirements are availablehere
+
+Please note that some courses may require additional criteria, such as a submission of a portfolio, CV/Resuméor attending an interview. Further information is available on our Quick Programme Guides which are available here:https://www.griffith.ie/global/study-at-griffith
+
+You can contact us for more information atinternational@griffith.ie
+
+## Can I apply for a part-time/blended/hybrid/online programme?
+
+Non-EU students who require Immigration support (Immigration Stamp 2) can only undertake programmes of study that are approved by the Irish Immigration Service and these programmes must be delivered on a full-time/day-time basis.Griffith College approved programmes are detailedhere.
+
+Further information about programmes approved by Irish Immigration is availablehere.
+
+## What should I include in my application?
+
+When applying for an undergraduate or foundation course, applicants must include the following:
+
+- A copy of the picture page of their Passport
+
+- A copy of their High School Diploma
+
+- A copy of their High School Transcripts of Results
+
+- Proof of English proficiency if the applicant is not a native English speaker
+
+When applying for a postgraduate course, applicants must include:
+
+- A copy of the picture page of their Passport
+
+- A copy of their Undergraduate Degree Award Certificate
+
+- A copy of their Undergraduate Transcripts of Results
+
+- Proof of English proficiency if the applicant is not a native English speaker
+
+* Please note that if your academic documents are not in English, they must be translated either by your School or an Official Translator. Some programmes may also require further documentation or processes for admission such as submission of a CV/Resumé or attending an interview. For further information, contactinternational@griffith.ieor check the webpage of your programme of interest.
+
+## How can I check the status of my application?
+
+Once an online application is submitted you receive an automatic email response detailing yourOnline Application Number. It typically takes up to 3 working days for a decision to be reached. You will be contacted by email if your application is missing any documents and to inform you of your progress. If you are unsure about the status of your application, please contactinternational@griffith.ieand quote yourOnline Application Numberand we’ll be happy to help.
+
+## I applied online but forgot to upload a document with my application. What should I do?
+
+Please email:international@griffith.iewith the missing document attached and quote yourOnline Application Number.
+
+## Can I study an English language programme before my studies?
+
+Griffith College offers an English for Academic Purposes programmes for students who do not meet the English language entry requirements. Further information is availablehere; and you can email the English Department for assistance:gil@griffith.ie
+
+## What are the deadlines for applying?
+
+Application deadlines vary per programme and also depend on where the applicant is living and their nationality. For students who require a study visa for Ireland, as the visa process can take up to three months depending on the Visa Office, students should apply at least three months before their programme is set to begin. International students living in Ireland can contact the international office directly for programme details and deadlines:international@griffith.ie
+
+## Do I have to apply through an agent/education consultant?
+
+Students may apply directly or through an agent / consultant. If you are applying through an agent/consultant just be sure to indicate the name of the agent/consultant when making your application. Alternatively, you can apply directly via ouronline application form.
+
+## Can I apply for more than one programme?
+
+Currently students can only apply for one programme at a time. If you wish to make any changes to your application after you submit the Application Form, please email:international@griffith.ieand quote yourOnline Application Numberand we’ll be happy to help.
+
+## Can I Apply for Exemptions / Advanced Entry based on my previous academic history?
+
+Applicants for multi-year undergraduate programmes may apply for module exemptions, or they can apply to get exempt from one or more academic years. This is known as “Advanced Entry”. To apply for Advanced Entry, you will need to include the following as part of your application:
+
+- Module descriptors from your previous undergraduate studies, which detail the content of each module you studied
+
+- Academic transcripts
+
+- Degree award certificate if relevant
+
+These documents will need to be translated if they are not in English
+
+- Proof of English Proficiency if English is not your native language
+
+- A copy of the picture page of your Passport
+
+If you require further information about this process please email us and we will be happy to assist you:international@griffith.ie
+
+Can I use evidence of previous work experience to enhance my application?
+
+You can enhance your application by including details about relevant work experience. This is called “Accreditation of Prior Experiential Learning (APEL)”. If you wish to be considered for APEL, please submit a Statement of Purpose explaining relevant details about your work experience to date, a comprehensive CV/Resumé, and two professional references, and please indicate on your Application Form that you wish to be considered for “Accreditation of Prior Experiential Learning (APEL)”. If your application is approved for further consideration, you may be asked to complete an APEL Form. If you require further information about this process please email us and we will be happy to assist you:international@griffith.ie
+
+## Fees
+
+## How much are the tuition fees?
+
+The cost of tuition varies per programme. You can find detailed information on tuition fees, scholarships, and bursarieshere.
+
+## Are there scholarships available?
+
+The fee structure for most programmes includes elements of Scholarships and/or Bursaries. All information pertaining to fees, scholarships and bursaries offered by Griffith College can be foundhere.
+
+## When do I need to pay my tuition fees?
+
+Fee payment deadlines depend on various factors including nationality and place of residence. If you need a study visa for Ireland you need to show that you have paid your fees as part of the visa application process, so you would need to pay fees before applying for the visa. If you don’t need a visa, then you may need to pay some or all fees in advance in order to secure your place on a programme. This is particularly important if you are applying for a programme in high-demand. For further information you can contact us and we will be happy to assist:international@griffith.ie
+
+## Can I pay my tuition fees in instalments?
+
+Fee payment arrangements depend on various factors including nationality and place of residence. In general, full fee payment is required for students who need a study visa for Ireland or who need immigration support after they get to Ireland. Certain arrangements are available for students who are already resident in Ireland at the time of application. Further information is availablehere(PDF file)and you can also contact us and we will be happy to assist:international@griffith.ie
+
+## How do I pay my tuition fees?
+
+There are various methods of fee payment including bank transfer, online payments and payment through online payment portals such as “TransferMate”. The optimal method of payment will depend on various factors including the location of the person who is paying.After you submit your application, if everything is in order you will receive an Offer Letter. All information on how to pay your fees can be found on your offer letter. When you pay your fees, you are required to send the proof of payment document tointernational@griffith.ie.
+
+## What is the cost of living in Ireland?
+
+Information about the cost of living in Ireland is availablehere(PDF file).
+
+## Visa/Immigration Information
+
+## Do I need a Visa to study in Ireland?
+
+Most non-EU students need to apply for a study visa for Ireland. Students from certain countries don’t need a visa to enter Ireland but they need to register with the Irish Immigration Service after they get to Ireland.
+
+To see if you need a visa for Ireland clickhere.
+
+## How do I apply for my visa?
+
+To see if you need a visa for Ireland clickhere.
+
+For visa application information clickhere(PDF file).
+
+Information about how to register with Irish Immigration after you arrive in Ireland is availablehere.
+
+For further detailed application instructions, visit theIrish Immigration website here.
+
+## How can I get my visa support letter?
+
+If you need an entry visa for Ireland, when you get your College Offer Letter and pay your fees, you are given an “Invitation to Register” letter and you use that letter to apply for your study visa, along with all the other documents.
+
+To see if you need a visa for Ireland clickhere.
+
+Further information is availablehere(PDF file): and the relevant section of the Irish Immigration website ishere.
+
+If you are from a non-EU country that doesn’t require an entry visa, you will need to register with Irish Immigration after you get to Ireland – usually within 90 days of your arrival, and you can apply for a letter to support your Immigration registration from the International Office. Further information is availablehere.
+
+## Do I need to register with the Immigration Authorities after I get to Ireland?
+
+All Non-EU students need to register with Irish Immigration after arriving in Ireland. EU/EEA students don’t need to register with Irish Immigration. To check which countries are in the EU/EEA you can clickhere.
+
+Information about how to register with Irish Immigration after you arrive in Ireland is availablehere.
+
+Further information is available on the Irish Immigration websitehere.
+
+I’m already living in Ireland so how do I register with Irish Immigration?
+
+When you get your College Offer Letter you can then arrange your fee payment and Immigration support documentation.
+
+To request an Immigration Support Letter from the College, you can proceed as follows:
+
+- Make a Minimum Payment: A payment of at least €6,000 is required, as per immigration regulations. For more details, you can refer to the official immigration informationhere
+
+Make a Minimum Payment: A payment of at least €6,000 is required, as per immigration regulations. For more details, you can refer to the official immigration informationhere
+
+- Register with the College:Students must complete the College online registration process. Information about registration is availablehere
+
+Register with the College:Students must complete the College online registration process. Information about registration is availablehere
+
+- Submit a Direct Debit Mandate:If you choose to pay the balance of your fees by Direct Debit rather than paying in full, you should submit a Direct Debit Mandate Form for the remaining instalment payments. Instructions about this process will be provided after you receive your offer letter. Further information about fee payment is availablehere(PDF file)
+
+Submit a Direct Debit Mandate:If you choose to pay the balance of your fees by Direct Debit rather than paying in full, you should submit a Direct Debit Mandate Form for the remaining instalment payments. Instructions about this process will be provided after you receive your offer letter. Further information about fee payment is availablehere(PDF file)
+
+Once theDirect Debit Mandate Formis submitted and your Online College Registration is completed, you can request your College Immigration Support Letter.
+
+## How do I register with Irish Immigration?
+
+All Non-EU students need to register with Irish Immigration after arriving in Ireland. EU/EEA students don’t need to register with Irish Immigration. Information about which countries are in the EU/EEA is availablehere.
+
+When you arrive in Ireland and pass through Immigration Border Control, an Immigration Officer will put a Landing Stamp in your passport. This gives you permission to stay in Ireland up to the date indicated on the Stamp (typically 90 days). You must register with Irish Immigration in person before this Landing Stamp expires.
+
+Information about how to register with Irish Immigration after you arrive in Ireland is availablehere.
+
+Further information is available on the Irish Immigration websitehere.
+
+After you register with Irish Immigration, if everything is in order, you will be sent your Irish Residency Permit Card (IRP Card) It is crucial to have secured long-term accommodation before registering with Immigration as your IRP card will be sent to this address.
+
+Information about how to make an appointment to register with Immigration is available here:Customer Service Account.
+
+For more detailed information on how to register with Irish Immigration, please checkhere.
+
+## What documents do I need to register with Irish Immigration?
+
+You will need to bring the following to your Immigration appointment:
+
+- Your current valid Passport(s).
+
+- Proof that you are a registered Griffith College student. This will be in the form of an Immigration Support Letter.
+
+- Proof of private Medical Insurance, or Travel Insurance with medical cover for accidents and medical incident including hospital stays in Ireland, valid for 12 months, or if less than 12 months, for the duration of your stay.
+
+For more information on how to register with Irish Immigration, please checkhere.
+
+Information about Medical Insurance is availablehere.
+
+## What if I cannot make it to my in-person immigration appointment?
+
+Youmustattend your immigration appointment! We advise you to try to book an appointment that doesn’t clash with your class timetable. But if you are given an appointment slot and you have a class at this time, be sure to contact your lecturer / tutor - they will understand that your immigration appointment is mandatory!
+
+## I have an IRP Card that will be expiring soon – how do I renew it?
+
+You renew your IRP Card online through the Irish Immigration Service website. You must ensure that you meet the required criteria and submit the necessary supporting documents. For detailed instructions on the renewal process, including the criteria and required documents, please refer to the official guidelineshere.
+
+## Can I work in Ireland while I’m a student?
+
+Non-EU students on a Stamp 2 Immigration Permission are entitled to work a maximum of 20 hours per week (“part-time”) during the term time and up to 40 hours per week during the holiday periods (Summer holiday periods and Christmas Holiday periods).
+
+You need a PPS Number in order to work legally in Ireland. Further information is availablehere
+
+Sometimes students need to prove to employers that they are entitled to work part-time and the International Office can give you a letter to confirm that. Please see further informationhere.
+
+## Do I need medical insurance?
+
+It is an Irish Immigration regulation that Non-EU students must have medical insurance. Students are required to arrange their own insurance cover – it is not arranged by the College. Further information is availablehere.
+
+## Can I stay back in Ireland after I finish my programme?
+
+Non-EU students who successfully complete a programme in Griffith College at Level 8 (Honours Bachelor Degree) or Level 9 (Postgraduate Diploma/Masters Degree) can avail of the Stamp 1G Immigration Permission, also known as the “Third Level Graduate Programme”. The Stamp 1G allows students to remain in Ireland for up to 12 months for Level 8/Honours Bachelor degree programmes, and up to 24 months for Level 9/PG Dip/Masters programmes, to seek employment in their field of study. For further details on the eligibility and conditions, please refer to the official information provided on the Irish Immigration Service websitehere.
+
+## Your Arrival - Before and After
+
+### Pre-Arrival
+
+## What happens if I have applied for a visa but my visa is delayed?
+
+Arrival deadlines vary per programme. You should keep the International Office informed of your visa status and let us know if you are not going to be able to arrive in time for induction/orientation or the start date of your programme. Deferrals can be arranged for students who are deemed to be too late to start their programme.
+
+## Can I arrive late to the College?
+
+It is not advisable for students to arrive late and miss induction/orientation or the start of the semester. If you are experiencing an issue out of your control (i.e. a visa delay), please contact the international office as soon as possible:international@griffith.ie
+
+## When do my classes start?
+
+Most programmes have two intake periods – in September and February. The academic calendar is availablehere. Course start dates will be outlined in the student's Offer Letter. Please note that induction week occurs before the first week of classes and attendance is mandatory.
+
+## When can I get my timetable?
+
+Timetables are issued to students during induction/orientation.
+
+## How do I register with the College?
+
+If you are living outside of Ireland, you can register with the College from abroad. When everything is in order with your College Offer and your Tuition Fee Payment, you can start making arrangements to travel to Ireland. You will be requested to complete ourGriffith College Online Arrival Formto confirm your travel details and accommodation arrangements. Shortly after completing yourGriffith College Arrival Form, you will receive an email inviting you register with the College.
+
+Information regarding registration with Griffith Collegeoutside of Irelandcan be foundhere
+
+If you are registering with Griffith College and you arealready living in Ireland, you can find informationhere.
+
+### On Arrival
+
+## Can the College arrange an Airport Collection for me?
+
+Griffith College provides a FREE Airport Collection Service for all new students. In order to avail of this Airport Collection Service, you must have completed ourGriffith College Arrival Form. Further information is availablehere.
+
+## Can I open a Bank Account in Ireland?
+
+Once you have registered with the College you can order a “Bank Letter” from the International Office and use it to open an Irish Bank Account.
+
+Please seeherefor detailed instructions.
+
+## What is a “PPS Number” and how do I apply for one?
+
+If you want to work in Ireland you’ll need a PPS Number (Personal Public Service Number). In addition, if you will be graduating with a degree award you will need a PPSN in order to receive your degree award certificate. Once you have registered with Griffith College, you can request a‘PPS Letter’from the International Office. Step by step instructions to apply for a PPS Number can be foundhere.
+
+## How do I apply for a Student Travel Card – “Leap Card”?
+
+The Student Travel Card in Ireland is called the “Leap Card” which, enables students to travel via bus, train and tram. To apply for the Student Leap Card, you can request a ‘General Verification Letter’from the International Office, and submit it with your application for the Leap Card. You can watchthis videoto find out more details about the process and further information is available on the Leap Card websitehere.
+
+## How do I get an Irish phone number?
+
+Students can purchase a SIM card by approaching any Irish mobile/cell service provider. The following are most popular amongst our students:
+
+- ThreeMobile
+
+- VodafoneMobile
+
+- EirMobile
+
+- An Post Mobile
+
+- Tesco Mobile
+
+- Virgin Mobile
+
+The providers below are less popular and may have more limited coverage but often offer cheaper plans:
+
+- 48 Mobile
+
+- GoMo
+
+- Lycamobile
+
+- Clear Mobile
+
+## Acccommodation
+
+## What type of accommodation is available?
+
+Dublin Campus
+
+On-campus accommodation is available for students attending our Dublin campus. For information on availability and fees, please visitDublin Student Accommodation | Griffith Halls of Residenceor emaillive@griffith.ie
+
+If a student wishes to stay with a Host Family, please emailinternational@griffith.iefor more information.
+
+Limerick Campus
+
+Information for academic students on accommodation please emailinfo.gcl@griffith.ie
+
+Cork Campus
+
+For information on accommodation please emailadmissions.gcc@griffith.ie
+
+## Can I view the College accommodation online before booking my place?
+
+Yes, a virtual tour of our Halls of Residence is availablehere.
+
+## How do I apply for on campus accommodation for the Dublin Campus?
+
+To apply for on campus accommodation, students must have already received an offer letter from the College and paid a minimum deposit towards their tuition fees. For more information about the accommodation booking process please see here:https://www.griffith.ie/ghr
+
+## Bridging Programmes
+
+## What are Bridging Programmes?
+
+There are a small number of Griffith College programmes which are preceded with a Bridging Programme for certain students, to help support their preparedness for their upcoming programme. Bridging Programmes are designed to assist students in transitioning to higher-level study, and to introduce and reinforce key discipline concepts that will support learning and engagement.
+
+Is it mandatory for all students to do a Bridging Programme?
+
+No! Certain students undertaking a small number of programmes may be required to do a Bridging Programme. See below for more information.
+
+## How will Bridging Programmes be delivered?
+
+Bridging Programmes may be delivered online through the College's Virtual Learning Environment - Moodle, or in person on-campus through lectures, workshops or practical sessions. Programme Directors design the delivery of their Bridging Programmes to ensure an optimum learning experience.
+
+## When will Bridging Programmes take place?
+
+There are recurring Bridging Programmes at Griffith College:
+
+- Undergraduate Design Faculty Programmes:
+
+Students granted advanced entry into a Design-programme may be asked to complete a Bridging Programme generally lasting 2 or 3 weeks. Further information will be detailed on offer letters, where relevant.
+
+- MSc in Pharmaceutical Business Management:
+
+Most students registering for this programme are required to take one and/or two bridging modules. In some instances, students may be exempt from both bridging modules, or be required to take both, depending on their academic background.
+
+- Finance for Non-Financial Managers (FNFM) is a learning support for students who join the programme with insufficient professional and/or academic business experience. This module will be delivered concurrently with your programme of study and detailed on your timetable.
+
+- Introduction to the Pharmaceutical Industry (IPI) is a learning support for students from non-STEM (science, technology, engineering, and mathematics) backgrounds. This module will be delivered via Moodle - the College's Virtual Learning Environment platform, before the start of the academic semester.
+
+## Will I have to pay for my Bridging Programme?
+
+Any costs for bridging studies are built into the College tuition structure. No additional fees apply for students undertaking bridging studies.
+
+## Are there any prizes or awards given out to students in Griffith College?
+
+## President’s Award
+
+TheGriffith College President’s Awardrecognises learners who make a significant contribution to supporting and enhancing the lives of others, mostly through volunteering efforts, during their time as a student. Examples of volunteering roles and projects undertaken by learners can vary hugely depending on the learners’ particular interests, skill sets, and the needs in the specific community they wish to advance
+
+Through their voluntary support, learners can gain valuable experience and insights into the particular circumstances and needs of others, and can also directly advance their own interpersonal and leadership skills. These skills complement the knowledge and competences learners develop on their academic programmes, creating more informed and reflective graduates.
+
+Participation in the award is on an opt-in basis through an application process. The award welcomes a variety of applications and recognises that learners have various interests and different volunteering opportunities open to them. The committee which reviews the applications comprises a number of representatives from across the College’s faculties and support departments. Learners who are added to the President’s Roll of Honour receive a medal in recognition of their contribution and a letter of merit from the President of Griffith College. The letter of merit is awarded at Gold, Silver or Bronze in recognition of the effort shown and the learning from participation in the activity.
+
+## Student of the Year
+
+At every Griffith College Graduation ceremony, one exemplary student wins the “Student of the Year” and they are given a prize by the College President in recognition of their high achievements academically, along with other factors which have enhanced their student experience and that of their classmates.
+
+## Faculty Awards
+
+Griffith College also has a long and illustrious history of award-winners and prize recipients. A number of Griffith College students have been recognised for their efforts in the fields of Law, Accounting, Journalism and Communications, Computing and Design. Griffith College works closely with the professional fields, to help our students achieve public acknowledgement for the continuous work they provide in their respective fields.
+
+## Academic Student Support Services in Griffith College
+
+## Library Services
+
+The Library Service provides access to academic resources, quiet study spaces, and research support. Librarians are available to help with referencing, information searches, and accessing digital materials.
+
+Email:library@griffith.ieLibrary Portal:Griffith College Library
+
+## Learning Support
+
+The Learning Support Service supports students with disabilities, learning difficulties and neurological differences and assists students in developing academic skills such as essay writing, time management, referencing, and exam preparation. If you need extra help with coursework, this service offers one-on-one sessions, workshops, and online resources.
+
+Email:learningsupport@griffith.ie
+
+Phone: +353 1 416 3376More Information:Learning Support Services
+
+## Learner Engagement
+
+The Learner Engagement Office provides non-academic support for students, helping with personal challenges, student well-being, and integration into college life.
+
+Email:engage@griffith.ieWhatsApp: +353 8737 32523*
+
+*Text messages only!
+
+## Careers Office
+
+The College has a dedicated Careers Office offering support and guidance to students as they explore their career path options. The office is open Monday to Friday for drop-in consultations and pre-arranged appointments. Virtual meetings are also available. In addition, the office arranges career days where high-profile companies come to the campus to meet students and discuss opportunities. Further information is available here:https://www.griffith.ie/offices/careers/students
+
+For further support, you canvisit the relevant departments on campus or submit the 'Contact Us' form.Griffith College is committed to ensuring students have the resources they need to succeed both academically and personally!
+
+## Digital Learning Support
+
+A range of Digital Learning supports is provided by various departments in the College - the Digital Learning Department, the Teaching and Learning Department, the College Library, the College IT Services Department and the Learner Support Teams. Students can seek out information on all forms of digital resources. Certain supports will be less relevant for international learners who are based full-time on campus.
+
+Email:e-learningsupport@griffith.ie
+
+More Information:https://qrfy.io/p/eYyLYijD_o
+
+## Griffith College Blog
+
+Griffith College's Blogfeatures various posts regarding events, spotlights on successful students and additional resources. Below are some examples that you might be interested in:
+
+Top 5 Best Apps for College Students to Stay Organised and Productive
+
+Exam Tips for Students: Effective Stress Management
+
+### General Student Services
+
+## International Office
+
+The International Office is the first point of contact for international students, offering guidance on College admission requirements and procedures, immigration, accommodation, cultural adjustment, and general student queries. The team provides support throughout your studies and can direct you to the appropriate services within the College.
+
+Email:international@griffith.ieWhatsApp: +353 87 102 1230*Phone: +353 1 415 0400Resources:International Student Resources
+
+*Text messages only!
+
+## IT Services
+
+The IT Services Department assists students with issues related to their college email, Wi-Fi access, Moodle, printing, and other technical support.
+
+Email:helpdesk@griffith.iePhone: +353 1 415 0499
+
+Resources:https://www.griffith.ie/offices/it-services/learner-information
+
+## Student Activities
+
+Griffith College offers a variety of sports, clubs, and extracurricular activities to enhance student life. Whether you enjoy team sports, fitness classes, cultural events, or social trips, there’s something for everyone.
+
+- Email:activities@griffith.ie
+
+- Event Calendar & Details:Student Activities Guide(PDF file)
+
+- Instagram:Activities Team
+
+## Students’ Union (SU)
+
+The Griffith College Students' Union (SU) represents students, organises events, and provides support on academic and welfare issues. You can get involved in student activities, voice concerns, or seek advice on college-related matters.
+
+Email:su@griffith.ieWebsite:Griffith College SUInstagram:@griffith_su
+
+Facebook:https://www.facebook.com/GCDSU/
+
+## Counselling Service
+
+The Counselling Service provides free, confidential support to students facing personal challenges, stress, or mental health concerns. You can access in-person, on-campus and off-campus, or virtual counselling sessions by appointment.
+
+More Information:Counselling Service Poster(PDF file)
+
+## Student Fees
+
+The Student Fees Office provide financial information for students at Griffith College.
+
+- Email:studentfees@griffith.ie
+
+- Telephone: 01 4163335
+
+- Room: D006
+
+## View Contact Details
+
+Dublin - Main Campus+353 1 415 0400international@griffith.ieadmissions@griffith.ie
+
+Cork+353 21 450 7027international@griffith.ieadmissions.gcc@griffith.ie
+
+Limerick+353 61 310 031international@griffith.ieadmissions.gcl@griffith.ie
+
+Dublin City Centre+353 1 415 0450admissions.citycentre@griffith.ie
+
+## My Griffith
+
+- MyGriffith
+
+- Moodle
+
+- Students' Union
+
+- Library
+
+- Learner Hub
+
+- Fees & Payment
+
+- Careers Service
+
+## Resources
+
+- Quality Assurance
+
+- Learner Protection
+
+- Accommodation
+
+- Alumni
+
+- School Liaison
+
+- Data Protection
+
+- Web Accessibility
+
+- Prospectus
+
+- Student Handbook 24/25
+
+- Research and Innovation Hub
+
+- Partners
+
+- Diverse University Alliance
+
+## Useful Links
+
+- About Griffith
+
+- Jobs at Griffith College
+
+- Our People
+
+- Conference Centre
+
+- News
+
+- Events
+
+- Blog
+
+- GC50
+
+- Media Library & Press Resources
+
+- Griffith College Dublin Virtual Tour
+
+- CINNTE Institutional Review
+
+- Health & Safety Statement(PDF file)
+
+- Privacy & Legal
+
+- Cookie Policy
+
+- Sitemap
+
+© Copyright Griffith College 2025. All rights reserved. Griffith College is registered in Ireland as Bellerophon Limited. Registered Office: Griffith College, South Circular Road, Dublin 8, D08V04N. Registration No. 60469.

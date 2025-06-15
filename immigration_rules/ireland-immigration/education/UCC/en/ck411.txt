@@ -1,0 +1,516 @@
+# UCC University College Cork
+
+# Admissions OfficeIontrálacha
+
+- Courses
+
+- My UCCHomeVisited PagesFavouritesStaffCurrent StudentsContactLibraryVisit UCCRegistrationWellbeingAsk UCCJob VacanciesTimetablesCanvasExaminationsProgramme and Course Descriptions
+
+- HomeVisited PagesFavourites
+
+- Home
+
+- Visited Pages
+
+- Favourites
+
+- StaffCurrent StudentsContactLibrary
+
+- Staff
+
+- Current Students
+
+- Contact
+
+- Library
+
+- Visit UCCRegistrationWellbeingAsk UCCJob VacanciesTimetablesCanvasExaminationsProgramme and Course Descriptions
+
+- Visit UCC
+
+- Registration
+
+- Wellbeing
+
+- Ask UCC
+
+- Job Vacancies
+
+- Timetables
+
+- Canvas
+
+- Examinations
+
+- Programme and Course Descriptions
+
+- Search
+
+- StudyCoursesUndergraduatePostgraduateInternational OfficeAdult Continuing EducationOnline CoursesContinuing Professional DevelopmentMicro-credentialsScholarships and PrizesTransition-In ProgrammeGraduate AttributesAskIncoming First Year StudentsApply to UCCEvents for Prospective StudentsParents and Guardians InformationApprenticeshipsCúrsaí Staidéir in COC
+
+- Courses
+
+- Undergraduate
+
+- Postgraduate
+
+- International Office
+
+- Adult Continuing Education
+
+- Online Courses
+
+- Continuing Professional Development
+
+- Micro-credentials
+
+- Scholarships and Prizes
+
+- Transition-In Programme
+
+- Graduate Attributes
+
+- Ask
+
+- Incoming First Year Students
+
+- Apply to UCC
+
+- Events for Prospective Students
+
+- Parents and Guardians Information
+
+- Apprenticeships
+
+- Cúrsaí Staidéir in COC
+
+- Research and InnovationAboutNewsOur TeamResearchUCC InnovationUCC FuturesAwardsContact Us
+
+- About
+
+- News
+
+- Our Team
+
+- Research
+
+- UCC Innovation
+
+- UCC Futures
+
+- Awards
+
+- Contact Us
+
+- Discover UCCUCC in the world university rankingsHistoryNews and ViewsLeadership and StrategyCampus LifeWorld's First Green CampusVisit UCCCork City and RegionUCC ArboretumCulture Night
+
+- UCC in the world university rankings
+
+- History
+
+- News and Views
+
+- Leadership and Strategy
+
+- Campus Life
+
+- World's First Green Campus
+
+- Visit UCC
+
+- Cork City and Region
+
+- UCC Arboretum
+
+- Culture Night
+
+- Schools & DepartmentsAcademic Schools and DepartmentsSupport and Service Departments
+
+- Academic Schools and Departments
+
+- Support and Service Departments
+
+- Business and IndustryAccess TalentSkills for WorkAdvance ResearchAccelerate InnovationSupport UCC
+
+- Access Talent
+
+- Skills for Work
+
+- Advance Research
+
+- Accelerate Innovation
+
+- Support UCC
+
+- Alumni & DevelopmentSupport UCCDonor ImpactDiscover our AlumniExplore BenefitsRegister for UCC Alumni OnlineMake a Gift
+
+- Support UCC
+
+- Donor Impact
+
+- Discover our Alumni
+
+- Explore Benefits
+
+- Register for UCC Alumni Online
+
+- Make a Gift
+
+- Home
+
+- Visited Pages
+
+- Favourites
+
+You should be seeing some content in this space that is currently blocked due to cookie settings. Open the Cookie Management Tool to change your settings.
+
+- Website
+
+- People
+
+- Courses
+
+- Home
+
+- Visited Pages
+
+- Favourites
+
+You should be seeing some content in this space that is currently blocked due to cookie settings. Open the Cookie Management Tool to change your settings.
+
+UCC Undergraduate courses
+
+## Data Science & Analytics
+
+- Course Outline
+
+- Course Practicalities
+
+- Why Choose This Course
+
+- Requirements
+
+- Fees and Costs
+
+- How To Apply
+
+Updated
+
+14 Oct 2024
+
+Save to Favourites
+
+Share
+
+- Twitter
+
+- Facebook
+
+- Linkedin
+
+- Email
+
+- Study
+
+- Undergraduate
+
+- Courses
+
+- Data Science and Analytics
+
+## Course Outline
+
+Data Science & Analytics focuses on new ways to capture and understand data from the world around us. It helps us make better decisions for people, communities and industry.
+
+Our BSc in Data Science & Analytics degree at UCC provides education in data storage, manipulation and interpretation using mathematical sciences and computational methods which assists us in solving complex real-world problems. In the first and second year, you will study the mathematical and computational foundations of data science and analytics. During the third year, you begin applying the fundamentals of data science and analytics to real-life problems and data.
+
+In the Spring of third year, you undertake a six-month work placement (which is paid in most cases), providing an opportunity to apply the knowledge you have learned in a workplace environment.
+
+In the fourth year, you choose specialised modules and undertake an independent project, which enables you to investigate more applied elements of the discipline.
+
+- CS1106Introduction to Relational Databases (5 credits)
+
+- CS1112Foundations of Computer Science I (5 credits)
+
+- CS1113Foundations of Computer Science II (5 credits)
+
+- CS1117Introduction to Programming (15 credits)
+
+- AM1054Mathematical Software (5 credits)
+
+- MA1058Introduction to Linear Algebra (5 credits)
+
+- MA1059Calculus (5 credits)
+
+- ST1050Statistical Programming in R (5 credits)
+
+- ST1051Introduction to Probability and Statistics (5 credits)
+
+Plus 5 credits from the following:
+
+- AM1053Introduction to Mathematical Modelling (5 credits)
+
+- ST1401Introduction to Operations Research (5 credits)
+
+### Academic Programme Catalogue
+
+See theAcademic Programme Cataloguefor the complete and up-to-date content for this course. Note that the modules for all courses are subject to change from year-to-year. For complete descriptions of individual modules, see theBook of Modules.
+
+## Course Practicalities
+
+- This is a full-time course expecting a full-time commitment. The annual 60-credits workload typically equates to 12 hours of lectures per week and a comparable amount for laboratory work and tutorials.
+
+## Why Choose This Course
+
+> The blend of theoretical and practical skills of Data Science are incredibly impactful and universal - allowing us to extract insights from data to further our understanding of the world...
+
+### Andrew Nash, Student
+
+> The blend of theoretical and practical skills of Data Science are incredibly impactful and universal - allowing us to extract insights from data to further our understanding of the world, make better decisions and improve outcomes in almost any field of work and study.
+
+The blend of theoretical and practical skills of Data Science are incredibly impactful and universal - allowing us to extract insights from data to further our understanding of the world, make better decisions and improve outcomes in almost any field of work and study.
+
+> I chose to study Data Science & Analytics because, for me, it's the perfect blend of maths and computer science...
+
+### Ruth Bergin, Student
+
+> I chose to study Data Science & Analytics because, for me, it's the perfect blend of maths and computer science. The field of data science is growing rapidly, and its dynamic nature affords lots of opportunities to work on a diverse range of topics.
+
+I chose to study Data Science & Analytics because, for me, it's the perfect blend of maths and computer science. The field of data science is growing rapidly, and its dynamic nature affords lots of opportunities to work on a diverse range of topics.
+
+- 1
+
+The BSc in Data Science and Analytics at UCC is one of few such programmes being offered in Ireland today. Our course will provide you with an education in data storage, manipulation and interpretation, usingmathematical sciences and computational methods which will assist you to solve complex real-world problems.
+
+This programme will suit you if have an aptitude for mathematics, logic and computational thinking, an enquiring mind and a willingness to adapt.
+
+Graduates of the UCC BSc in Data Science and Analytics have vast opportunities in a wide variety of industries as there is a high global demand for graduates with data science expertise. Since data science is an emerging field, with only a limited number of degree programmes available, on graduation you will be able to fulfil the increasing demand for these specialist skills. Almost all sectors of the economy and community need to understand the enormous data sets available.
+
+### Placement or Study Abroad Information
+
+The BSc Data Science & Analytics aims to ensure that you are work-ready. Work placement is a core module undertaken from Spring until August in Year 3.
+
+To find a placement organisation, you will work with the Careers Service. They will help you with interviews and keep in contact with you during placement. Usually you will complete your third-year examinations in December, return to campus for an 8 week semester in January, and then go on work placement from March to August (inclusive).
+
+The placement helps you put academic theories into practice, improves your confidence, allowing you to travel and gain experience, and certainly increases your employability. Working in a company setting provides you with additional skills that cannot be taught through lectures or in the laboratory. During placement, you will work as part of a team to solve real problems. Your placement is jointly monitored by a UCC academic staff member and an employee of the company.
+
+### Skills and Careers Information
+
+As a data science graduate, you will have studied computer science, statistics, mathematics and applied mathematics, which qualifies you to progress to numerous taught and research-led Masters or PhD programmes in Mathematical Sciences or Computer Science. Programmes to consider in UCC include:
+
+- MSc Computing Science
+
+- MSc Actuarial Science
+
+- MSc Financial & Computational Mathematics
+
+- MSc Bioinformatics & Computational Biology
+
+- MSc Mathematical Modelling & Machine Learning
+
+- MSc Statistics (by research)
+
+Firms specialising in analytics, financial services and consulting, and governmental agencies, to name but a few, are currently seeking graduates with data analytics skills to fill a range of positions.
+
+The World Economic Forum predicts that by 2022, data scientists and analysts will become the number one emerging role in the world. Data science experts are needed in virtually every job sector, not just technology. In the US, the average data scientist salary is US$113,000, according to Glassdoor. (World Economic Forum 2020)
+
+Practically all sectors of the economy employ Data Scientists.  The following list provides some insight into sectors and companies that use such skills:
+
+- Bankinge.g. AIB, BoI, Central Bank, Citi
+
+- Energye.g. Bord Gas, Electric Ireland
+
+- Financial Servicese.g. Elavon, Pramerica
+
+- Food & Agriculturee.g. Kerry, Glanbia
+
+- Gaminge.g. Paddy Power, Xanadu, Betbright
+
+- Governmente.g. CSO, Revenue, HSE
+
+- Healthe.g. HSE, HIQA, Optum
+
+- Insurancee.g. Allianz, Aviva, Aon
+
+- Management Consultancye.g. EY, PWC, FTI Consulting, Deloitte, Accenture, Clarion, KPMG
+
+- Marketing, Media & Communicatione.g. Core Media, Vodafone, Eir, 3
+
+- Pharmaceuticale.g. Abbott, Novartis, Regeneron, Johnson and Johnson, Pfizer
+
+- Researche.g. ESRI, Universities, Insight
+
+- Retaile.g. Dunnes Stores, Tesco, Super Valu, Amazon, Wayfair
+
+- Softwaree.g. SAS, SPSS
+
+- Sporte.g. Munster Rugby, GAA, RTE, Sky Sports
+
+- Technologye.g. IBM, EMC, HP, Apple, Microsoft, Google, Dell, Facebook, Intel, Version 1
+
+## Requirements
+
+At least six subjects must be presented. Minimum grade H3 in one subject, minimum grade H5 in one subject and minimum grade O6/H7 in four other subjects.  English and Irish are requirements for all programmesunless the applicant is exempt from Irish.
+
+Applicants will need to meet the following minimum entry requirements:
+
+EU/EFTA/UK applicants presenting an equivalent school-leaving qualification should review theEU/EFTA/UK Applicantspage for information on equivalent grades and how to prove their level of English.
+
+To compete through the mature entry route, applicants must be 23 years of age on or before 1 January of the application year andapply online via the CAOby 1 February. The application should include a statement of interest. Applicants may also be called for interview.
+
+Applicants must have studied Maths at second level or QQI FET or demonstrate involvement with Maths related areas.
+
+Further information on applying as a mature student is available on theMature ApplicantsandMature Student Entrysupport pages.
+
+Non-EU applicants are expected to have educational qualifications of a standard equivalent to the Irish Leaving Certificate. In addition, where such applicants are non-native speakers of the English language they must satisfy the university of their competency in the English language.
+
+To verify if you meet the minimum academic and language requirements visit ourqualification comparison pageand refer to ourInternational Office pagefor more information.
+
+## Fees and Costs
+
+- Whether you are an EU or Non-EU student will affect the course fees applicable to you. See more information onEU Fees, Non-EU Fees, or Free Fees Status.
+
+- The State will pay the tuition fees for EU students who are eligible under the Free Fees Scheme. The annual student contribution and capitation fees are payable by the student.
+
+- See theFee Scheduleto find out the course fee.
+
+- Check outscholarshipsthat may be available to you.
+
+- Explore ourNurturing Bright Futuresfree online course (Module 5) to learn about managing your money as a student and budgeting for university life.
+
+## How To Apply
+
+Apply via theCAO. See theCAO Handbookfor useful information on applying through the CAO.
+
+Apply via theCAOby 1 February.To apply for a place as a mature student, you must be 23 years of age on or before 1 January of the year of entry.
+
+Apply via theCAO.See ourQQI/FET Applicantspage for information on the Quality and Qualifications Ireland (QQI) Further Education and Training (FET) application process and whether there are routes available to this course.
+
+If you are from outside the EU/EFTA/UK, applyonline via theUCC Applyportal. See ourInternational Officepage for more information.
+
+## Contact Details For This Course
+
+- Professor Gregory Provan
+
+- bsc_dsacoordinator@cs.ucc.ie
+
+- +353 (0)21 420 5892
+
+- http://www.ucc.ie/en/compsci
+
+- Luke Kelly
+
+- LKelly@ucc.ie
+
+## Data Science in 30 Seconds
+
+## Visit UCC
+
+## Visit the College
+
+## University College Cork
+
++353 (0)21 490 3000Location MapsUniversity College Cork is a registered charity with the Charities Regulatory Authority,RCN 20002466
+
+## Bring me to
+
+- Study
+
+- Research
+
+- Discover UCC
+
+- Schools & Departments
+
+- Business and Industry Engagement
+
+- Alumni
+
+## MyUCC
+
+- STAFF
+
+- CURRENT STUDENTS
+
+- Contact
+
+- Library
+
+- Visit UCC
+
+- Registration
+
+- Canvas
+
+- Ask UCC
+
+- Timetables
+
+- Programme and Course Descriptions
+
+## Show me
+
+- Sitemap
+
+- Legal
+
+- Report Abuse
+
+- Privacy
+
+- Cookies
+
+- Acceptable Use Policy
+
+- Accessibility Statement
+
+- Report an issue with the website
+
+## For queries regarding course content or timetables please contact
+
+- bsc_dsacoordinator@cs.ucc.ie
+
+- LKelly@ucc.ie
+
+## About Cookies
+
+We use necessary cookies to make our site work. We’d also like to set other cookies to help us improve the browsing experience and assist in our marketing efforts. These will be set only if you accept.  You can control the categories of cookies enabled by selecting the options within this banner. You can also get more information, and modify your cookie preferences at any time by clicking on the cookie settings button, within ourCookie Policy
+
+## Privacy Preference Centre
+
+- Your Privacy
+
+### Your Privacy
+
+- Strictly Necessary Cookies
+
+### Strictly Necessary Cookies
+
+- Functional Cookies
+
+### Functional Cookies
+
+- Performance Cookies
+
+### Performance Cookies
+
+- Targeting Cookies
+
+### Targeting Cookies
+
+When you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you but it can give you a more personalised web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and to select which cookies you wish to enable. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.
+We also use strictly necessary cookies which cannot be turned off.
+
+These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.
+
+These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.
+
+These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance. Enabling these cookies will trigger international data transfers outside the EEA.
+
+These cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising. Enabling these cookies will trigger international data transfers outside the EEA.
+
+### Back
+
+- View Third Party CookiesNamecookie name
+
+- Namecookie name

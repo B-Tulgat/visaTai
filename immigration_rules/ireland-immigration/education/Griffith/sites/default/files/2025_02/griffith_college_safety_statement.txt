@@ -1,0 +1,3633 @@
+Rev - 3 (Mar 2019)
+
+Safety Statement
+
+ 
+
+Dublin South Circular Road
+Dublin Wolfe Tone Street
+Cork
+Limerick
+
+Key Safety Roles
+Reg Callanan — Director of Griffith College
+Ronan Fenelon — Director of Griffith College
+Alan Wright — Safety Officer Griffith College Dublin
+Liam Atkins and Thomas Kelleher — Safety Coordinators Griffith College Dublin
+Mairead Lawless — Safety Officer Dublin Wolfe Tone Street
+Ciaran McIntyre — Safety Coordinator Dublin Wolfe Tone Street
+Jim Daly — Safety Officer Griffith College Cork
+Noel Daly — Safety Coordinator Griffith College Cork
+Kevin O’Sullivan — Safety Officer Griffith College Limerick
+
+Kevin O’ Sullivan — Safety Coordinator Griffith College Limerick
+
+ 
+ 
+
+Rev — 3 (Mar 2019)
+
+Contents
+
+Safety Statement
+
+1. Declaration of Policy
+
+2. Safety Policy
+
+3. Safety Management Structure and Responsibilities
+
+3.9
+3.10
+
+The President
+
+The Management Board
+
+Directors of Management Board with Responsibility for Health and Safety
+Head of Faculty/Department and Line Manager
+
+Campus Companies
+
+Campus Services/Facilities Department
+
+Campus Services/Facilities Manager
+
+Contractors
+
+Safety Officer
+
+Safety Coordinator
+
+3.11 Employees (Including Lecturers)
+3.12 Employer
+3.13 Health and Safety Organisation Chart
+
+4. Communication of the Safety Statement
+4.1 Resources
+4.2 Hazard and Risks
+4.3 Hazard Identification
+
+Physical Hazards
+Chemical Hazards
+Psychological Hazards
+
+4.4 Risk Assessment
+
+5. Control Measures
+5.1 Physical Hazards
+
+Control Measures for Furniture and Work Equipment
+Control Measures for Noise
+
+Control Measures for Vibration
+
+Control Measures for Light
+
+Control Measures for Temperature
+
+Control Measures for Violence
+
+Control Measures for Lone working
+
+Control Measures for Safe Access/Exit
+
+Control Measures for Safe use of Equipment
+
+Control Measures for Manual Handling
+
+Control Measures for Electricity
+
+Control Measures for Slips/Trips/Falls
+
+Control Measures for Visual Display Units, Work Stations and Breaks
+Control Measures for Storage
+Rev — 3 (Mar 2019)
+
+5.2 Control Measures
+Chemical Hazards
+Material Data Sheets
+Carcinogens
+Chemical Usage
+5.3 Control Measures
+Psychological Hazards
+Prevention of Bullying and Harassment
+Sexual Harassment
+Stress
+5.4 Control Measures
+Personal Protective Equipment (PPE)
+Safety Head Wear
+Gloves
+Eye Protection
+Safety Foot Wear
+Safety Harness
+Hearing Protection
+5.5 Control Measures — Segregation of Waste
+5.6 Control Measures — No smoking Buildings
+5.7 Control Measures — Security
+5.8 Control Measures — Pregnant Employees
+
+6.0 Fire and Emergency Management
+6.1 Means of Escape
+6.2 Emergency Drills
+6.3 Fire Alarms
+6.4 Firefighting Equipment
+6.5 Emergency Lighting
+6.6 Fire Doors
+6.7 Fire Policy
+6.8 Duties of College Fire Marshals
+6.9 Fire Action — College Fire Marshals
+6.10 Fire Action - All employees, students and contractors
+6.11 First Aid
+6.12 Fire Brigade hand over folder
+6.13 List of First Aid Personnel
+6.14 Location of First Aid Boxes
+6.15 Minimum Contents of First Aid Boxes
+6.16 Care of Injured Party
+6.17 Automatic External Defibrillator (AED)
+
+7.0 Risk Management and Accident/Incident Reporting
+
+What to do if you have an accident
+Duties of the line manager in the case of an accident
+Duties of The Health and Safety Coordinators in the case of an accident
+Duties of the First Aider in the case of an accident
+
+7.1 Procedure for reporting Health and Safety Issues
+
+7.2 Accident and Incident Report Form Dublin and Cork _
+
+7.3 Accident and Incident Report Form Limerick
+
+7.4 Hazard and Risk Assessment Work-Sheets
+
+ 
+ 
+
+Rev — 3 (Mar 2019)
+
+8.0 Training
+8.1 Health and Safety Training Records
+8.2 Train the Trainers Programmes
+8.3 Manual Handling Training
+
+9.0 Review of the Safety Statement
+9.1 Review Checklist
+
+Appendix 1
+
+App 1.1 List of Trained Fire Marshals
+
+App 1.2 List of Key Contacts
+
+App 1.3 Location of Accident/Incident report form/book
+
+Appendix 2
+App 2.1 Sample Risk Assessment and Method Statement
+Rev — 3 (Mar 2019)
+
+Griffith College Safety Statement
+
+1. Declaration of Policy
+
+The President and the Management Board of Griffith College are committed to providing, so far as is
+reasonably practicable, a safe and healthy werk environment for all employees and to meet its
+responsibilities under the Safety Health & Welfare Act 2005, (SHWA) in relation to students, visitors,
+contractors and any other persons who may come in contact with the work activities of the college.
+
+In accordance with the SHWA, Griffith College has prepared this Safety Statement which outlines our
+policies on health and safety matters, the management structure and the associated responsibilities for
+health and safety. Specific safety and health issues relevant to the College are detailed in this statement.
+
+Under this Act, everyone, especially employees in a management role, has a responsibility for ensuring
+compliance where they work.
+
+All employees are obliged to comply with the safety and health rules and procedures currently in place
+and those devised and implemented in the future.
+
+We want all our employees to enjoy a safe working environment and have put in place the necessary
+mechanisms to ensure that as far as is reasonable practicable this is the case. However, the personal safety
+and health at work is also the responsibility cf each employee, student, visitor, contractor and the actions
+and behaviour of each will determine his/her level of protection against accidents or injury. All employees
+must work safely and think of others. It is important that employees know and understand the risk
+assessments for their area and report all safety and health matters to their line manager and contact their
+safety representative with any safety and health matters.
+
+Remember, all employees must read and understand this Safety Statement.
+
+This Safety Statement will be reviewed on a regular basis and updated as necessary in light of changes in
+legislation, operations and technical progress.
+
+Staff are encouraged to pit forward suggestions for improvements to this documentation.
+
+      
+
+t
+Date 0 AAC /9- Reg Callanan Director Griffith College
+
+ 
+
+ 
+
+ 
+
+GRIFFITH COLLEGE
+
+ 
+ 
+
+Rev-3 (Mar 2019)
+
+2. Safety Policy
+
+It is the policy of the Griffith College to ensure that all measures reasonably practicable are taken to
+ensure the safety, health and welfare at work of all employees and to ensure that non-employees, who
+may be affected by the College activities, are not exposed to safety and health risks.
+
+In accordance with the SHWA, the College shall ensure, so far as is reasonably practicable:
+
+e Manage and conduct work activities in such a way as to prevent any improper conduct or
+behavior likely to put the safety, health or welfare at work of employees and non-
+employees at risk.
+
+e Provide and maintain a working environment that is safe, healthy and without risks.
+
+e Ensure the design, provision and maintenance of safe means of access to, and exit from,
+its premises.
+
+e Ensure that all plant, machinery, equipment or appliances of the College are safe and
+without risk to the safety, health and welfare at work of all people.
+
+e Ensure the prevention of risk to the health of employees and non-employees relating to the
+use of any article/substance/exposure to noise/vibration or any other physical agent.
+
+e Provide systems of work that are planned, organized and maintained so as to be safe and
+without risk to health.
+
+e Provide and maintain facilities and arrangements for the welfare of employees and non-
+employees at work.
+
+e Provide information, instruction, training and supervision as is necessary to ensure
+employees are capable and competent in carrying out their duties.
+
+e Provide and maintain such suitable protective clothing and equipment as is necessary to
+ensure the safety, health and welfare at work of employees.
+
+Prepare and revise as necessary adequate emergency plans and procedures.
+Determine and implement the measures necessary for the protection of the safety, health
+and welfare of employees and non-employees.
+
+e Report accidents/dangerous occurrences, as may be prescribed, to the Health and Safety
+Authority or to a person prescribed in the SHWA.
+
+e Obtain where necessary the services of a competent person for the purpose of ensuring the
+safety, health and welfare at work of all employees and non-employees.
+
+e Ensure that contractors employed on the College premises are competent and that they
+conduct their operations in accordance with the College's Safety Statement.
+
+Griffith College will provide the necessary resources, structures and procedures required to safeguard
+against the risks arising from activities in the workplace.
+
+3. Safety Management Structure and Responsibilities
+To implement the College Safety Statement there must be an effective safety management structure
+which demonstrates the individual areas of responsibilities. This structure provides feedback via the
+Safety Officer to the Directors of the Management Board who reports to the President and the
+Management Board.
+3.1 The President
+e Incompliance with the relevant provisions under the SHWA and other occupational safety
+legislation, the President has ultimate responsibility to ensure, as far as is practicable, the
+safety, health and welfare at work of employees and non-employees.
+e The President must ensure that all members of the Board of Directors have a clear
+understanding of the key safety and health issues for the College and are apprised of the risks
+likely to arise.
+Rev-3 (Mar 2019)
+
+3.2 The Management Board
+
+The Management Board oversees the management of the College and consists of the President and
+nine other senior staff members from a wide range of senior roles within the college.
+
+The Management Board:
+
+e Is responsible for ensuring that due cognizance is given to safety and health in all
+operational decisions, all academic and administrative activities, maintenance of the
+campus and adaptation of buildings.
+
+e Must understand their legal responsibilities and their role in governing safety and health.
+
+e Must provide adequate financial resources for campus health and safety.
+
+Reg Callanan and Ronan Fenelon have been delegated by the Management Board to co-ordinate
+matters relating to Safety, Health and Welfare.
+
+3.3 Directors of Management Board with Responsibility for Health and Safety
+The Directors of the Management Board are responsible for the establishment and maintenance of an
+effective Health and Safety Policy by ensuring that:
+
+e Directors, Heads of Faculty/Department and Heads of Campus Companies and all line
+managers implement and maintain compliance with the College Safety Statement.
+Safety considerations are an integral part of the management program.
+
+Necessary financial resources are available to implement the policy.
+
+Appropriate remedial action is taken on reported accidents/incidents.
+
+All staff are held accountable for their performance in relation to safety and health.
+Incidents which cause injury/property damage or near misses are systematically reviewed.
+The Safety Statement is reviewed regularly.
+
+3.4 Head of Faculty/Department and Line Manager
+
+The Head of Faculty/Department and Line Managers carry the responsibility and authority for safety
+and health matters within their faculty/department. They must report to the Safety Coordinators or the
+Safety Officer or College Safety Representative. They are responsible to ensure full implementation of
+College’s Safety Statement. Each Head of Faculty/Department shall take all reasonable steps within
+their power to ensure as far as is reasonably practicable the safety, health and welfare at work of all
+employees within their respective faculties/departments.
+
+Each Head of Faculty/Department and Line Manager shall ensure the following:
+
+e Procedures for doing a job safely are provided for each employee.
+
+e There are no hazards left uninvestigated within their faculty/department. When a hazard is
+identified the line manager shall examine the various options available to eliminate the hazard.
+If the problem can only be resolved by significant expenditure he/she shall present the options
+available to the Safety Officer.
+
+e The implementation of the College Health and Safety policies and procedures within his/her
+faculty. The Head of Faculty/Department can nominate a Safety Representative to oversee
+matters relating to the management of safety of individuals, buildings and/or equipment.
+
+e All persons under his/her control are competent to carry out their work and have received
+adequate training in safety procedures.
+
+e The training needs of each of their employees is identified ensuring each has the necessary
+training necessary to secure their own safety and that of anyone affected by their actions. This
+training may be identified at the Performance Management meetings.
+
+e The safety and health of all persons working, studying or visiting their faculty/department, so
+far as is reasonably practical.
+
+e Persons under his/her control have read and understand the Safety Statement.
+
+e All hazards in the faculty/department are identified and risks controlled.
+
+e The Safety Statement addresses all safety, health and welfare issues relevant to the
+faculty/department.
+
+ 
+ 
+
+Rev-3 (Mar 2019)
+
+e Arranging for the provision of adequate and appropriate personal protective equipment (PPE)
+for their employees, as identified in the risk assessment.
+
+e All accidents/incidents/near misses which cause personal injury/property damage must be
+reported on the Accident/Incident Report form. For details of the form/book location please
+see Appendix 1.
+
+e Immediate inspection of any hazard reported and take the required corrective action, and
+reporting to one of the Safety Coordinators.
+
+e All hazards are checked after they have been remedied to ensure safe working conditions have
+been restored.
+
+e All moving parts of machinery are adequately guarded.
+
+e All new machines or equipment conform to current regulations for health and safety.
+
+e As far as is reasonably practicable, that adequate information will be available for any
+materials or equipment purchases to ensure its safe use and care.
+
+e Good housekeeping is observed; fire equipment and all exits are maintained and kept free of
+obstructions.
+
+e The Evacuation and First Aid procedures are implemented and that sufficient Fire
+Marshals/First Aid personnel are appointed in their faculty/department.
+
+e Line managers are made aware of and Fire Marshals are trained in, fire and emergency
+procedures. A list of the Fire Marshals is listed in Appendix 2 of this Safety Statement.
+
+e Participation in safety inspections with the Safety Coordinators and their Safety representative
+if required to do so.
+
+e Safety standards are maintained by taking disciplinary action if and where appropriate.
+
+e Safety Statement is reviewed at least annually.
+
+e Report any health and/or safety issues to the Health and safety Officer, Safety Coordinators or
+any safety representative on site.
+
+e Ensure any new member of staff (temporary or permanent) are familiar with the College's Fire
+and Emergency Procedures via their Line Manager.
+
+3.5 Campus Companies are:
+
+Bellerophon Limited, Griffith College Property Partnership, Griffith College Publications Limited,
+Griffith College Marketing, Mid-West Business Institute GCD Limited, Griffith College Professional
+Accountancy Limited, Campus Information Technology Limited, Sino-Irish College of Accounting
+and Finance Limited, Griffith College Co-Ownership, Clarus Press Limited, Marymount Language
+Academy Limited, Colldeen Ltd (Registered in Northern Ireland) and any Parent Company Associated
+Company or Subsidiary of any of the above.
+
+The board of each company has ultimate responsibility to ensure, as far as is reasonably practicable,
+the safety, health and welfare at work of employees. Day to day responsibility for safety and health
+matters rests with the company manager or campus manager of each company. Their responsibilities
+are the same as those for Head of Faculty/Departments.
+
+3.6 Campus Services/Facilities Department
+The Facilities Department has a central role in Health and Safety Management on campus. It is
+responsible for:
+e The maintenance of all College buildings, facilities and grounds.
+The provision of fire detection and prevention measures.
+The provision of security services.
+The provision of maintenance services.
+The provision of housekeeping services.
+The management of external contractors engaged in any or all activities listed above to ensure
+in so far as is reasonably practical the safety, health and welfare of all campus users who may
+be affected by the works.
+e Ensuring that the College, as the ‘Client’ in construction projects, complies in particular with
+the Safety, Health & Welfare at Work (Construction) Regulations 2013.
+Rev-3 (Mar 2019)
+
+3.7 The Campus Services/Facilities Manager
+The Campus Services/Facilities Manager must receive, prior to the Contractor commencing work:
+
+1.
+
+Evidence that the Contractor is adequately insured for award of damages which may be
+made to any of their employees injured/contracting a disease arising out of, or in the
+course of, their employment.
+
+A copy of the Contractors’ Safety Statement at the pre-contract stage which will be placed
+on their file.
+
+3.8 Contractors
+Each Contractor must:
+
+Ensure that his/her employees/sub-contractors are competent with adequate training to
+perform the tasks they are required to do.
+
+Supply, and his employees must wear, any necessary protective equipment to protect them
+from any dangers that may exist in the College's premises.
+
+Erect and maintain scaffolding and other access equipment used by his employees in
+accordance with current regulations and Code of Practice.
+
+Ensure all plant and equipment brought onto site by him/her must be safe and in good
+working order, fitted with any necessary guards and safety devices and with any necessary
+certificates available for checking.
+
+Not bring power tools or electrical equipment of greater voltage than 110 volts onto the
+campus. All transformers, generators, extension leads, plugs and sockets must be suitable
+for industrial use, and in good condition. If it is necessary to use equipment operating
+from a 240 volt supply, a residual current device with a rated tripping current of 30M A
+and operating a 30M.SEC must be used.
+
+Not use any defective equipment.
+
+Not use any of the College's tools, ladders or other equipment.
+
+Contact the Campus Services/Facilities Manager or their representative prior to starting
+any contract. project, and receive approval for the work plan to ensure compliance with
+contract safety requirements.
+
+Familiarize themselves with all fire exits and emergency escape routes and procedures.
+Provide a hot work permit certificate to the Campus Services/Facilities Manager or their
+representative, if required and will not start such work without adequate provisions being
+in place before works begin, during works and after works are completed. For example a
+fire extinguisher is present, all flammable materials are removed from the works area to a
+safe distance and works area is inspected at a suitable time after works are completed to
+ensure that there is no ignition or re-ignition of a flame.
+
+Keep all exit routes and stairways clear of working materials and equipment to allow
+evacuation in an emergency.
+
+Ascertain the existence and location of electrical cables, drains, gas mains and water
+mains. If present, make provision for the safe working methods to take these
+utilities/services into account.
+
+Remove all hazardous equipment and materials at the end of each working day.
+
+Carry out work in a clean and orderly manner.
+
+Ensure that they have first aid arrangements for their employees.
+
+3.9 Safety Officer
+The Health and Safety Officer has the following responsibilities:
+
+Report to the Directors of the Management Board all employee welfare, health and safety
+issues.
+
+Investigate and follow up on accidents and dangerous occurrences in the College.
+
+Assist management in ensuring the safety and health of employees and the protection of
+students, contractors and visitors against accidental injury or loss.
+
+Inform contractors of the College fire safety precautions and receive assurance that they
+will be respected and complied with.
+
+ 
+ 
+
+Rev-3 (Mar 2019)
+
+Ensure that statutory examinations are carried out on plant and equipment and records
+
+maintained in the General Register.
+
+Ensure, so far as is reasonably practicable, that when contractors and sub-contractors are
+
+on the premises, employees, students, visitors and other third parties likely to be affected
+
+are advised of all hazards arising from the work undertaken.
+
+Contact the main contractor and the relevant faculty/department when it appears that
+
+unsafe work practices are being followed and take appropriate actions.
+
+Ensure that all contractors and sub-contractors have a written Safety Statement.
+
+Ensure that all containers of chemicals received, stored and/or used are correctly labeled.
+
+Obtain from the vendor a Material Safety Data Sheet (MSDS) for all chemicals in regular
+
+use. Ensure that they are readily available to all employees.
+
+Advise on legislative changes, standards and code of practice.
+
+Forecast (subject to funding) annual departmental expenditure and work to a set Health
+
+and Safety budget.
+
+Approve the expenditure of funds to support the College's safety programme.
+
+Report on the prescribed form, in accordance with current legislation, are forwarded to the
+
+Health and Safety Authority, for any work related accident:
+
+o Which causes the death of any employee
+
+o That prevents an employee from performing the normal duties of their employment
+for more than "three calendar days not including the day of the accident."
+
+Health and Safety information is disseminated within the College, including the
+
+examination and evaluation of all communications received from various inspectors
+
+appointed under current legislation.
+
+Assist in the update/revision of the College Safety Statement.
+
+Ensure the Board of Management is kept informed on the effectiveness of the College's
+
+health and safety program.
+
+With reference to fire and emergency situations: The Safety Officer will ensure that:
+
+Fire and emergency plans are established and implemented.
+
+Night security guard has adequate plans and information for dealing with emergencies
+outside normal working hours.
+
+Emergency evacuation points are established for all faculties/departments.
+
+Emergency evacuation drills are conducted twice a year.
+
+With reference to electricity: - The Safety Officer shall ensure that:
+
+10
+
+Regular inspections of all electrical installations/equipment will be carried out and
+corrective action taken when defects are reported.
+
+All equipment purchased, rented or leased is protected by an earth wire, or is labeled
+"double insulated" and that the equipment is suitably identified including its electrical
+rating, and the manufactures name.
+
+Adequate protection is being provided for equipment exposed to the elements, and to
+adverse conditions such as damp, dust, etc.
+
+All new electrical installations have been tested by a competent person.
+
+All distribution boards have been identified and that there is adequate access and egress to
+all distribution boards.
+Rev-3 (Mar 2019)
+
+3.10 Safety Coordinators
+The Safety Coordinator is responsible for the implementation of the College's Safety Statement. The
+Safety Coordinators shall ensure:
+
+e Safety and health factors are taken into consideration in all campus management decision-
+making.
+
+e Safety responsibility is properly assigned and accepted at all levels.
+
+e The Safety Statement is understood at all levels.
+
+e Accident and near miss investigation reports are submitted.
+
+e Recording and analysis of injury/incident reports. Ensure appropriate corrective action has
+been taken to reduce or eliminate the possibility of recurrence.
+
+e Highlight weekly of any accidents/incidents to the Safety Officer.
+
+e The development and implementation of the College Emergency Procedures in
+conjunction with the Safety Representative, Safety Officer and other appropriate senior
+staff.
+
+e Maintain an up to date register of all Fire Marshals and First Aiders.
+
+e Maintain a folder of information that can be handed over to the Fire Brigade should then
+have to attend an emergency event on the campus.
+
+e Obtain the services of a competent consultant for the purpose of ensuring, so far as is
+reasonably practicable, the safety and health at work of employees and non-employees,
+were necessary.
+
+The Safety Coordinators are responsible for liaising with the HR department to provide training
+necessary for employees to secure their own safety and that of anyone affected by their actions.
+In particular, the Safety Coordinators will:
+e Source and provide training in emergency evacuation procedures, first aid and
+firefighting.
+e Ensure there is an adequate number of trained and qualified personnel available to
+administer first aid and act as Fire Marshals.
+e Ensure that first-aiders are provided with the necessary first aid supplies and equipment.
+e Ensure that suitable training is provided for the College Safety Representative.
+
+3.11 Employees (Including Lecturers)
+
+The SHWA, 2005 sets out duties of employees.
+
+An employee shall not, on entering into a contract of employment, misrepresent himself/herself to an
+employer with regard to their level of health and safety training. Each employee has a responsibility
+for his/her safety and health while at work, which extends to taking reasonable care of any other
+person who would be affected by his/her acts or omissions while at work.
+
+Your duties as an employee are as follows:
+
+¢ Cooperate with management and other employees so far as is reasonably practicable as a safe
+and healthy workplace can only be satisfactorily achieved and maintained by mutual co-
+operation between all employees.
+Comply with health & safety legislation.
+Not to endanger the safety of yourself or others.
+Not to be under the influence of drugs or alcohol at work.
+Undergo any reasonable medical or other tests if requested to do so by your employer.
+Use any suitable appliances or Personal Protective Equipment (PPE) where provided.
+Not to intentionally or recklessly interfere with or misuse any appliance or equipment of PPE.
+Fire prevention and safety equipment must not be damaged or interfered with and must always
+be accessible. Keep emergency exits, stairs and corridors free from obstruction.
+Store goods in the designated areas.
+e Cables of phones, electrical equipment etc. must be placed in a way not to cause a trip.
+
+ 
+ 
+
+Rev-3 (Mar 2019)
+
+Co-operate with your employer and any other person to enable the employer comply with any
+relevant statutory provisions.
+
+e Attend all health & safety training provided by your employer.
+
+e Report defects in equipment or systems to your line manager.
+
+e Maintain your work area and department in a safe manner.
+
+e To adhere to the responsibilities assigned to you in this safety statement documentation.
+
+e To familiarise yourself with the emergency evacuation plan.
+
+e If smoking, only do so in areas on the campus that it is permitted and to do so away from
+doors and only during designated breaks.
+
+e Adhere to the College Dignity at work policy (Policy 10)
+
+e Not enter any area that you are not authorised to do so. Only authorised employees may enter
+restricted areas (e.g. rooftops, gas storage area, generator area, electrical rooms, plant rooms)
+
+e Not park a car or any other vehicle in the Yellow Boxes (which must be kept clear for the
+emergency services at all times), disabled car parking spaces or non-car parking spaces.
+
+e Employees using VDUs must follow occupational guidelines.
+
+e Report all spillages to the Housekeeping Team, ensure the area is restricted until the spill has
+been removed.
+
+e Safety signs must be obeyed and not interfered with.
+
+e To immediately report to your Line Manager on the in-house incident/accident report form:
+
+© any accident resulting in loss or injury
+© any incident that could have resulted in loss or injury
+
+e If you are the injured party you are also required to co-operate with the investigation of the
+
+accident and the completion of the in-house accident /incident report form.
+3.12 Employer
+
+Section 26 of the SHWA, 2005, requires every employer to consult with their employees for the
+purpose of the arrangements that will enable the employees to co-operate effectively in promoting and
+developing measures to ensure their safety, health and welfare at work.
+
+The Act provides employees with the right to make representations to, and consult with, the employer
+on matters of safety, health and welfare in their place of work.
+
+Employees who wish to raise a safety concern should in the first instance contact their Line Manager,
+either directly or through the Safety Coordinators or Health and Safety Officer.
+
+3.13 Health and Safety Organisation Chart
+
+ 
+
+President of the College
+
+ 
+
+ 
+
+Board of Directors
+
+ 
+
+ 
+
+ 
+
+Management Board
+
+ 
+
+ 
+
+2 Members of Management Board responsible for H&S
+
+ 
+
+ 
+
+Safety Officer
+
+ 
+
+ 
+
+Safety Coordinators
+
+ 
+
+ 
+
+ 
+
+ 
+
+Head of a ane Managers
+
+ 
+
+Employees/Contractors
+
+ 
+
+ 
+
+Students/Visitors
+
+ 
+
+ 
+
+ 
+Rev-3 (Mar 2019)
+
+4. COMMUNICATION OF THE SAFETY STATEMENT
+The Safety Statement represents the Colleges commitment to safety, health and welfare of all those
+affected by its actions. In order for it to be effective it must be implemented. To ensure that this occurs
+the following actions will be taken:
+e This safety statement will be sent to all staff and lecturers.
+e The Heads of Faculty/Department and program directors will further inform all staff under
+their responsibility of the location of the Safety Statement and of their requirement to read and
+understand it.
+
+4.1 Resources
+
+The following college resources of personnel, time and finances, are devoted to the health and safety
+
+and welfare of employees:
+
+e Safety policies and procedures, risk assessments
+
+Health and Safety related training
+
+Time spent on the follow-up of accidents and incidents
+
+Safety as an agenda item at senior management meetings
+
+Engaging reputable contractors to maintain and service fire protection equipment and
+
+machinery and to maintain all buildings and equipment in a clean and safe condition.
+
+e Ensuring that all new buildings/refurbishments comply with relevant fire and health
+and safety standards.
+
+e Providing on-going funding for competent health and safety advisors both internal and
+external as required.
+
+e Allocating Personal Protective Equipment (PPE) as required.
+
+e Allocating to Faculties and Departments, by way of their annual budgets, sufficient
+resources to ensure that health and safety issues can be tackled in a phased, prioritized
+fashion at local level.
+
+e Allocating an annual budgetary sum to the Campus Services/Facilities Department to
+support the implementation of various health and safety programme and projects
+across the campus.
+
+4.2 Hazards and Risks
+
+A Hazard is defined as anything that has the potential to cause harm, injury or an adverse health on a
+person/s.
+
+A Risk is defined as the likelihood that a person/s may be harmed, injured or suffer an adverse health
+effect if exposed to a hazard.
+
+Once the hazard has been identified and the level of risk assessed then the necessary steps can be taken
+to control, eliminate or minimize the risk to safety.
+
+4.3 Hazard Identification
+
+This is the first step in the control of health and safety risks and involves a critical appraisal of all
+activities. In performing hazard identification there will be ongoing critical appraisal of all routine and
+non-routine activities throughout the College.
+
+Hazards are classified into three categories:
+1. Physical hazards
+2. Chemical hazards
+3. Psychological hazards
+
+ 
+
+ 
+ 
+
+Rev-3 (Mar 2019)
+
+1. Physical Hazards
+
+The following are a list of physical hazards — it is not exhaustive.
+e Manual Handling
+Equipment
+Slips/Trips/Falls
+
+Fire
+
+Machinery/moving parts
+Electricity
+
+Hot substances
+
+Poor housekeeping
+Vibration
+
+Sharps
+
+2. Chemical Hazards
+The following are a list of chemical hazards.
+e Gases
+
+Dust
+
+Fumes
+
+Liquids
+
+Vapor
+
+Solvents
+
+Acids
+
+Aerosols
+Carcinogens
+Sensitizing agents
+Allergens
+
+3. Psychological Hazards
+
+The following are a list of psychological hazards.
+e Bullying/Harassment
+
+Stress
+
+Inadequate training
+
+Inadequate supervision
+
+Long hours
+
+4.4 Risk Assessment
+
+A Risk Assessment is an examination of what hazards in the workplace could cause harm so that a
+decision can be made on whether enough controls are in place to prevent harm occurring.
+
+Risk assessment is required under Section 19 of the Safety, Health & Welfare at Work Act 2005.
+
+The risks will be characterized into High, Medium or Low.
+HIGH RISK = there is a possibility of serious injury (fatalities, amputations, serious diseases,
+paralysis) to a number of people and a possibility of significant injury (moderate injury, damages,
+
+lacerations) and material loss.
+
+MEDIUM RISK = there is a possibility of minor injury (cuts, abrasions, sprains) to a number of
+people and a possibility of some material loss.
+
+LOW RISK = there is a possibility of little injury to a small number of people or the risk of material
+loss is low.
+Rev-3 (Mar 2019)
+
+The steps are:
+1. Carry out the risk assessment.
+2. Decide who might be harmed and how.
+3. Decide the control measures to prevent the hazard occurring, to eliminate it or substitute
+it as far as reasonably practicable.
+4. Record the findings.
+The Risk Assessments depend on the following:
+e Is anyone exposed to the hazard
+Is the hazard likely to cause injury
+How serious would the injury be
+Is the hazard well controlled
+Is the level of supervision adequate
+How long people were exposed and what are the levels of exposure, (temperature, chemicals,
+noise, heavy loads, etc.) that should not be exceeded.
+
+The Safety, Health and Welfare at Work Act requires employers to carry out identification of hazards
+and an assessment of risks posed by those hazards. The ultimate goal of hazard identification and risk
+assessment is to devise and implement appropriate controls to ensure, as is reasonably practicable, that
+the risk is reduced to an acceptable level.
+
+Each Head of Faculty/Department and Line Manager must:
+e Identify their significant hazards
+e Assess the magnitude of the risk which arises
+e Inform the Health and Safety Officer of their concerns. This information will be forwarded to
+the Safety Coordinator to update the safety statement documentation.
+
+Head of Faculty/Department and Line Managers: When a hazard is identified he/she shall
+examine the various options available to eliminate the hazard. If the problem can only be resolved by
+significant expenditure he/she shall present the options available to the Health and Safety Officer.
+Where the risk cannot be reduced to an acceptable level and finance is not available to implement
+appropriate controls then the activity must cease or the area must be closed off.
+
+5.0 CONTROL MEASURES
+Risks are adequately controlled if:
+e Adequate information, instruction or training is provided
+e Adequate systems and procedures are provided
+e Hazard meets the legal requirement standard
+e Precautions comply with recognized industry standard, good practice, reduce risk as far as
+reasonably practicable.
+
+If risks are not adequately controlled then:
+
+e Remove the risk completely
+
+e Substitute
+
+e Organize work to reduce the exposure to the hazard
+
+e Apply safety measures (machine guards, ventilation, mechanical handling methods etc.) to
+reduce the risk
+
+e Administer controls (supervision, etc.) which reduce or eliminate exposure to the hazard by
+adherence to procedures or instructions
+
+e Ensure clean and tidy workplace
+
+e Issue personal protective equipment (PPE)
+
+15
+
+ 
+ 
+
+Rev-3 (Mar 2019)
+
+5.1 Physical Hazards
+These hazards include furniture and work equipment, noise, vibration, light, temperature, access to
+heights and violence.
+
+Control Measures — Furniture and Work Equipment
+
+e The College will purchase furniture and work equipment which is sound and suitable for use
+and which complies with appropriate Irish and European standards.
+
+e All furniture and work equipment should be used solely for the purpose for which it is
+intended.
+
+e All equipment must be operated in accordance with the manufacturer’s instructions.
+
+e Damaged furniture and work equipment which is deemed unsafe should be removed
+immediately from use and the Campus Services/Facilities Department informed to ensure it is
+stored to prevent its accidental reuse before repair or replacement.
+
+e Staff responsible for purchasing furniture and work equipment must ensure the selection
+process has taken account of the specific conditions in the place of work and any additional
+hazards caused by its installation.
+
+e Staff responsible for supervising the use of furniture and work equipment must ensure it is
+properly maintained.
+
+e Work equipment, when purchased, must be maintained and tested to manufactures
+recommendations and statutory requirements.
+
+Control Measures — Noise
+
+The noise level in the College will normally be below 85dB and therefore does not pose a risk.
+
+If any works or activities are to take place on the campus that exceed the 85Db limit, appropriate steps
+will be taken to eliminate, reduce and control noise levels to a safe level.
+
+Control Measures — Vibration
+
+Staff who work with machinery and/or tools which cause whole body vibration of hand/arm vibration
+must wear the appropriate protective personal protective equipment. Heads of Faculty/Department are
+responsible for supervising the use of PPE and to ensure the equipment is maintained in accordance
+with the manufacturer’s instructions.
+
+Control Measures — Light
+
+The following guidelines should be applied to ensure adequate lighting.
+e Have adequate lighting for the task
+
+Avoid glare
+
+Avoid flicker in light sources
+
+Avoid flicker in visual display units.
+
+Control Measures — Temperature
+
+Comfortable temperature levels for all work areas should be maintained. The Campus
+Services/Facilities department should be contacted if temperatures are above or below comfortable
+levels so that appropriate action is taken.
+
+Control Measures — Violence
+
+The College employs trained Security personnel who are trained in dealing with violent and
+aggressive behavior and situations. Any staff member who feels under threat should phone Security
+(See Appendix 1.3 for contact details). ‘
+
+16
+Rev-3 (Mar 2019)
+
+Control Measures — Lone working
+Staff and contractors who work after normal working hours alone or in areas of personal isolation
+should take the following precautions
+
+Inform site Security or Campus Services/Facilities that you are working after hours and
+your expected finishing time.
+
+Keep in regular contact with a member of the site Security or Campus Services/Facilities.
+Where available carry a man-down device, lone working device or personal alarm.
+
+Control Measures — Safe Access/Exit
+The College will, so far as is reasonably practicable, provide and maintain a safe access and exit to and
+from any employee/contractors place of work and for students and visitors while on the campus.
+
+°
+
+Emergency exit doors and exit routes are clearly sign-posted and Heads of
+Faculty/Department and line mangers have responsibility for ensuring that such doors and
+exit routes are kept clear of obstructions.
+
+Suitable equipment is provided such as foot-stools, ladders or cherry-picker where access
+to high levels is necessary, such as for maintenance or to access goods stored above head
+height.
+
+The security staff control the movement of cars on the campus and both monitor and
+control traffic management on the site
+
+Adequate lighting of all areas around the campus, including the car-park has been
+provided.
+
+Walkways are clearly highlighted.
+
+Users of the car-park are required to take due care and be considerate of all other car-park
+users and to report any incidents or concerns to a member of the Security Staff.
+
+The Campus Services/Facilities staff and contractors carry out routine repairs and
+maintenance for both internal and external areas of the campus.
+
+Control Measures — Safe Use of Equipment
+
+It is College policy to ensure, as far as is reasonably practicable, that all personnel shall be protected
+from all known machinery and equipment hazards through the use of built in safety equipment
+features, approved safe guards, training and operating procedures. New equipment will display CE
+marking to show compliance with all relevant safety standards.
+
+eoe3ee
+
+17
+
+The Head of Faculty/Department will ensure when purchasing new machinery/equipment
+that the vendor provides written instructions for the safe use and care of the machines or
+equipment, operating instructions, maintenance procedures and safety devices.
+
+Staff will only operate/clean the machinery/equipment when trained to do so.
+
+Staff will take great care when using pins, staplers and guillotines. When safety features
+are incorporated into equipment, these must be used.
+
+The Head of Faculty/Department will ensure operating instructions are available for all
+machines/equipment.
+
+Machinery must only be used in accordance with the manufacturer’s instructions.
+
+The operator of any machinery or equipment on site must be trained to do so before use.
+All guards must be fitted correctly, robust, working and be effective.
+
+The area around any machine or piece of equipment must be clean, tidy and free from
+obstruction.
+
+The Head of Faculty/Department must be informed immediately if any piece of machinery
+or equipment that is under their remit is not working, or not working correctly.
+
+The appropriate PPE must be worn.
+
+ 
+ 
+
+Rev-3 (Mar 2019)
+
+Control Measures — Manual Handling
+Manual handling includes lifting, pushing, pulling, carrying or putting down a load. The main injuries
+associated with manual handling are:
+
+e Back strain/slipped disc.
+
+e Hernias
+
+e Lacerations, crushing of hands or fingers
+
+e Bruised or broken toes or feet
+
+e Various sprains, strains, etc.
+Legislation advocates the use of mechanical equipment for the handling of loads by employees.
+Employees are given manual handling training where applicable.
+
+Line Manager's Responsibilities
+
+It is the responsibility of all Managers to eliminate the need for any unnecessary manual handling.
+
+It is the responsibility of all Managers to ensure that no person will be expected to lift, carry, or move
+a load that would be likely to cause him / her injury. This includes all pushing, pulling, carrying,
+putting down, or moving of any load and where possible, a trolley or hand truck must be provided.
+
+When manual handling is unavoidable, the work must be planned and personnel engaged in lifting
+must utilize safe manual handling techniques and use any lifting aids and equipment available
+
+In planning the work to be done, the line manager must assess the risks presented by the:
+e Working Environment
+
+Characteristics of the Load
+
+Individual capacity
+
+Physical effort required
+
+Distance involved.
+
+Frequency of Task.
+
+The Line Manager must ensure an.employee is not put at risk because he/she:
+e Is physically unsuited to carry out the task in question
+Is wearing unsuitable clothing, footwear, or other personal affects.
+Does not have adequate or appropriate knowledge or training.
+Ensure that no employee will lift or attempt to lift any object of excessive weight
+Ensure the characteristics of the load is examined prior to lifting as the manual handling of
+a load may present a risk of back injury if it is:
+o Too heavy or too large.
+o Unwieldy or difficult to grasp.
+o Unstable or has contents likely to shift.
+o Positioned in a manner requiring it to be held or manipulated at a distance
+from the trunk, or with a bending or twisting of the trunk;
+Likely, because of its contours and. or consistency, to result in injury to
+workers particularly in the event of a collision
+o Ifan object is too heavy, help must be obtained (as a guide, a load which
+exceeds fifty percent of the individuals body weight should be regarded as a
+risk).
+o Examine the load for splinters, sharp edges, projecting nails and sharp wire.
+© Before a load is lifted, obstructions must be removed, snags must be noted
+and a space cleared where the load is to be set down. Ensure that it is possible
+to see over the load when it is being carried.
+
+°
+
+Staff will be trained in manual handling as required.
+
+18
+Rey-3 (Mar 2019)
+
+To Lift:
+
+Stand with your feet slightly apart.
+
+Bend the Knees.
+
+Keep the back straight though not necessarily vertical, and ensure the spine is not bent over at
+the bottom.
+
+A firm grip should be obtained with the palm of the hand and the root of the fingers - using the
+finger tips means more effort and more chance of dropping the load.
+
+Arms should be as close to the body as possible so that the body takes the weight instead of
+the fingers, wrist arm and shoulder muscles. If possible, the opposite corners of the object
+should be gripped.
+
+Lifting should be done by the thigh muscles by straightening the legs, lift by easy stages, i.e.
+from floor to knee and from knee to carrying position.
+
+When carrying, do not change grip - rest the load on some firm support and then change.
+Move in the direction of your feet; do not twist your truck to change direction.
+
+To set the load down, reverse the lifting procedure.
+
+Gloves should be worn when handling sharp or slippery objects.
+
+Standing with heavy loads should be avoided.
+
+Ensure that the route, over which the load is being carried, is clear and free from obstructions
+to prevent trips or falls.
+
+When a load is being carried by more than one person, the same basic principles must apply as above.
+People must work as a team and be given instructions by one person only. Wearing rings on fingers is
+not recommended.
+
+Control Measures — Electricity
+
+Electrical installations and repairs must be carried out by a competent electrician.
+
+All new electrical equipment will comply with the required CE quality standard.
+
+Ensure that suitable precautions are taken when working near overhead lines, near electrical
+boards and that fuses and circuit breakers are correctly rated for the circuit they protect.
+
+All portable electric tools are operated at 110 volts or battery.
+
+All connections to power points are made by plugs or are electrically hard wired.
+
+Faulty or suspect equipment, including any signs of damage to wires, plugs, sockets etc., must
+be reported to the Campus Services/Facilities Department immediately.
+
+All-defective equipment must be removed from service until repairs have been carried out or
+replaced if repairs cannot be carried out.
+
+Sockets are not to be overloaded.
+
+All electrical equipment must be electrically isolated before any works are carried out on it.
+Before use all electrical equipment must be examined for any sign of damage or defect before
+use.
+
+The Campus Services/Facilities Manager will ensure that:
+
+e Inspections of electrical installations/equipment will be carried out as required and
+remedial action taken when defects are reported.
+
+e All equipment purchased, rented or leased is protected by an earth wire, or is labeled
+“double insulated" and that the equipment is suitably identified including its electrical
+rating, and the manufactures name.
+
+e Adequate protection is being provided for equipment exposed to the elements, and to
+adverse conditions such as damp, dust, etc.
+
+e All new electrical installations have been tested by a competent person and certified.
+
+e All distribution boards have been identified and that there is adequate access and egress to
+all distribution boards.
+
+ 
+ 
+
+Rev-3 (Mar 2019)
+
+Employees will inspect electrical equipment to ensure:
+
+e The plug is in good condition and of the correct type;
+
+e The cable is properly secured with a cord clamp over the outer insulation & is free from
+external damage and “taped up” repairs.
+
+e Both the appliance and the power socket are switched off before plugging the appliance
+into the power supply.
+
+e Their hands are dry before operating switches or using electrical equipment
+
+e Extension leads are fitted with proper fused plugs and NEVER make connections by
+inserting a bare wire into a socket.
+
+e Leads are not frayed or near pinch points, sharp objects, heat, water and rough surfaces
+
+e Leads will not cause a tripping hazard.
+
+e Employees will inspect electrical equipment for obvious defects before use.
+
+Electrical Defects
+
+1,
+
+Immediately disconnect the equipment from the electric supply if is safe to do so.
+
+2. Place an "Out of Order - Do Not Use" notice on the equipment.
+
+3. Ifthe equipment cannot be unplugged, it must be electrically isolated by an electrician or
+suitable qualified person
+
+4. Report the defect to his/her Line Manager.
+
+5. The equipment must not be used until the problem has been resolved.
+
+6. Never attempt to carry out any repairs on electrical equipment, unless you qualified to do so.
+
+Electric Shock
+
+1. Immediately disconnect the electrical equipment from the electric supply (if possible and safe
+to do so)
+
+2. Never attempt to carry out electrical repairs unless you are qualified to do so.
+
+3. To avoid electric shock, keep electric wiring away from wet floors and surfaces.
+
+4. Ensure that plugs are fully placed in power sockets.
+
+5. Ifyou or anyone else has suffered an electrical shock, contact a site first aider for treatment
+and inform a member of the Campus Services/Facilities team immediately.
+
+6. Never use electrical equipment outdoors unless it is designed for that purpose
+
+Control Measures.— Slips, Trips and Falls
+
+The College shall, as far as is reasonably practicable, ensure all floors, steps, stairs, corridors, and
+ladders, are of sound construction, properly maintained and kept free from obstructions or from
+substances likely cause a person to slip, trip or fall.
+
+Housekeeping staff have the following responsibilities:
+
+When washing floor, always erect warning signs. These signs must not be removed until the
+floor is dry.
+
+Tidy up trailing buffer/vacuum machine leads, run cables along walls.
+
+Observe good-housekeeping practices at all times.
+
+All employees have the following responsibilities:
+
+20
+
+e Place furniture, fittings and equipment so that personnel can move about without
+
+colliding with sharp corners of desks, cabinets etc.,
+
+Place filing cabinets so that there is ample room when a drawer is fully open.
+
+Do not leave drawers of desks or cabinets open to be stumbled over.
+
+Do not open more than one drawer of a filing cabinet at a time.
+
+Be careful with metal furniture, particularly shelves/drawers that may have sharp edges.
+
+Do not have trailing electrical cables. Keep cables near walls or within special cable
+
+covers.
+
+e Do not leave paper (e.g. printout sheets, files, invoices, etc.) on the floor or adjacent to
+computer printers, photocopiers etc. when not in use.
+Rev-3 (Mar 2019)
+
+e Store paper in the areas provided.
+
+e Stairways, Reception and Corridors shall be properly maintained and kept free from any
+materials that could give rise to unsafe conditions. They will not be used as storage areas.
+
+e All parcels and packages must be removed from the reception area immediately on arrival.
+
+e Carry files/ boxes to ensure vision is not obstructed particularly if moving up or down
+stairs/steps.
+
+e Waste paper bins must be used.
+
+e All rubbish must be cleared away regularly.
+
+e Broken glass and other sharp objects must be disposed of carefully and NEVER in a waste
+paper bin. :
+
+e All offices and work-stations must be left in a tidy condition each evening, with all desk
+and other surfaces neatly arranged and nothing left on the floors.
+
+e Use safe footwear provided to avoid slipping.
+
+e Use ladder or foot stool to gain access to heights. Always observe the correct use of
+ladders at all times.
+
+e Ensure that any spillages are dealt with safely and safety signs must be erected until this is
+done.
+
+e Report any slip/trip hazard to the Head of Faculty/Department or Line Manager.
+
+e Report any area with defective lighting to the Head of Faculty/Department or Line
+Manager.
+
+Control Measures — Visual Display Units (VDUs), Work stations and Breaks
+
+VDU work demands can vary widely depending on the particular task being undertaken and may vary
+from those that require a very high level of concentration and vigilance to more routine and infrequent
+activities.
+
+Legislation sets down minimum requirements for working with VDUs which also cover the operator,
+the desk, the chair and the work-stations.
+
+VDU’s:
+
+Like other common electrical devices (irons, toasters, televisions, florescent lights, etc.), WDUs can
+produce certain types of radiation which is negligible and does not constitute a health hazard, or cause
+permanent eye damage.
+
+The image on the screen will be stable, there will be no flickering.
+
+The screen will be free of reflective glare and reflections liable to cause discomfort.
+
+The keyboard shall have a matt surface to avoid reflective glare.
+
+Workstations:
+
+Workstations shall be arranged so that the general use of the equipment shall not be a source of risk to
+the user.
+
+Lighting conditions should be of an appropriate standard to ensure contrast between screen and
+background environment. Possible disturbing glare and reflections on the screen or other equipment
+shall be prevented by coordinating the layout of the workstations and the artificial light sources.
+Where necessary local illumination will be provided. However, the light from such a lamp must not
+impinge on the display screen or surrounding area.
+
+The chair shall be stable and allow the user a comfortable position and freedom of movement. The seat
+will be adjustable in height and the seat back will be adjustable in height and tilt.
+
+A foot rest will be available to any user who requires one.
+
+Work Breaks:
+
+If display screen work involves intensive use of the keyboard or reading the screen, or a mixture of the
+two, the work should be broken by periods of non-intensive, non-display screen work. The line
+manager will assist in organizing work to ensure the employee receives suitable breaks in VDU work.
+Short breaks away from the screen, e.g. five to ten minutes following fifty to sixty minutes of
+
+21
+
+ 
+ 
+
+Rev-3 (Mar 2019)
+
+continuous screen and keyboard work is likely to be more beneficial than a fifteen minute break every
+two hours.
+
+If a staff member experiences discomforts such as hand, shoulder or eyestrain, they should bring it to
+the attention of their Line Manager immediately.
+
+Control Measures — Storage
+Line Managers must ensure:
+e That adequate storage is provided in their department.
+e Where necessary, ensure shelving is properly secured and sharp edges are removed.
+e The hazards of jewelry creating a risk of fingers and limbs being trapped in metal rack
+units must be brought to the notice of staff.
+e All chemicals, equipment and materials are stored correctly and in accordance material
+safety data sheets and manufacturers recommendations.
+Employees must:
+e Where possible place heavy items on lower shelves
+e Not overload shelves.
+e Never overload top drawers of filing cabinets and desk drawers or open more than one
+drawer at a time as this may cause the cabinet or drawer to tip over.
+Follow their line managers or safety representative guidance and instruction on correct
+storage.
+
+Access to Heights
+To access high shelves a stepladder or step stool must be used and these can be provided by the
+Facilities department. It is not permitted to stand on chairs, desks, shelves, racking, boxes etc.
+
+Use of Ladders:
+Before using a stepladder, check the following condition to ensure it is safe:
+e All hardware is tight, or secure, as necessary
+All step rungs are present, not coated in grease, oil, cracked or loose.
+The ladder assembly is rigid enough to take your weight
+The front and back feet are opened to their full extent permitted by the cords or restrains.
+That all four feet are firmly on the ground so that the ladder does not wobble.
+Never take heavy or bulky objects, which may cause it to overbalance, or them to drop the
+object and cause injury to others.
+e Never work from the toe step of a ladder unless it is on the platform type and fitted with a
+hand-rail.
+e Take care when reaching from a sideways position as this could result in the ladder
+overturning, or the loss of balance.
+
+5.2 Chemical Hazards
+
+The College has to use chemical substances. These range from detergents and aerosol sprays to
+corrective fluids. The College recognizes that the use of chemicals entails some risk to personnel or
+the environment either through normal handling or accidental spillage. The College ensures, so far as
+is reasonably practicable, the safety and prevention of risk to health at work in connection with the use
+of any article or substance.
+
+Control Measures — Material Data Sheets (MSDS)
+
+Material safety data sheets are available for all chemicals used within the College.
+
+All Faculties and departments need to maintain MSDS’s for any chemical that they are using, storing
+or disposing
+
+MSDS are an important source of information and any employee using a chemical must become
+familiar with the appropriate sheet.
+
+22
+Rev-3 (Mar 2019)
+
+The MSDS gives the following information:
+
+Hazard identification
+First aid measures
+Firefighting measures
+Accidental release
+Handling and storage
+
+e Exposure controls and personal protection etc.
+It is the College's policy that all chemicals used within the College will have a precautionary label on
+the container and will, as far is reasonably practicable, provide additional information through the
+provision of Material Safety Data Sheets (MSDSs)
+
+Employees must:
+
+Read and understand all precautionary labels on chemical containers and MSDSs.
+
+Look for the important information - is the substance toxic, harmful, corrosive or an
+irritant etc.? For example, the label on a container of typical office correction fluid will
+warn that the liquid is flammable and is harmful if inhaled or swallowed.
+
+Use, handle, store and dispose of the chemicals as directed by the above information and
+use any necessary protective equipment and clothing.
+
+Control Measures — Carcinogens
+Safety, Health and Welfare at Work (Carcinogens) Regulations, 2015 specify certain measures
+necessary to protect workers from the risks resulting from exposure to carcinogens including:
+
+Risk assessment of carcinogen use in the workplace
+
+Implementation of appropriate steps to eliminate or minimise exposure
+
+Maintain an up to date list of employees at risk of exposure to carcinogens. The list will
+be complied based on information obtained from the Heads of Faculty/Departments where
+carcinogens are in use. Employees exposed to carcinogens in the course of their work are
+to be consulted and provided with information and training on the hazards and risks of
+carcinogen use and the measures to deal with unforeseen risks
+
+Appropriate records of assessments will be maintained by the Faculty/Department and the
+Health and Safety Officer.
+
+Control Measures — Chemical Usage
+
+e Chemicals should be used strictly in accordance with the manufacturer instructions and the
+MSDS.
+
+e Chemicals should be stored as per the MSDS.
+
+e Empty containers should be disposed of safely as per the MSDS
+
+e All chemicals must be labeled
+
+e Smoking, eating and drinking is prohibited where dangerous substances are being used and
+stored.
+
+e Employees must be aware of warning symbols on the containers.
+
+e Dangerous chemicals must be kept in minimum quantities and stored appropriately.
+
+e Chemicals and dangerous substances should be eliminated/substituted by a less dangerous
+substances as far as is reasonably practicable.
+
+e Provide adequate ventilation if noxious fumes have been emitted.
+
+e Protective clothing must be worn if this is a requirement when using the chemical.
+
+e Material safety data sheets (MSDS) must be observed before using any chemical.
+
+23
+
+ 
+Rev-3 (Mar 2019)
+
+Housekeeping staff have the following responsibilities:
+e Wear gloves when handling detergents, cleaning agents.
+e Do not mix cleaning materials unless permitted by instructions.
+e Bleaches should never be mixed with toilet cleaners or other cleaning products as they give
+rise to toxic chlorine fumes.
+e Should be aware where the MSDS for a chemical is available from and what the requirements
+for each chemical is in relation to usage, storage, dilution, disposal etc.
+
+5.3 Psychological Hazards
+Psychological hazards include Bullying, Harassment and Stress
+
+Control Measures — Prevention of Bullying and Harassment
+
+The Health and Safety Authority! defines Bullying as ‘Workplace bullying is repeated inappropriate
+behavior, direct or indirect, whether verbal, physical or otherwise, conducted by one or more persons
+against another or others, at a place of work and/or in the course of employment, which could
+reasonably be regarded as undermining the individual’s right to dignity at work’. An isolated incident
+of the behavior described in this definition may be an-affront to dignity at work but as a once off
+incident is not considered to be bullying.
+
+All staff are required to be familiar with and to adhere to the College Dignity at Work policy (policy
+number 10). This policy is available from the HR department and should be checked regularly for
+updates.
+
+The Employment Equality Acts define Harassment as ‘Harassment is any form of unwanted conduct
+related to any of the discriminatory grounds, being conduct which has the purpose or effect of
+violating a person’s dignity and creating an intimidating, hostile, degrading, humiliating or offensive
+environment for the person’.
+
+The Acts sets out that the unwanted conduct may consist of acts, requests, spoken words, gestures, or
+the production, display or circulation of written words, pictures, or other material.
+
+All staff are required to be familiar with and to adhere to the College Dignity at Work policy, the key
+points of the policy are detailed below.
+
+Sexual Harassment
+
+The Employment Equality Acts define Sexual Harassment as ‘Sexual Harassment is any form of
+unwanted verbal, non-verbal or physical conduct of a sexual nature being conduct which has the
+purpose or effect of violating a person’s dignity and creating an intimidating, hostile, degrading,
+humiliating or offensive environment for the person’.
+
+The Acts sets out that the unwanted conduct may consist of acts, requests, spoken words, gestures, or
+the production, display or circulation of written words, pictures, or other material.
+
+It is up to each employee to decide what behavior is unwelcome, irrespective of the attitude of others,
+and from whom such behavior is unwelcome. The fact that the employee has previously tolerated the
+behavior does not stop him/her from deciding that it has now become unwelcome and objecting to it.
+
+In determining whether behavior is unwelcome it is the effect of the behavior on the employee
+concerned rather than the intent of the person engaging in the unwelcome behavior that is important.
+The person engaging in the conduct must be made aware that the conduct is unwelcome where:
+1. It is not obvious on reasonable grounds to construe the action as offensive, humiliating or
+intimidating.
+2. The action from the person has been acceptable in the past.
+3. The employee accepts the conduct from other people.
+
+' HSA Code of Practice for employers and employees on the prevention and resolution of Bullying at Work.
+
+24
+Rev-3 (Mar 2019)
+
+Responsibilities
+The Employer Responsibilities
+e To ensure that adequate resources are made available resources to promote respect and dignity
+in the workplace and to deal effectively with complaints of bullying and harassment.
+e To ensure that the college Dignity at Work Policy is communicated to all staff
+e To ensure that all staff are made aware of their responsibilities to create a working
+environment which is free from bullying and harassment.
+
+All Employees’ Responsibilities
+¢ To help maintain a working environment in which the dignity of all individuals is respected.
+e¢ Tocomply with the college Dignity at Work Policy.
+e To ensure that their behavior does not cause offence to fellow workers or any person with
+whom they come into contact during the course of their work.
+e To discourage bullying and harassment by objecting to inappropriate behavior.
+e To inform a Manager if they are concerned that a colleague is being bullied or harassed.
+
+Each Line Managers’ Responsibilities
+e To implement the college Dignity at Work Policy
+e To make every effort to ensure that bullying and harassment does not occur, particularly in
+work areas for which they are responsible.
+e To deal promptly and effectively with any incidents of bullying or harassment of which they
+are aware or ought to be aware.
+e To explain the Dignity at Work Policy to all staff and ensure understanding and how the
+complaints procedures operate.
+Promote ongoing awareness of the policy among staff.
+Set a good example by treating people with dignity and respect.
+Be vigilant for signs of bullying and harassment and intervene before a problem escalates.
+Respond sensitively to any member of staff who make a complaint of bullying or harassment.
+Respond promptly to requests from employees to intervene and seek to resolve the matter
+informally where appropriate.
+e Ensure that an employee is not victimized for making a complaint of bullying or harassment in
+good faith.
+e Monitor and follow up the situation after a complaint is made so that the behavior complained
+of does not recur.
+e Keep a record of all complaints and how these were resolved.
+
+Control Measures — Stress
+
+Stress occurs when an individual perceives an imbalance between the demands placed on him/her and
+his/her ability to cope. Work related stress results from an interaction of the individual and the
+working environment. What is stressful for one employee may not be stressful to another employee.
+An employee who has work related stress should raise the matter with his/her line manager who may
+arrange for a Risk assessment to be carried out.
+
+5.4 Control Measures — Personal Protective Equipment (PPE)
+PPE is defined as all equipment (including clothing affording protection against the weather) which is
+intended to be worn or held by a person at work and which protects him/her against one or more risks
+to his/her health or safety.
+PPE includes (but is not exclusive to):
+
+e Safety head wear
+
+e Gloves
+
+e Eye protection
+
+e Safety footwear
+
+25
+
+ 
+ 
+
+Rev-3 (Mar 2019)
+
+e Safety harnesses
+
+e Hearing protection
+Where there are risks to the safety, health and welfare of employees, the College will avoid or limit
+such risks whenever possible by other methods of prevention or control such as, engineering controls
+or safe systems of work before resorting to the use of PPE.
+The College will provide suitable PPE where the risks cannot be avoided or sufficiently reduced.
+
+If PPE is required for your job, then you must by law, use it. Failure to do so may result in injury and
+may lead to disciplinary action
+Employees must:
+
+e Use provided PPE.
+
+e Maintain and store the PPE correctly so it is maintained in good condition.
+
+e Beaware that a breach of rules regarding the wearing of PPE will lead to disciplinary action.
+
+Line Mangers must:
+e Inform their staff of the risks for which PPE is provided.
+e Instruct and train their staff in the use of PPE.
+e Supply the necessary PPE
+
+Contractors must:
+e All contractors must supply PPE for their own employees (where applicable)
+e PPE must be worn by contractors as set out in their risk assessment or as per College
+requirements.
+
+Safety Head Wear
+
+Must be worn when working in an area where there is a risk of head injuries due to falling objects, low
+head clearance (low beams, pipes, equipment etc.) or extreme cold conditions or direct sunlight for
+prolonged periods.
+
+Gloves
+
+Gloves chosen must offer the best protection for the specific and/or chemical that they are intended to
+be used for. Gloves must be worn where there is specific risk to the hands, including abrasion,
+temperature extremes, chemicals, electric shock or vibration.
+
+Gloves must be changed when they are no longer fit for purpose and no longer offer the protection that
+is required. They must then be disposed of properly.
+
+Gloves must not be worn where they could get caught in a machine or if wearing them creates a
+greater risk than the reason that they are being worn for.
+
+Eye Protection
+
+Eye protection (safety glasses with side shields, goggles, and face shield) must be worn where there is
+arisk of sparks, splashes, dust, vapour etc. to the eyes.
+
+High pressure cleaning/spray equipment and work involving power tools require safety glasses with
+side shields and welding operations require tinted safety glasses with side shields.
+
+Safety Footwear
+Safety shoes are provided where hazards exist such as wet floors, falling objects or chemical splashes.
+Maintenance staff, Household staff and Security Staff must wear safety shoes.
+
+Safety Harness
+
+These must be worn where there is a danger of falling from a height. They are located in the Campus
+Services/Facilities department. Company harnesses are inspected before use and are inspected
+annually by a suitably qualified person. Any equipment that is found defective is taken out of service
+and repaired or replaced.
+
+26
+Rev-3 (Mar 2019)
+
+Hearing Protection
+
+Earplugs and earmuffs are provided and must be worn where the noise level is 80Db or above or if
+nuisance noise is prevalent. Hearing protection must not be worn if it is dangerous to do so (e.g. area
+of traffic, when an alarm will be difficult to hear while wearing)
+
+Some employees may be required to wear other types of PPE, please contact your line manager for
+assistance.
+
+5.5 Control Measures — Segregation of Waste
+Waste produced in the College is divided into:
+1. Non-risk waste including household/domestic waste — food, paper, cardboard, magazines,
+plastic bottles, etc.
+Household/domestic waste is disposed of in office bins provided -liquid or broken glass must
+not be disposed of in these bins.
+2. Hazardous waste
+This waste must be disposed of in an appropriate manner and through the correct waste stream
+due to their hazardous properties and includes:
+e Batteries
+WEEE (PCs, printers, monitors, TVs)
+Fluorescent tubes
+Photographic waste etc.
+Ink cartridges
+
+When removing waste, employees must wear gloves and other appropriate PPE.
+Waste should not be allowed to accumulate within offices.
+
+5.6 Control Measures - No Smoking Buildings
+
+Smoking is not permitted inside any of the College buildings.
+
+Smoking is permitted in outdoor areas of the College (unless otherwise specified) and metal ashtrays,
+which are emptied regularly, have been provided. Any outdoor areas where smoking is not allowed is
+highlighted by ‘No Smoking’ signage. Smoking areas are inspected and cleaned on a regular basis.
+
+5.7 Control Measures - Security
+
+Employees must secure their office at the end of the day, closing all windows and doors.
+
+Employees must contact a member of the Security team if they see any person acting suspiciously.
+Security personnel are available 24 hours a day, 7 days a week (See Appendix 1 for contact numbers)
+
+5.8 Control Measures — Pregnant Employees
+
+The College will assess any risk on the pregnancy to the safety and health of employees and any
+possible effect on an employee’s pregnancy and on a breastfeeding mother resulting from any activity
+at work likely to involve risk. It will take the preventative and protective measures necessary to ensure
+the safety and health of pregnant and breastfeeding staff.
+
+Procedure
+
+All pregnant and breastfeeding employees should inform their line manager.
+
+The line manager will review the activities carried out by the employee will they will be assessed to
+ensure the continued health and safety of the employee and unborn baby or child during this period.
+
+In an office environment the following hazards should be considered:
+e Physical shocks, including direct blows to the abdomen.
+e Handling a load
+e¢ Movement and postures which are abrupt or severe or give rise to excessive fatigue.
+e Non-ionizing radiation.
+
+27
+
+ 
+
+ 
+
+ 
+ 
+
+Rev-3 (Mar 2019)
+
+e A pregnant employee must not be exposed to these hazards unless they are adequately
+controlled i.e. the hazard is reduced to a level which will not harm the pregnant woman,
+the developing child or breast fed child.
+
+If any of these risks are present, they must either be eliminated or safeguards put in place to protect the
+employee’s health and safety.
+
+These safeguards include:
+e Changing the type of work, working hours, ete.
+e Moving the employee to another work area.
+
+If these safeguards are not possible then the employee must be granted safety and health leave. This is
+paid leave that continues until either the conditions change or else the pregnant employee becomes
+eligible for paid maternity leave.
+
+6.0 FIRE AND EMERGENCY MANAGEMENT
+
+When a fire or other emergency occurs activities must be coordinated and critical decisions made,
+usually under considerable stress and the first few minutes when waiting for outside assistance are
+especially crucial. We must prepare for emergencies so that personal injury, property loss, and
+business interruptions will be minimized.
+
+6.1 Means of Escape
+Escape routes are provided throughout the College to allow evacuation in the shortest time possible.
+
+All staff must ensure:
+e Corridors, stairs and escape routes are not obstructed and are clear for use at all times.
+Exit routes are not obstructed outside the building.
+Escape routes are clearly marked and adequately lit.
+Escape doors are capable of being readily and easily opened at all times.
+Floor coverings do not present a slip or trip hazard in any escape route.
+
+6.2 Emergency Drills
+
+e Emergency evacuation drills will be organized a minimum of four a year by the Safety
+Coordinators in conjunction with Security/ the security team. Feedback of performance in
+terms of time taken to evacuate and particular difficulties will be provided to the Safety
+Officer and to the management board. Where the performance in a fire drill falls below the
+required standard, further drills will be carried out to confirm that the required standard has
+been met.
+
+e The evacuation procedure is available from Security, Griffith Reception and all lecture rooms
+(GCD Dublin)
+
+6.3 Fire Alarms
+The College has a number of fire detection and fire alarm systems to improve the chances the site
+being altered to a possible fire and to take actions to evacuate a building and restrict the spread of fire.
+The fire control panels are monitored and any fault warning will receive prompt attention by the
+Security and or the Campus Services/Facilities staff. The detection systems identifies the location of
+the fire.
+Upon activation of the ‘Break Glass’ unit, the fire alarms will be activated in that building.
+Fire alarm systems are serviced and maintained regularly.
+All alarm activations are investigated by the Security staff.
+e The fire alarms will be activated and the buildings evacuated whenever, a fire, or other
+incident occurs which endangers persons inside the buildings.
+e The "Alert" signal is sounded by an intermittent siren and staff must prepare to evacuate the
+building.
+
+28
+Rev-3 (Mar 2019)
+
+e The ‘Evacuation’ signal is given by a continuous siren.
+Throughout the College are:
+e BREAK GLASS UNITS - to raise the alarm.
+e AUTOMATIC HEAT AND SMOKE DETECTORS ~- to detect a fire.
+e AUDIBLE SOUNDERS ~- to alert staff/students in the event of a fire.
+
+6.4 Firefighting Equipment
+The Campus has various Fire Fighting Equipment
+Fire Extinguishers
+Fire Hose Reels (Griffith College Dublin only)
+Fire Blankets (Griffith College Dublin only)
+Fire Hydrants (Griffith College Dublin only)
+Fire Suppression Systems - Protecting cook equipment and extract ductwork (Griffith College
+Dublin only)
+Various types of fire extinguishers are located throughout the College to:
+e Extinguish a fire
+e Protect means of escape in the case of a fire
+e Protect staff and students in the case of a fire
+e Protect property in the case of a fire
+The College uses an external expert to carry out regular inspections of the firefighting equipment and
+the date of the inspection is recorded each piece of equipment.
+Access to all firefighting equipment must be kept clear at all times.
+Employees may not remove or tamper with any piece of firefighting equipment.
+It is policy that you should not tackle a fire with firefighting equipment unless a fire hampers your
+means of egress.
+
+6.5 Emergency Lighting
+
+Emergency lighting provides lighting to indicate the escape routes towards the exits and assists
+emergency services in rescue and firefighting. This lighting is normally powered by the main
+electricity supply, in emergency situations it is powered by a generator or by the battery unit in the
+unit itself.
+
+The College uses an external expert to carry out regular inspections of the emergency lighting.
+
+6.6 Fire Doors
+A fire door must not be left in the open position, unless fitted with an automatic door closure activated
+by a fire alarm.
+
+6.7 Fire Policy
+The College Fire Policy outlines:
+e Duties of the College Fire Marshals
+e What to do on hearing the fire alarm
+What to do on discovering a fire
+
+6.8 Duties of College Fire Marshals
+Each building will have at least one designated fire warden present at all times.
+Fire wardens will assist in the evacuation of staff and students from a building and restrict re-entry to a
+building until the ‘All Clear’ is given by the Fire Brigade, Safety Coordinator or Health and Safety
+Officer.
+Fire Marshals shall:
+
+e Create awareness and promote good fire safety standards in their area.
+
+e Know of any special hazards in his / her area
+
+e Know how to raise the alarm.
+
+29
+
+ 
+ 
+
+Rev-3 (Mar 2019)
+
+A list of the Fire Wardens is available from the Security Department. Also see Appendix | of this
+safety statement.
+
+6.9 Fire Action - College Fire Marshals
+In the case of an ‘Alert’ siren, Fire Marshals have the following duties
+e Ensure everyone in the area is aware of the emergency.
+e Check that toilets, shower rooms etc. are empty.
+e Ensure all personnel are preparing to evacuate the building
+e Closing all doors and windows.
+In the case of an ‘Evacuation’ siren, Fire Marshals have the following duties
+e Ensure all employees leave the building by the nearest exit and that no one is left behind
+in the toilets/shower room etc.
+Organize assistance for any person who requires it.
+Check especially for visitors to the faculty/department
+Close all doors and windows behind you when leaving the building, if it is safe to do so.
+Ensure no one evacuating the building uses the passenger lift/elevator.
+Guide evacuees to your/their assembly point. There are 8 assemble points on site all
+clearly denoted by signage A to H.
+e Inform the Safety Coordinators or their representative that you have successfully
+completed evacuation of the floor or if any person is unaccounted for.
+e Ensure nobody re-enters the building until the all clear is given by Fire Brigade or Safety
+Coordinators or Safety Officer.
+
+6.10 Fire Action — all employees, students and contractors.
+
+WHAT TO DO ON DISCOVERING A FIRE
+
+1. Make your way out of the building immediately.
+
+2. Raise the alarm immediately by operating the nearest break glass alarm unit (Break the glass
+and press the button on the alarm control).
+
+3. Phone Security or Reception (See Appendix | for contact details). You should state the exact
+location of the fire. Security/Reception will contact the Fire Brigade.
+
+4. If there is a risk to employees/students/visitors, evacuate the immediate area to the designated
+assembly point. Employees shall close all doors after them only if it is safe to do so.
+
+5. You must only use firefighting equipment if you are trained to do so or if it is to assist your
+safe exit from the building. Do not put yourself in danger. Ensure that you have a clear exit.
+
+6. Close windows and doors in the immediate vicinity where possible to prevent the fire from
+spreading if it is safe to do so.
+
+7. Once outside, wait for further instructions from the Fire Warden on duty. Under no
+circumstances should you re-enter the building until the All Clear is given by Fire Brigade,
+Fire Warden or Safety Coordinators.
+
+WHAT TO DO ON HEARING THE FIRE ALARM.
+1. Close doors & windows, if safe to do so.
+1. Evacuate the building using the nearest fire exit.
+2. Go to the designated assembly point.
+3. Teaching staff to remain with students.
+
+6.11 First Aid
+
+The College shall in accordance with the Safety, Health and Welfare at Work Act, General
+Application Regulations 2005 provide trained and qualified personnel readily available to administer
+first aid.
+
+30
+Rev-3 (Mar 219)
+
+Responsibilities
+First Aid within the College is coordinated by the Safety Coordinators.
+e First Aid Training is provided through the HR Dept. and or the Safety Coordinators.
+Determine where qualified first aid people are needed and numbers required
+Provide training for employees who volunteer to become involved in first aid
+Establish the contents of and provide the required number of first aid boxes.
+Check and maintain the contents of each first aid box.
+Ensure the first aid boxes are replenished as required
+Ensure an up-dated list of qualified first aid people is maintained at each first aid box and
+at reception.
+The ae Qualified in First Aid shall:
+Administer first aid as required
+e Maintain the cleanliness and readiness of first aid equipment designated for their use.
+e Maintain first aid records
+e Provide any needed follow up information.
+
+Note: The people qualified in First aid (or any member staff) are NOT empowered to dispense
+analgesics, pills or medications. Supplies of such items will not be kept in the first aid boxes.
+Individual employees and/or students who believe they might have need of these items must be
+responsible for their own supplies.
+
+e Employees must be aware of the location and contents of such boxes.
+
+e The First Aid Box must be readily accessible to all staff in the Faculty/Department.
+
+6.12 Fire Brigade Handover Folder
+
+This folder contains information that is relevant for the Fire Brigade to have before dealing with a
+fire or such emergency on campus. The folder will be handed over to the Fire Brigade on arrival
+to campus by Security or their representative (GCD Dublin).
+
+The information and equipment is as follows:
+
+Gas Mains Locations
+
+Fire Hydrant Locations
+
+Evacuation Assembly points
+
+Hazard Locations
+
+Hazards — Material Safety Data Sheets
+
+Keys and key fobs to restricted areas.
+
+This folder is maintained and updated by the Safety Coordinators (GCD Dublin).
+
+6.13 List of First Aid Personnel
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pre Hospital Emergency Care Clinical Levels
+Level 1 CFR Cardiac First Responder
+
+FAR First Aid Responder
+Level 2 P ; ;
+
+OFA Occupational First Aider
+Level 3 EFR Emergency First Responder
+Level 4 EMT Emergency Medical Technician
+Level 5 P. Paramedic
+Level 6 AP Advanced Paramedic
+
+ 
+
+ 
+
+ 
+
+ 
+
+31
+Rev-3 (Mar 2019)
+
+ 
+
+Griffith College Dublin
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name Department Level of Training Contact Details
+Michael Walsh Security CFR 0868182370 or 0872711948
+Liam Atkins Security OFA 0868182370 or 0872711948
+Thomas Kelleher Security OFA 0868182370 or 0872711948
+Shane Lynch Security OFA ‘| 9868182370 or 0872711948
+Martin Foy Security CFR, OFA,EMT 0868182370 or 0872711948
+Paul Walsh Student Union OFA 01-4150 Ext 497
+Claire Aston Student Union OFA 01-4150 Ext 418
+Eoin Carroll Computing CFR 01-4163 Ext 362
+Robert McKenna Library CFR 01-4150 Ext 492
+Rebecca Daly Design OFA 01-4150 Ext 423
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+   
+     
+     
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Griffith College Cork
+Name Contact
+David O’Shea 021-4507027/0860742907
+Christine White 021-4507027/0877625887
+Terry Ward 021-4507027/0872486497
+Helen Long 021-4507027/0876313196
+
+ 
+
+32
+
+ 
+Rev-3 (Mar 2019)
+
+6.14 Location of First Aid Boxes
+
+33
+
+First Aid Kit Locations
+
+Location Qty Contact Area
+Security Hut 1 Phone 086 8182370 or 087 2711948
+
+Students Union Reception Phone 01-4150 Ext 497
+
+I
+Facilities Office 1 Phone 086 8182370 or 087 2711948
+A109 1 Phone 01-4150 Ext 494
+
+Library front counter
+
+ 
+    
+
+   
+   
+
+    
+ 
+
+ 
+
+    
+
+  
+     
+
+      
+
+   
+
+Phone 01-4150 Ext 491
+
+ 
+
+      
+ 
+
+ 
+
+  
+ 
+  
+  
+  
+
+  
+
+Design C005 Phone 01-4150 Ext 423
+Phone - 01-4150 Ext 401, 402, 403,
+
+Reception
+LSMD - B003 l Phone - 01-4150 Ext 466
+AF204 Office
+
+i
+
+   
+    
+
+   
+   
+
+  
+
+I Phone - 01-4150 Ext 467
+
+[Ar204 Office ‘| 1| Phone - 01-4163 Ext 357
+
+HT Depewoor || Phone 01-4150 Ext499 |
+
+[GHR Front office |_| Phone - 01-4163 Ext 320 or 381__|
+
+[GHR Back office |__| Phone - 01-4163 Ext 320 or 381_|
+|
+
+ 
+
+ 
+ 
+  
+   
+
+Phone - 01-4163 Ext 320 or 381
+
+Phone - 01-4163 Ext 320 or 381
+
+GHR Maintenance
+GHR Linen Room
+
+   
+
+  
+  
+ 
+ 
+
+ 
+     
+
+ 
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+   
+   
+
+ 
+
+ 
+
+   
+
+  
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+  
+ 
+
+   
+
+ 
+
+Griffith College Wolfe Tone Street Dublin
+Location Contact
+Main Reception 01-4150450
+Canteen/kitchen 01-4150450
+Griffith College Cork
+Location Qty Contact
+English Language Department |_| 021-4507027
+Reception 1 021-4507027
+Griffith College Limerick
+Location Contact
+Administration 061-310031
+Reception 061-310031
+Staff Room 061-310031
+External Training Kitchen 061-310031
+English Languge Office 061-310031
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Rev-3 (Mar 2019)
+
+ 
+
+6.15 Minimum Content of First Aid Boxes
+
+Contents of First Aid Box
+
+Adhesive Plasters
+Individually Wrapped Triangular Bandages
+
+Safety Pins
+Large Individually Wrapped Sterile Un-medicated Wound
+Dressings (approx. 13 x 9 cms.)
+
+Individually Wrapped Wipes
+Paramedic Shears
+
+Pairs of Latex Gloves
+
+Sterile Eye Wash in sealed disposable containers 300 ml ea
+At least 900 ml should be provided.
+Eye bath / eye cups
+
+ 
+
+6.16 Care of an Injured Party
+1) On witnessing or being told of injury where the person is still in situ and is obviously injured:
+
+(a)
+
+Do not move them but make as comfortable as possible and call for
+trained/experienced First Aider (See section 6.13 for a list of names), Ambulance (999
+or 112) or medical assistance.
+- Do NOT leave the person alone
+- Phone SECURITY (Ext 495 or 0868182370 or 0872711948) or RECEPTION
+(See Appendix 1 for contact details)
+
+(b) If no serious injury apparent, comfort person and offer to call for medical care,
+transport, etc.
+
+(c) Offer non-alcoholic liquid refreshment — water, tea etc. to give person time to gather
+their composure.
+
+(d) Get details of incident from injured party, where possible and record in writing
+
+(e) Ensure as far as possible, injured party if driving, is fit to drive.
+
+(f) If required an ambulance should be called for the injured party — Dial 999 or 112.
+
+2) Where there is no personal injury involved:
+
+i) Record full details of occurrence with names of any employee or witness.
+
+ii) Note (with photo record if possible) extent of property damage or details of value of
+loss.
+
+iii) Pass all information recorded/any personal observations to your manager to be further
+
+processed.
+
+6.17 Automatic External Defibrillator (AED) — Griffith College Dublin and Limerick only
+
+There is one AED on the Dublin Campus, located in the main reception in the Arthur Griffith building.
+This unit is inspected weekly by Security. During out of hour’s times, the key for the reception area is
+available from security.
+
+Griffith College Limerick have a defibrillator located in the main reception.
+
+34
+Rev-3 (Mar 2019)
+
+7.0 RISK MANAGEMENT/ACCIDENT REPORTING
+
+An accident is an unplanned, unexpected event which may result in personal injury, loss or damage to
+property or equipment.
+
+An incident is a near miss which could have resulted in an accident. All Accidents/Incidents must be
+promptly reported and investigated, even if there is no injury, property loss or damage. It is important
+that timely and corrective action is taken so similar accidents may be prevented.
+
+All accidents/incidents to persons, whether or not in the employment of the College, however slight,
+shall be recorded on the College Accident Reporting Form (See Appendix | for location) by the
+appropriate Manager and a copy of the report sent to the Health and Safety Coordinators. All accidents
+will be investigated to reduce the risk of reoccurrence.
+
+If the accident results in absence from work for more than three days, then the Health and Safety
+Coordinators must inform the Health and Safety Authority using the IRI 1 form, a copy will be filed in
+the employee’s HR file.
+
+What do you do if you have an accident?
+e Promptly seek medical attention (See section 6.13 for a list of names).
+e Notify your manager as soon as possible of the injury.
+e Assist and provide information in determining the causes of injury.
+
+Duties of the line manager in the case of an accident:
+e Take action to ensure an injured employee is cared for.
+e Promptly investigate and take appropriate action.
+e Complete the Accident Report Form and submit it to the Safety Coordinators or the
+Health and Safety Officer.
+
+Duties of the Health and Safety Coordinator in the case of an accident:
+e Ensure accident investigation reports are submitted.
+e Review and evaluate the reports
+e Provide consultation or assistance for investigation of accidents/incidents where causes
+and/or corrective action are difficult to identify.
+e Report occupational injuries to the Health and Safety authority in accordance with current
+legislation.
+
+Duties of the First Aiders in the case of an accident:
+e Provide first aid services as required
+e Provide any needed follow up information that will assist in the accident investigation.
+
+7.1 Procedure for Reporting Health and Safety Issues
+e  Allhealth and safety issues should be reported immediately to your line manager.
+e Ifthe matter cannot be resolved by local management it will referred to the Safety Officer
+or the Safety Coordinators.
+e The Safety Officer will investigate the issue and remedy were possible. Control measures
+will be put in place to eliminate the hazard. If this is not possible an alternative safer
+process will be used.
+
+REMEMBER
+
+All accidents and incidents must be reported to your line manager, Safety Coordinators,
+Safety Officer or one of their representatives.
+
+35
+
+ 
+Rev-3 (Mar 2019)
+
+7.2 Accident and Incident Report Form Dublin & Cork
+
+ 
+
+ACCIDENT - INCIDENT REPORT
+
+All Accidents resulting in personal injury, a dangerous occurrence, damage to property or a near miss
+that could have resulted in injury must be reported within 24 hours by completing this form and
+
+returning it to the College Safety Officer.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Report completed by: Date:
+Date of incident | Time | Area Exact location
+Name of injured party: Occupation:
+Address: Staff/Student/Other
+Details:
+Facility:
+
+ 
+
+Describe the nature and extent of injuries suffered.
+
+First aid treatment Y/N
+
+ 
+
+ 
+
+ 
+
+Describe the circumstances of the incident.
+
+Referred to Doctor? Y/N
+
+Doctor’s name and address
+
+ 
+
+ 
+
+ 
+
+What was person doing at the time of the incident?
+Work/other activity, Describe
+
+ 
+
+ 
+
+ 
+
+Taken to hospital? Y/N
+By:
+
+Hospital:
+
+Admitted or discharged after
+treatment? Specify.
+
+ 
+
+Was protective clothing worn at the time of the incident?
+
+ 
+
+Was any machinery or vehicle involved?
+
+Witness to incident? Y/N
+Name:
+
+Phone:
+
+Address:
+
+ 
+
+Comments or additional information.
+
+ 
+
+ 
+
+Received by:
+
+ 
+
+Health and Safety Officer
+
+36
+
+Reported by:
+Phone No:
+Department:
+
+Date:
+Rev-3 (Mar 2019)
+
+7.3 Accident and Incident Report Form Limerick
+
+  
+ 
+
+ident
+
+ 
+
+| All accidents resulting in personal injury, a dangerous occurrence, damage to property or a near miss which could have resulted in
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+
+ 
+
+|
+i eee _______ injury must be reported within 24 hours by completing thisdocument.
+Report completed by [
+} a i
+L Date Time | Area
+| Name of injured party | as = Occupation ea
+— | toca y SSeS oo ase sare
+| Describe the nature and extent of injuries suffered
+|
+'
+| First Aid Treatment | ____ Visit to doctor : [~
+pee ES Ze YIN |
+| Administered by L Doctor's details =|
+Describe the circumstances of the incident a - -
+| i : : &
+| What was the person doing at the time of the incident?
+| Was protective clothing worn at the time of the incident? 7
+| = cc a
+| Was a vehicle / machinery involved?
+i
+| wanes |
+Comments or additional information |
+| _ 7 a
+| Witness to incident a |
+[Reportedby | Department
+ES 22 ee Seo
+pee ae = aes
+|
+
+ 
+
+37
+
+ 
+
+ 
+ 
+
+Rev-3 (Mar 2019)
+
+7.4 Hazard & Risk Assessment Work Sheets
+
+Hazard and risk assessment is used to document existing hazards in College
+Faculties/Departments.
+
+See Appendix 2 for a sample of a hazard and risk assessment.
+
+Employees have a responsibility to read the Hazard & Risk Assessment Work
+Sheets which apply to their area and task.
+
+8.0 TRAINING
+Section 10 of the Safety, Health & Welfare at Work Act, 2005 requires that training in relation to
+employees’ safety, health & welfare at work is provided to employees:
+
+e On recruitment
+
+e On transfer to another department
+
+e On change of tasks assigned
+
+e On the introduction of new work equipment, new systems of work or changes in existing
+
+equipment or systems
+e On the introduction of new technology
+
+Such training will be provided in a form, manner and, as appropriate, language that is likely to be
+understood by the affected employees.
+
+The HR Department will ensure that the following occurs:
+
+Health and Safety included in the induction of new staff— policies explained.
+Fire and Emergency procedures Training
+
+Manual Handling Training
+
+Fire Marshal Training
+
+First Aid Training
+
+Office Ergonomics Training
+
+Other central training where risk assessment identifies specific campus needs.
+
+Where specialist individual training is. required, staff are enrolled on external training courses.
+Individual Faculties and Departments work in collaboration with the HR Department to identify local
+training needs, develop appropriate training materials and identify competent training providers.
+
+8.1 Health and Safety Training records
+
+The HR Department is responsible for maintaining and updating employee training records where
+participation in sponsored training occurred.
+
+The HR Department is responsible for maintaining and updating the health and safety training records
+of their staff.
+
+Records of all safety training, showing the names of the employees who have received training, their
+signature will be kept by the HR department and the Health and Safety Coordinators.
+
+Heads of Faculty/Department will maintain safety training records for their staff.
+
+8.2 Train the Trainer Programmes
+The College run a number of Train the Trainer programmes (Manual Handling)
+
+8.3 Manual Handling Training:
+
+All employees will attend a course in manual handling carried out by a Griffith College Manual
+Handling Instructor. Employees will attend a refresher course every three years.
+
+Employees must try and avoid manual handling where possible and to use appropriate manual
+handling aids provided.
+
+38
+Rev-3 (Mar 2019)
+
+9.0 REVIEW OF THE SAFETY STATEMENT
+The Safety Coordinators and Safety Officer will review the Safety Statement annually or with changes
+in legislation.
+The annual review will include the following:
+* A review of all incidents in the previous twelve months involving health and safety at work.
++ A review of the measures taken to avoid a re-occurrence of such incidents.
+* A review of all records maintained by the College.
+* A review of training provided.
+¢ A review of the resources spent in implementing the safety management systems.
+* Proposals for amendments to safety statement.
+* Proposals for training during the coming year.
+* A review of hazard and risk assessments within the working areas.
+* Updating with regard to new legislation.
+
+9.1 Review Checklist
+
+39
+
+Is the Safety Statement clear and concise
+
+Can the Safety Statement be read and understood by those who may be at risk?
+Are the responsibilities of named persons clearly outlined?
+
+Are all the hazards and assessment of risks identified?
+
+Are risk assessments carried out on a regular basis as the risks change?
+
+Are the risk assessments acted on?
+
+Are written safety procedures available?
+
+Is Health and Safety training being carried out?
+
+Do safety consultation and representation procedures exist?
+
+Is there adequate co-operation between Management Board, Heads of Faculty/Department,
+Line Manager and employees on health and safety issues in the work
+
+ 
+
+ 
+ 
+
+Rev-3 (Mar 2019)
+
+Appendix 1 Griffith College Safety Statement
+
+Contents
+
+App 1.1 List of Trained Fire Marshals
+
+App 1.2 List of Key Contacts
+
+App 1.3 Location of Accident/Incident report form/book
+
+40
+Rev-3 (Mar 2019)
+
+App 1.1 List of Trained Fire Marshals
+
+ 
+
+Griffith College Dublin
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+
+ 
+  
+
+ 
+
+  
+
+ 
+
+ 
+
+     
+
+ 
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+    
+
+  
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Second
+eae First response buildings response
+Name Faculty/Dept Building Floor an 8 Gedliines
+Ee [Be ba x Lx] covere, *
+Alan Wright Campus Services Facilities office All All All
+Charlie Monks Accounts D Block 0 D Block All
+Claire Aston Student Union Meagher 1 Meagher & M Block All
+Cliona Wrynn DIFC D Block 1 D Block A
+Corey Lynch Wolfe Tone St Wolfe Tone St 0 All- WTS All- WTS
+Declan Condon Arthurs Café AF Building zl AF Block & Design Bunker A
+Declan Healy Maintenance All All All A
+Deirdre Counihan Reception A Block 0 A Block & B Block All
+Deirdre Doherty Design C Block 0 C Block & E Block All
+Dimphne Ni Bhraonain Library A Block 2 A Block & B Block All
+Gabriela Paleta GHR GHR GHR All
+Geraldine McGing Spring Board C Block (C013) | 0 | C Block & E Block A
+|Gerry Sheehan Maintenance [All All All A
+Jacqui Broderick Professional Accountancy _|D Block 0 D Block A
+Johnny Savage Photograph CAV. Calvar A
+Joseph Byrne Wellington 0 Wellington, Richmond and J.S A
+Kate Mason AF Building 1 AF Block & Design Bunker A
+Kaylee Hayhoe AF Building -l AF Block & Design Bunker Al
+Liam Atkins Securit Security/GHR All All All
+Mairead Lawless Wolfe Tone St Wolfe Tone St | 0 All- WTS All- WTS
+Marcus Gatte Law D Block 2 D Block All
+Marius Bacau GHR GHR GHR A
+Martin Foy Security Security/GHR All All A
+Mary Whitney GBS [A Block (A109) 1 A Block & B Block A
+Michael Walsh Securit Security/GHR All All A
+Orla Browne GHR GHR GHR A
+Paul Finegan IT Wellington 0 Wellington, Richmond and J.S A
+Qiu Pan Housekeeping Facilities office 0 | All A
+Rebecca Daly Design C Block 0 C Block & E Block A
+Redmond Quigley Wolfe Tone St Wolfe Tone St 0 All- WTS All- WTS
+Robert McKenna 2 A Block & B Block All
+Shane Lynch All A
+Sinead Murphy Photography A Block & B Block A
+Susan Gogan Photography Calvary A
+Sylvia Kucinska DIFC |D Block D Block A
+Thomas Kelleher Security [Security/GHR | All A
+Will Phelan Maintenance [Facilities office | All_| All A
+Xinxin Zhao GHR (as | 2 | GHR Al
+Yifan Yang International AF Building | i | AF Block & Design Bunker Al
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+Griffith College Wolfe Tone Street Dublin
+
+ 
+
+        
+
+  
+
+ 
+
+      
+
+Name Contact
+Redmond Quigley 01-4150450
+Corey Lynch | 01-4150450
+
+ 
+
+41
+
+ 
+ 
+
+Rev-3 (Mar 2019)
+
+ 
+
+| Griffith College Cork
+
+ 
+
+ 
+
+ 
+ 
+        
+     
+  
+  
+ 
+
+ 
+
+ 
+
+ 
+
+| Name Contact
+
+[David O’Shea 0860742907
+[Noel Daly 0851066407
+[Sinead O'Dea 0863825101
+Terry Ward 0872486497
+
+0876313196
+
+Griffith College Limerick
+Name Contact
+Ext 213 — 061 310031 / 310044
+
+ 
+
+ 
+
+   
+
+ 
+
+   
+
+Anthony Brosnan
+
+App 1.2 List of Key Contacts
+
+ 
+
+Griffith College Dublin
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Safety Role Department/Role Name Ext & Mobile numbers
+
+Director Management Board Ronan Fenelon _|086 8117349
+Director Management Board _|Director Management Board Reg Callanan 01-4150 - 446
+Safety Officer Campus Services/Facilities Manager Alan Wright 087 7478912
+Safety Coordinator Security Supervisor Thomas Kelleher _|087 1918235
+Safety Coordinator Security Supervisor Liam Atkins 087 9284856
+Head of Faculty/Line manager Rabia Mirza Ol- 4150 - 498
+
+: pie O1 - 4150 - 495, 086 8182370
+Head of Faculty/Line manager |Security N/A or 087 2711948
+Head of Faculty/Line manager |Accounts N/A Ol- 4150 - 479, 480, 481, 483
+Head of Faculty/Line manager_|Marketing N/A Ol- 4150-411
+
+. 7 Contact Housekeeping via
+Head of Faculty/Line manager |Housekeeping N/A Reception 01- 4150 - 401
+Head of Faculty/Line manager |Examinations Office N/A Ol- 4150 - 486, 485
+Head of Faculty/Line manager N/A Ol- 4150 - 266, 267, 499, 240
+Head of Faculty/Line manager |International Office N/A _ 150 ut20, BR fA, (22,
+Head of Faculty/Line manager |Librar N/A 01 - 4150 - 490, 491, 492
+Head of Faculty/Line manager [Print room N/A O1- 4150 - 496
+Head of Faculty/Line manager [Reception N/A O1- 4150 - 401, 402, 403, 404
+Head of Faculty/Line manager [Restaurant Ol- 4538 - 503
+Head of Faculty/Line manager [Students Union N/A Ol- 4150 - 418
+Head of Faculty/Line manager _|Maintenance N/A Ol- 4163 - 332, 087 9197462
+Head of Faculty/Line manager [Conference Centre AF N/A O1- 4163 - 357
+Head of Faculty/Line manager [Wolfe Tone Street Mairead Lawless _|01- 4150-411
+
+ 
+
+ 
+
+Griffith College Wolfe Tone Street Dublin
+
+Name Phone Numbers
+
+Mairead Lawless Manager of Griffith College Wolfe Tone St 01-4150411
+
+ 
+
+Griffith College Cork
+
+| Role | Mobile Numbers
+
+ 
+
+Head of Griffith College Cork 0876813351
+Deputy Head of Griffith College Cork 0851066407
+Maintenance 0868259222
+
+ 
+Rev-3 (Mar 2019)
+
+       
+
+ 
+
+Griffith College Limerick
+Department Extension & Mobile numbers
+
+ 
+
+   
+
+enior Administrator
+
+ity Department a
+gineering & IT Department | 206
+chool of Languages
+taff Room |
+
+rofessional Accountance
+
+Business & Finance
+
+Ext 201 — 061 310031 / 310043 / 087
+2279395
+Ext 201 — 061 310031 / 310043 / 087
+2279395
+
+  
+   
+
+PIZIY IBS| xcyyY |x iz
+B/2-12 /8./8 |
+2 |5-[3 a |e
+8 12.8 o/s.
+S/S |= 1S
+Sls Q|5
+eis. p
+g S
+=
+n
+
+200
+201
+202
+203
+204
+ineeri 206
+210
+213
+215
+
+ 
+     
+
+ 
+
+Safety Coordinator - Kevin
+O'Sullivan
+
+Safety Officer - Kevin
+O'Sullivan
+
+  
+
+ 
+
+ 
+
+App 1.3 Location of Accident/Incident report form/book
+
+  
+ 
+      
+     
+
+  
+   
+
+APP 1.3 - Location of Accident/Incident Report book
+Griffith College Campus
+Main reception
+Main reception
+
+Cork
+Limerick
+Wolfe Tone Street Dublin
+
+   
+
+ 
+
+43
+Rev-3 (Mar 2019)
+
+Appendix 2 Griffith College Safety Statement
+
+Contents
+App 2.1 Sample Risk Assessment and Method Statement
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+Site Griffith College Area All
+Activity: Fabrics — Painting and Decorating Reference T.B.C
+Additional Point of
+Requirements eae Work Risk PSDP/PSCS AP/CP
+Assessment
+Persons at Griffith Personnel Non-Griffith Personnel
+Bek Employees Pregnant Young Other Public Visitors
+Xx x x
+Worker
+Hazards Identified: L +S --R Controls needed S128) ER:
+Use of chemicals 3/2] 6 e Only use chemicals that have| 1 | 2 | 2
+been MSDS available
+e Decant into smaller containers if
+necessary
+e Use in well ventilated areas
+e Use appropriate PPE
+Falling material ] 3 | 3 9 e Secure and cordon off area 1|3 3
+e If not possible, complete out of
+hours
+Falls from height B:| 3 jag. e Correct access equipment | 2 | 3 | 6
+selected for task.
+e Operator trained in use of og
+equipment
+e Equipment secured before use
+Slips, trips and falls sae 9 e Maintain good housekeeping 1/3
+Use of power tools and hand tools 2|3 }-6 e Ensure right tools for job 1/33
+e Ensure tools are inspected prior
+to use
+Protective Equipment
+Type Overalls Gloves ne eae Hearing Hi Vis Head Eye Feet
+Symbol fo)
+© |G y
+Required x X x
+Protective Systems :
+‘ype Leck Out Permit ne Asbestos Baciers Out of Handover oe Pre Task
+to Work z Survey Certs Checks
+Equip task
+Symbol < =
+hg
+Required xX
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+44
+Rev-3 (Mar 2019)
+
+ 
+
+Assessors Statement:
+
+Having reviewed the hazards and risks, the level of risk and the key risks, | believe that if the control measures
+identified are applied Griffith will, so far as is reasonably practicable, have met the requirements of this
+assessment
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Name Role
+
+Signature
+
+Date Review
+Risk matrix
+
+Risk Evaluation Likelihood of Occurrence
+| 2 2! Improbable 1/1,000,000
+
+Low 1/10,000
+
+meciom | een
+
+1/100
+
+Near Certainty 1/10
+
+Fatality
+
+ 
+
+Potential Severity
+
+apeseatie [| = [= [>|
+
+ 
+
+45
+
+ 
+Rev-3 (Mar 2019)
+
+ 
+
+Method statement
+
+ 
+
+Task
+
+ 
+
+ 
+
+ 
+
+Fabrics — Painting and Decorating | Reference Steps | 1to5
+
+ 
+
+ 
+
+ 
+
+Additional Workplace / Task Precautions
+
+ 
+
+Information, instruction and training
+
+ 
+
+Competency
+
+Appropriate non-slip shoes, glasses and gloves if
+requested
+
+ 
+
+Site/Job Specific Emergency Arrangements
+
+[Insert Site Arrangements]
+
+ 
+
+Specialist plant & equipment required
+
+None
+
+ 
+
+First aid arrangements
+
+ 
+
+Site Adaptations Implemented
+
+[Insert site specific deviations from RA
+Controls/methods]
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Step
+NOTE _|
+Ensure area is clear of all non-essential personnel. When preparation work is being
+1 carried out, noise and dust are to be kept to a minimum. Lighting to be assessed for
+the job in hand. If it is not adequate then additional lighting brought in if deemed
+necessary. Work area to be kept clean and tidy at all times
+Personal protective equipment is to be worn to comply with Statutory Regulations
+2 and site rules. Dust masks to be worn when sanding down wood, cutting tiles etc.
+Goggles to be worn when using power tools that generate flying debris. Hearing
+defenders to be worn when using power tools that have noise levels over 85 dB(A).
+3 Paint should be decanted into smaller pots for ease of use
+All paint and thinners to be assessed before use. When stripping old paintwork be
+4 aware that it might contain lead. Ensure that there is adequate ventilation at all
+times.
+Ladders / steps to be secured or footed. All ladders / steps to be inspected prior to
+5 each use. Keep other persons out of working area when working above ground
+
+ 
+
+level. Materials to be stacked safely. Keep working area free of obstructions. No
+items to be thrown from height
+
+ 
+
+46

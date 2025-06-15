@@ -1,0 +1,489 @@
+- Consent
+
+- Details
+
+- [#IABV2SETTINGS#]
+
+- About
+
+- Necessary31Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.Amazon1Learn more about this providercookies.jsDetermines whether the visitor has accepted the cookie consent box. This ensures that the cookie consent box will not be presented again upon re-entry.Maximum Storage Duration: SessionType: HTTP CookieCookiebot1Learn more about this providerCookieConsentStores the user's cookie consent state for the current domainMaximum Storage Duration: 1 yearType: HTTP CookieGoogle3Learn more about this providerSome of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.test_cookieUsed to check if the user's browser supports cookies.Maximum Storage Duration: 1 dayType: HTTP Cookie_GRECAPTCHAThis cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.Maximum Storage Duration: 180 daysType: HTTP Cookiear_debugChecks whether a technical debugger-cookie is present.Maximum Storage Duration: 3 monthsType: HTTP CookieHubspot4Learn more about this providerrc::aThis cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.Maximum Storage Duration: PersistentType: HTML Local Storagerc::bThis cookie is used to distinguish between humans and bots.Maximum Storage Duration: SessionType: HTML Local Storagerc::cThis cookie is used to distinguish between humans and bots.Maximum Storage Duration: SessionType: HTML Local Storagerc::fThis cookie is used to distinguish between humans and bots.Maximum Storage Duration: PersistentType: HTML Local StorageLinkedIn1Learn more about this providerli_gcStores the user's cookie consent state for the current domainMaximum Storage Duration: 180 daysType: HTTP CookieTED1Learn more about this provider__mp_opt_in_out_#Stores the user's cookie consent state for the current domainMaximum Storage Duration: SessionType: HTTP Cookiecdn.jsdelivr.net4cookiebot-consent--marketingUsed to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.Maximum Storage Duration: SessionType: HTTP Cookiecookiebot-consent--necessaryUsed to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.Maximum Storage Duration: SessionType: HTTP Cookiecookiebot-consent--preferencesUsed to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.Maximum Storage Duration: SessionType: HTTP Cookiecookiebot-consent--statisticsUsed to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.Maximum Storage Duration: SessionType: HTTP Cookiehsadspixel.neths-banner.comvimeo.com12__cf_bm [x12]This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.Maximum Storage Duration: 1 dayType: HTTP Cookiehsforms.comvimeo.com3_cfuvid [x3]This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators.Maximum Storage Duration: SessionType: HTTP Cookiewww.griffith.ie1SSESS#PendingMaximum Storage Duration: 24 daysType: HTTP Cookie
+
+- Amazon1Learn more about this providercookies.jsDetermines whether the visitor has accepted the cookie consent box. This ensures that the cookie consent box will not be presented again upon re-entry.Maximum Storage Duration: SessionType: HTTP Cookie
+
+- Cookiebot1Learn more about this providerCookieConsentStores the user's cookie consent state for the current domainMaximum Storage Duration: 1 yearType: HTTP Cookie
+
+- Google3Learn more about this providerSome of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.test_cookieUsed to check if the user's browser supports cookies.Maximum Storage Duration: 1 dayType: HTTP Cookie_GRECAPTCHAThis cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.Maximum Storage Duration: 180 daysType: HTTP Cookiear_debugChecks whether a technical debugger-cookie is present.Maximum Storage Duration: 3 monthsType: HTTP Cookie
+
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+
+- Hubspot4Learn more about this providerrc::aThis cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.Maximum Storage Duration: PersistentType: HTML Local Storagerc::bThis cookie is used to distinguish between humans and bots.Maximum Storage Duration: SessionType: HTML Local Storagerc::cThis cookie is used to distinguish between humans and bots.Maximum Storage Duration: SessionType: HTML Local Storagerc::fThis cookie is used to distinguish between humans and bots.Maximum Storage Duration: PersistentType: HTML Local Storage
+
+- LinkedIn1Learn more about this providerli_gcStores the user's cookie consent state for the current domainMaximum Storage Duration: 180 daysType: HTTP Cookie
+
+- TED1Learn more about this provider__mp_opt_in_out_#Stores the user's cookie consent state for the current domainMaximum Storage Duration: SessionType: HTTP Cookie
+
+- cdn.jsdelivr.net4cookiebot-consent--marketingUsed to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.Maximum Storage Duration: SessionType: HTTP Cookiecookiebot-consent--necessaryUsed to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.Maximum Storage Duration: SessionType: HTTP Cookiecookiebot-consent--preferencesUsed to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.Maximum Storage Duration: SessionType: HTTP Cookiecookiebot-consent--statisticsUsed to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.Maximum Storage Duration: SessionType: HTTP Cookie
+
+- hsadspixel.neths-banner.comvimeo.com12__cf_bm [x12]This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website.Maximum Storage Duration: 1 dayType: HTTP Cookie
+
+- hsforms.comvimeo.com3_cfuvid [x3]This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators.Maximum Storage Duration: SessionType: HTTP Cookie
+
+- www.griffith.ie1SSESS#PendingMaximum Storage Duration: 24 daysType: HTTP Cookie
+
+- Preferences20Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.Amazon2Learn more about this providerreduxPersist%3AlocalStoragePendingMaximum Storage Duration: 7 daysType: HTTP CookiereduxPersistIndexMaintains website settings across multiple visits.Maximum Storage Duration: 7 daysType: HTTP CookieIssuu11Learn more about this providerfirstSessionTimestampPendingMaximum Storage Duration: PersistentType: HTML Local StorageisFirstSessionPendingMaximum Storage Duration: SessionType: HTML Local StorageLOCAL_STORAGE_ID_pico_lsidPendingMaximum Storage Duration: PersistentType: HTML Local StorageorionV3#identityPendingMaximum Storage Duration: PersistentType: IndexedDBpico#eventsPendingMaximum Storage Duration: PersistentType: IndexedDBpico#keyvalPendingMaximum Storage Duration: PersistentType: IndexedDBSESSION_STORAGE_ID_pico_ssidPendingMaximum Storage Duration: SessionType: HTML Local Storagespidersense#eventPendingMaximum Storage Duration: PersistentType: IndexedDBspidersense#setup_responsePendingMaximum Storage Duration: PersistentType: IndexedDBspidersense#user_infoPendingMaximum Storage Duration: PersistentType: IndexedDBspidersense:user_id:v1_issuu_webPendingMaximum Storage Duration: PersistentType: HTML Local StoragePubble2Learn more about this providerJSESSIONIDPreserves users states across page requests.Maximum Storage Duration: SessionType: HTTP Cookiepubble_triggerPendingMaximum Storage Duration: 1 dayType: HTTP CookieTED5Learn more about this providerautoplay_preferencePendingMaximum Storage Duration: PersistentType: HTML Local Storagemuted_statePendingMaximum Storage Duration: SessionType: HTML Local Storageplayback_rate_statePendingMaximum Storage Duration: SessionType: HTML Local Storageshow-browser-update-bannerPendingMaximum Storage Duration: SessionType: HTML Local Storagemp_uuidPendingMaximum Storage Duration: SessionType: HTTP Cookie
+
+- Amazon2Learn more about this providerreduxPersist%3AlocalStoragePendingMaximum Storage Duration: 7 daysType: HTTP CookiereduxPersistIndexMaintains website settings across multiple visits.Maximum Storage Duration: 7 daysType: HTTP Cookie
+
+- Issuu11Learn more about this providerfirstSessionTimestampPendingMaximum Storage Duration: PersistentType: HTML Local StorageisFirstSessionPendingMaximum Storage Duration: SessionType: HTML Local StorageLOCAL_STORAGE_ID_pico_lsidPendingMaximum Storage Duration: PersistentType: HTML Local StorageorionV3#identityPendingMaximum Storage Duration: PersistentType: IndexedDBpico#eventsPendingMaximum Storage Duration: PersistentType: IndexedDBpico#keyvalPendingMaximum Storage Duration: PersistentType: IndexedDBSESSION_STORAGE_ID_pico_ssidPendingMaximum Storage Duration: SessionType: HTML Local Storagespidersense#eventPendingMaximum Storage Duration: PersistentType: IndexedDBspidersense#setup_responsePendingMaximum Storage Duration: PersistentType: IndexedDBspidersense#user_infoPendingMaximum Storage Duration: PersistentType: IndexedDBspidersense:user_id:v1_issuu_webPendingMaximum Storage Duration: PersistentType: HTML Local Storage
+
+- Pubble2Learn more about this providerJSESSIONIDPreserves users states across page requests.Maximum Storage Duration: SessionType: HTTP Cookiepubble_triggerPendingMaximum Storage Duration: 1 dayType: HTTP Cookie
+
+- TED5Learn more about this providerautoplay_preferencePendingMaximum Storage Duration: PersistentType: HTML Local Storagemuted_statePendingMaximum Storage Duration: SessionType: HTML Local Storageplayback_rate_statePendingMaximum Storage Duration: SessionType: HTML Local Storageshow-browser-update-bannerPendingMaximum Storage Duration: SessionType: HTML Local Storagemp_uuidPendingMaximum Storage Duration: SessionType: HTTP Cookie
+
+- Statistics17Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.Google2Learn more about this providerSome of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness._gaRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.Maximum Storage Duration: 2 yearsType: HTTP Cookie_ga_#Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit.Maximum Storage Duration: 2 yearsType: HTTP CookieHotjar4Learn more about this provider_hjSession_#Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.Maximum Storage Duration: 1 dayType: HTTP Cookie_hjSessionUser_#Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.Maximum Storage Duration: 1 yearType: HTTP CookiehjActiveViewportIdsThis cookie contains an ID string on the current session. This contains non-personal information on what subpages the visitor enters – this information is used to optimize the visitor's experience.Maximum Storage Duration: PersistentType: HTML Local StoragehjViewportIdSaves the user's screen size in order to adjust the size of images on the website.Maximum Storage Duration: SessionType: HTML Local StoragePubble1Learn more about this providerpubble_session_timeTracks how long the user has been on the site. It is used for any time based triggers. Like the Greeting messages.Maximum Storage Duration: SessionType: HTTP CookieSolarwinds2Learn more about this providerpa-lUsed in connection with End User Experience Monitoring (EUEM). The cookie collects information on application/device performance, which allows support/website staff to optimize their products and services.Maximum Storage Duration: PersistentType: HTML Local Storagepa-l_enabledUsed in connection with End User Experience Monitoring (EUEM). The cookie collects information on application/device performance, which allows support/website staff to optimize their products and services.Maximum Storage Duration: PersistentType: HTML Local StorageSpotify1Learn more about this providersentryReplaySessionRegisters data on visitors' website-behaviour. This is used for internal analysis and website optimization.Maximum Storage Duration: SessionType: HTML Local StorageTED2Learn more about this providermuxDataThis cookie is used in context with a video-player, so that if the visitor is interrupted while viewing video content, the cookie remembers where to start the video when the visitor reloads the video.Maximum Storage Duration: 1 yearType: HTTP CookieNRBA_SESSIONCollects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.Maximum Storage Duration: PersistentType: HTML Local StorageTikTok1Learn more about this provider_tt_enable_cookieUsed by the social networking service, TikTok, for tracking the use of embedded services.Maximum Storage Duration: 1 yearType: HTTP CookieVimeo1Learn more about this providervuidCollects data on the user's visits to the website, such as which pages have been read.Maximum Storage Duration: 2 yearsType: HTTP Cookiecdn.mida.so3_abcachePendingMaximum Storage Duration: PersistentType: HTML Local Storagemd_pending_eventsPendingMaximum Storage Duration: PersistentType: HTML Local Storageoptimize_uuidPendingMaximum Storage Duration: 1 yearType: HTTP Cookie
+
+- Google2Learn more about this providerSome of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness._gaRegisters a unique ID that is used to generate statistical data on how the visitor uses the website.Maximum Storage Duration: 2 yearsType: HTTP Cookie_ga_#Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit.Maximum Storage Duration: 2 yearsType: HTTP Cookie
+
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+
+- Hotjar4Learn more about this provider_hjSession_#Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.Maximum Storage Duration: 1 dayType: HTTP Cookie_hjSessionUser_#Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read.Maximum Storage Duration: 1 yearType: HTTP CookiehjActiveViewportIdsThis cookie contains an ID string on the current session. This contains non-personal information on what subpages the visitor enters – this information is used to optimize the visitor's experience.Maximum Storage Duration: PersistentType: HTML Local StoragehjViewportIdSaves the user's screen size in order to adjust the size of images on the website.Maximum Storage Duration: SessionType: HTML Local Storage
+
+- Pubble1Learn more about this providerpubble_session_timeTracks how long the user has been on the site. It is used for any time based triggers. Like the Greeting messages.Maximum Storage Duration: SessionType: HTTP Cookie
+
+- Solarwinds2Learn more about this providerpa-lUsed in connection with End User Experience Monitoring (EUEM). The cookie collects information on application/device performance, which allows support/website staff to optimize their products and services.Maximum Storage Duration: PersistentType: HTML Local Storagepa-l_enabledUsed in connection with End User Experience Monitoring (EUEM). The cookie collects information on application/device performance, which allows support/website staff to optimize their products and services.Maximum Storage Duration: PersistentType: HTML Local Storage
+
+- Spotify1Learn more about this providersentryReplaySessionRegisters data on visitors' website-behaviour. This is used for internal analysis and website optimization.Maximum Storage Duration: SessionType: HTML Local Storage
+
+- TED2Learn more about this providermuxDataThis cookie is used in context with a video-player, so that if the visitor is interrupted while viewing video content, the cookie remembers where to start the video when the visitor reloads the video.Maximum Storage Duration: 1 yearType: HTTP CookieNRBA_SESSIONCollects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner.Maximum Storage Duration: PersistentType: HTML Local Storage
+
+- TikTok1Learn more about this provider_tt_enable_cookieUsed by the social networking service, TikTok, for tracking the use of embedded services.Maximum Storage Duration: 1 yearType: HTTP Cookie
+
+- Vimeo1Learn more about this providervuidCollects data on the user's visits to the website, such as which pages have been read.Maximum Storage Duration: 2 yearsType: HTTP Cookie
+
+- cdn.mida.so3_abcachePendingMaximum Storage Duration: PersistentType: HTML Local Storagemd_pending_eventsPendingMaximum Storage Duration: PersistentType: HTML Local Storageoptimize_uuidPendingMaximum Storage Duration: 1 yearType: HTTP Cookie
+
+- Marketing53Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.Meta Platforms, Inc.4Learn more about this providerlastExternalReferrerDetects how the user reached the website by registering their last URL-address.Maximum Storage Duration: PersistentType: HTML Local StoragelastExternalReferrerTimeDetects how the user reached the website by registering their last URL-address.Maximum Storage Duration: PersistentType: HTML Local StoragetopicsLastReferenceTimeCollects data on the user across websites - This data is used to make advertisement more relevant.Maximum Storage Duration: PersistentType: HTML Local Storage_fbpUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.Maximum Storage Duration: 3 monthsType: HTTP CookieGoogle6Learn more about this providerSome of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.IDEUsed by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.Maximum Storage Duration: 400 daysType: HTTP CookieNIDRegisters a unique ID that identifies a returning user's device. The ID is used for targeted ads.Maximum Storage Duration: 6 monthsType: HTTP Cookiepagead/1p-conversion/#/PendingMaximum Storage Duration: SessionType: Pixel Trackerpagead/1p-user-list/#Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.Maximum Storage Duration: SessionType: Pixel Tracker_gcl_auUsed by Google AdSense for experimenting with advertisement efficiency across websites using their services.Maximum Storage Duration: 3 monthsType: HTTP Cookie_gcl_lsTracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website.Maximum Storage Duration: PersistentType: HTML Local StorageHotjar2Learn more about this provider_hjTLDTestDetects the SEO-ranking for the current website. This service is part of a third-party statistics and analysis service.Maximum Storage Duration: SessionType: HTTP CookiehubspotutkKeeps track of a visitor's identity. This cookie is passed to the marketing platform HubSpot on form submission and used when de-duplicating contacts.Maximum Storage Duration: PersistentType: HTML Local StorageHubspot5Learn more about this provider__hsscCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Maximum Storage Duration: 1 dayType: HTTP Cookie__hssrcCollects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Maximum Storage Duration: SessionType: HTTP Cookie__hstcCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Maximum Storage Duration: 180 daysType: HTTP CookiehubspotutkKeeps track of a visitor's identity. This cookie is passed to the marketing platform HubSpot on form submission and used when de-duplicating contacts.Maximum Storage Duration: 180 daysType: HTTP Cookie__ptq.gifSends data to the marketing platform Hubspot about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.Maximum Storage Duration: SessionType: Pixel TrackerIssuu1Learn more about this provideriutkRecognises the user's device and what Issuu documents have been read.Maximum Storage Duration: SessionType: HTTP CookieLinkedIn2Learn more about this providerbcookieUsed by the social networking service, LinkedIn, for tracking the use of embedded services.Maximum Storage Duration: 1 yearType: HTTP CookielidcUsed by the social networking service, LinkedIn, for tracking the use of embedded services.Maximum Storage Duration: 180 daysType: HTTP CookieSpotify2Learn more about this providersp_landingUsed to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes.Maximum Storage Duration: 1 dayType: HTTP Cookiesp_tUsed to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes.Maximum Storage Duration: 1 yearType: HTTP CookieTED3Learn more about this provider__mpq_#_#Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.Maximum Storage Duration: PersistentType: HTML Local Storagemp_#_mixpanel [x2]PendingMaximum Storage Duration: SessionType: HTTP CookieTikTok4Learn more about this providertt_appInfoUsed by the social networking service, TikTok, for tracking the use of embedded services.Maximum Storage Duration: SessionType: HTML Local Storagett_pixel_session_indexUsed by the social networking service, TikTok, for tracking the use of embedded services.Maximum Storage Duration: SessionType: HTML Local Storagett_sessionIdUsed by the social networking service, TikTok, for tracking the use of embedded services.Maximum Storage Duration: SessionType: HTML Local Storage_ttpUsed by the social networking service, TikTok, for tracking the use of embedded services.Maximum Storage Duration: 1 yearType: HTTP CookieYouTube22Learn more about this provider#-#Used to track user’s interaction with embedded content.Maximum Storage Duration: SessionType: HTML Local Storage__Secure-ROLLOUT_TOKENPendingMaximum Storage Duration: 180 daysType: HTTP CookieiU5q-!O9@$Registers a unique ID to keep statistics of what videos from YouTube the user has seen.Maximum Storage Duration: SessionType: HTML Local StorageLAST_RESULT_ENTRY_KEYUsed to track user’s interaction with embedded content.Maximum Storage Duration: SessionType: HTTP CookieLogsDatabaseV2:V#||LogsRequestsStoreUsed to track user’s interaction with embedded content.Maximum Storage Duration: PersistentType: IndexedDBnextIdUsed to track user’s interaction with embedded content.Maximum Storage Duration: SessionType: HTTP Cookieremote_sidNecessary for the implementation and functionality of YouTube video-content on the website.Maximum Storage Duration: SessionType: HTTP CookierequestsUsed to track user’s interaction with embedded content.Maximum Storage Duration: SessionType: HTTP CookieServiceWorkerLogsDatabase#SWHealthLogNecessary for the implementation and functionality of YouTube video-content on the website.Maximum Storage Duration: PersistentType: IndexedDBTESTCOOKIESENABLEDUsed to track user’s interaction with embedded content.Maximum Storage Duration: 1 dayType: HTTP CookieVISITOR_INFO1_LIVETries to estimate the users' bandwidth on pages with integrated YouTube videos.Maximum Storage Duration: 180 daysType: HTTP CookieYSCRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Maximum Storage Duration: SessionType: HTTP Cookieyt.innertube::nextIdRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Maximum Storage Duration: PersistentType: HTML Local Storageytidb::LAST_RESULT_ENTRY_KEYStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: PersistentType: HTML Local StorageYtIdbMeta#databasesUsed to track user’s interaction with embedded content.Maximum Storage Duration: PersistentType: IndexedDByt-remote-cast-availableStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: SessionType: HTML Local Storageyt-remote-cast-installedStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: SessionType: HTML Local Storageyt-remote-connected-devicesStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: PersistentType: HTML Local Storageyt-remote-device-idStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: PersistentType: HTML Local Storageyt-remote-fast-check-periodStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: SessionType: HTML Local Storageyt-remote-session-appStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: SessionType: HTML Local Storageyt-remote-session-nameStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: SessionType: HTML Local Storagewww.griffith.ie2ck-s-svcrntimgi_lfPendingMaximum Storage Duration: SessionType: HTTP Cookiegriffith_courses_of_interestPendingMaximum Storage Duration: 3 monthsType: HTTP Cookie
+
+- Meta Platforms, Inc.4Learn more about this providerlastExternalReferrerDetects how the user reached the website by registering their last URL-address.Maximum Storage Duration: PersistentType: HTML Local StoragelastExternalReferrerTimeDetects how the user reached the website by registering their last URL-address.Maximum Storage Duration: PersistentType: HTML Local StoragetopicsLastReferenceTimeCollects data on the user across websites - This data is used to make advertisement more relevant.Maximum Storage Duration: PersistentType: HTML Local Storage_fbpUsed by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers.Maximum Storage Duration: 3 monthsType: HTTP Cookie
+
+- Google6Learn more about this providerSome of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.IDEUsed by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user.Maximum Storage Duration: 400 daysType: HTTP CookieNIDRegisters a unique ID that identifies a returning user's device. The ID is used for targeted ads.Maximum Storage Duration: 6 monthsType: HTTP Cookiepagead/1p-conversion/#/PendingMaximum Storage Duration: SessionType: Pixel Trackerpagead/1p-user-list/#Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites.Maximum Storage Duration: SessionType: Pixel Tracker_gcl_auUsed by Google AdSense for experimenting with advertisement efficiency across websites using their services.Maximum Storage Duration: 3 monthsType: HTTP Cookie_gcl_lsTracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website.Maximum Storage Duration: PersistentType: HTML Local Storage
+
+Some of the data collected by this provider is for the purposes of personalization and measuring advertising effectiveness.
+
+- Hotjar2Learn more about this provider_hjTLDTestDetects the SEO-ranking for the current website. This service is part of a third-party statistics and analysis service.Maximum Storage Duration: SessionType: HTTP CookiehubspotutkKeeps track of a visitor's identity. This cookie is passed to the marketing platform HubSpot on form submission and used when de-duplicating contacts.Maximum Storage Duration: PersistentType: HTML Local Storage
+
+- Hubspot5Learn more about this provider__hsscCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Maximum Storage Duration: 1 dayType: HTTP Cookie__hssrcCollects anonymous statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Maximum Storage Duration: SessionType: HTTP Cookie__hstcCollects statistical data related to the user's website visits, such as the number of visits, average time spent on the website and what pages have been loaded. The purpose is to segment the website's users according to factors such as demographics and geographical location, in order to enable media and marketing agencies to structure and understand their target groups to enable customised online advertising.Maximum Storage Duration: 180 daysType: HTTP CookiehubspotutkKeeps track of a visitor's identity. This cookie is passed to the marketing platform HubSpot on form submission and used when de-duplicating contacts.Maximum Storage Duration: 180 daysType: HTTP Cookie__ptq.gifSends data to the marketing platform Hubspot about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels.Maximum Storage Duration: SessionType: Pixel Tracker
+
+- Issuu1Learn more about this provideriutkRecognises the user's device and what Issuu documents have been read.Maximum Storage Duration: SessionType: HTTP Cookie
+
+- LinkedIn2Learn more about this providerbcookieUsed by the social networking service, LinkedIn, for tracking the use of embedded services.Maximum Storage Duration: 1 yearType: HTTP CookielidcUsed by the social networking service, LinkedIn, for tracking the use of embedded services.Maximum Storage Duration: 180 daysType: HTTP Cookie
+
+- Spotify2Learn more about this providersp_landingUsed to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes.Maximum Storage Duration: 1 dayType: HTTP Cookiesp_tUsed to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes.Maximum Storage Duration: 1 yearType: HTTP Cookie
+
+- TED3Learn more about this provider__mpq_#_#Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant.Maximum Storage Duration: PersistentType: HTML Local Storagemp_#_mixpanel [x2]PendingMaximum Storage Duration: SessionType: HTTP Cookie
+
+- TikTok4Learn more about this providertt_appInfoUsed by the social networking service, TikTok, for tracking the use of embedded services.Maximum Storage Duration: SessionType: HTML Local Storagett_pixel_session_indexUsed by the social networking service, TikTok, for tracking the use of embedded services.Maximum Storage Duration: SessionType: HTML Local Storagett_sessionIdUsed by the social networking service, TikTok, for tracking the use of embedded services.Maximum Storage Duration: SessionType: HTML Local Storage_ttpUsed by the social networking service, TikTok, for tracking the use of embedded services.Maximum Storage Duration: 1 yearType: HTTP Cookie
+
+- YouTube22Learn more about this provider#-#Used to track user’s interaction with embedded content.Maximum Storage Duration: SessionType: HTML Local Storage__Secure-ROLLOUT_TOKENPendingMaximum Storage Duration: 180 daysType: HTTP CookieiU5q-!O9@$Registers a unique ID to keep statistics of what videos from YouTube the user has seen.Maximum Storage Duration: SessionType: HTML Local StorageLAST_RESULT_ENTRY_KEYUsed to track user’s interaction with embedded content.Maximum Storage Duration: SessionType: HTTP CookieLogsDatabaseV2:V#||LogsRequestsStoreUsed to track user’s interaction with embedded content.Maximum Storage Duration: PersistentType: IndexedDBnextIdUsed to track user’s interaction with embedded content.Maximum Storage Duration: SessionType: HTTP Cookieremote_sidNecessary for the implementation and functionality of YouTube video-content on the website.Maximum Storage Duration: SessionType: HTTP CookierequestsUsed to track user’s interaction with embedded content.Maximum Storage Duration: SessionType: HTTP CookieServiceWorkerLogsDatabase#SWHealthLogNecessary for the implementation and functionality of YouTube video-content on the website.Maximum Storage Duration: PersistentType: IndexedDBTESTCOOKIESENABLEDUsed to track user’s interaction with embedded content.Maximum Storage Duration: 1 dayType: HTTP CookieVISITOR_INFO1_LIVETries to estimate the users' bandwidth on pages with integrated YouTube videos.Maximum Storage Duration: 180 daysType: HTTP CookieYSCRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Maximum Storage Duration: SessionType: HTTP Cookieyt.innertube::nextIdRegisters a unique ID to keep statistics of what videos from YouTube the user has seen.Maximum Storage Duration: PersistentType: HTML Local Storageytidb::LAST_RESULT_ENTRY_KEYStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: PersistentType: HTML Local StorageYtIdbMeta#databasesUsed to track user’s interaction with embedded content.Maximum Storage Duration: PersistentType: IndexedDByt-remote-cast-availableStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: SessionType: HTML Local Storageyt-remote-cast-installedStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: SessionType: HTML Local Storageyt-remote-connected-devicesStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: PersistentType: HTML Local Storageyt-remote-device-idStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: PersistentType: HTML Local Storageyt-remote-fast-check-periodStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: SessionType: HTML Local Storageyt-remote-session-appStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: SessionType: HTML Local Storageyt-remote-session-nameStores the user's video player preferences using embedded YouTube videoMaximum Storage Duration: SessionType: HTML Local Storage
+
+- www.griffith.ie2ck-s-svcrntimgi_lfPendingMaximum Storage Duration: SessionType: HTTP Cookiegriffith_courses_of_interestPendingMaximum Storage Duration: 3 monthsType: HTTP Cookie
+
+- Unclassified13Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.Amazon1Learn more about this providerreduxPersist%3AtutorialPendingMaximum Storage Duration: 7 daysType: HTTP CookieCloudflare1Learn more about this providercf.turnstile.uPendingMaximum Storage Duration: PersistentType: HTML Local StorageSpotify5Learn more about this providerES|#|EVENT|#PendingMaximum Storage Duration: PersistentType: HTML Local StorageES|#|GLOBAL_SEQ_NUMPendingMaximum Storage Duration: PersistentType: HTML Local StorageES|#|INSTALLATION_IDPendingMaximum Storage Duration: PersistentType: HTML Local StorageES|#|SEQ_NUM|#PendingMaximum Storage Duration: PersistentType: HTML Local StorageES|#|STORAGE_IDPendingMaximum Storage Duration: PersistentType: HTML Local StorageTED4Learn more about this providermixpanelBrowserDb#mixpanelRecordingEventsPendingMaximum Storage Duration: PersistentType: IndexedDBmixpanelBrowserDb#mixpanelRecordingRegistryPendingMaximum Storage Duration: PersistentType: IndexedDBmp_gen_new_tab_id_mixpanel_cefc84a7a812fb3bb40d6efadb6b3163PendingMaximum Storage Duration: SessionType: HTML Local Storagemp_tab_id_mixpanel_cefc84a7a812fb3bb40d6efadb6b3163PendingMaximum Storage Duration: SessionType: HTML Local StorageTikTok2Learn more about this providerttcsidPendingMaximum Storage Duration: 1 yearType: HTTP Cookiettcsid_CPLD0SBC77UEE1L2CFNGPendingMaximum Storage Duration: 1 yearType: HTTP Cookie
+
+- Amazon1Learn more about this providerreduxPersist%3AtutorialPendingMaximum Storage Duration: 7 daysType: HTTP Cookie
+
+- Cloudflare1Learn more about this providercf.turnstile.uPendingMaximum Storage Duration: PersistentType: HTML Local Storage
+
+- Spotify5Learn more about this providerES|#|EVENT|#PendingMaximum Storage Duration: PersistentType: HTML Local StorageES|#|GLOBAL_SEQ_NUMPendingMaximum Storage Duration: PersistentType: HTML Local StorageES|#|INSTALLATION_IDPendingMaximum Storage Duration: PersistentType: HTML Local StorageES|#|SEQ_NUM|#PendingMaximum Storage Duration: PersistentType: HTML Local StorageES|#|STORAGE_IDPendingMaximum Storage Duration: PersistentType: HTML Local Storage
+
+- TED4Learn more about this providermixpanelBrowserDb#mixpanelRecordingEventsPendingMaximum Storage Duration: PersistentType: IndexedDBmixpanelBrowserDb#mixpanelRecordingRegistryPendingMaximum Storage Duration: PersistentType: IndexedDBmp_gen_new_tab_id_mixpanel_cefc84a7a812fb3bb40d6efadb6b3163PendingMaximum Storage Duration: SessionType: HTML Local Storagemp_tab_id_mixpanel_cefc84a7a812fb3bb40d6efadb6b3163PendingMaximum Storage Duration: SessionType: HTML Local Storage
+
+- TikTok2Learn more about this providerttcsidPendingMaximum Storage Duration: 1 yearType: HTTP Cookiettcsid_CPLD0SBC77UEE1L2CFNGPendingMaximum Storage Duration: 1 yearType: HTTP Cookie
+
+- Study at GriffithOverviewCourses for Global StudentsHow To ApplyMeet the teamEnglish Language Entry RequirementsAccommodationFeesVisa InformationFAQsGOI-IES
+
+- Overview
+
+- Courses for Global Students
+
+- How To Apply
+
+- Meet the team
+
+- English Language Entry Requirements
+
+- Accommodation
+
+- Fees
+
+- Visa Information
+
+- FAQs
+
+- GOI-IES
+
+- Global OpportunitiesOverviewStudy AbroadErasmusPartnersResources
+
+- Overview
+
+- Study Abroad
+
+- Erasmus
+
+- Partners
+
+- Resources
+
+- Student Ambassadors
+
+- Accessibility Tools
+
+## Further Information
+
+- About
+
+- Academic Calendar
+
+- Faculties
+
+- Opening Hours
+
+- Offices
+
+- Accommodation
+
+- Learner Hub
+
+- Staff Hub
+
+- Blog
+
+## Search form
+
+## Ready to take the next step?
+
+- Apply now
+
+- Contact us
+
+- English - GBEnglish - GB
+
+- French - Europefrançais
+
+- MongolianМонгол
+
+- Italianitaliano
+
+- TurkishTürkçe
+
+- Portugueseportuguês
+
+- Korean한국어
+
+- Japanese日本語
+
+- Chinese Simplified中国简化
+
+- Spanish - Europeespañol
+
+## Breadcrumb
+
+- Home
+
+- Global Engagement Office
+
+- Study at Griffith
+
+- Helpful information for students who require study visas to travel to Ireland
+
+# Visa Information
+
+- Study at GriffithOverviewCourses for Global StudentsHow To ApplyMeet the teamEnglish Language Entry RequirementsAccommodationFeesVisa InformationFAQsGOI-IES
+
+- Overview
+
+- Courses for Global Students
+
+- How To Apply
+
+- Meet the team
+
+- English Language Entry Requirements
+
+- Accommodation
+
+- Fees
+
+- Visa Information
+
+- FAQs
+
+- GOI-IES
+
+# Helpful information for students who require study visas to travel to Ireland
+
+Studying abroad is an exciting journey, but before you can pack your bags and begin your adventure atGriffith College, there is one important step - getting yourIrish study visa.
+
+If you’re from anon-EU/EEA country, you may need to apply for a visa before traveling to Ireland. To help you navigate the process smoothly, we’ve put together thisstep-by-step guide, covering everything from application forms to financial requirements.
+
+## Do I need a visa?
+
+Visas and Immigration matters are managed by theIrish Immigration Service – (ISD). You can check if you need a visa by visiting theIrish Immigration Servicewebsite:https://www.irishimmigration.ie/coming-to-visit-ireland/visit-ireland-travel-path/
+
+- Ifyou need a visa to enter Ireland,you apply online for the visa.
+
+- If you don’t need a visa to enter Ireland,you register with the Irish Immigration Service when you get to Ireland.
+
+- If you have an EU/EEA/Swiss/UK Passport, you don’t need to apply for a visa or register with Immigration.
+
+## When should I apply?
+
+Visa processing times vary per country. To avoid last-minute delays, we advise students to applyat least three months before their programme start date. Visa processing can take several months, and applying early ensures you have plenty of time to prepare for your move to Ireland.
+
+## How do I apply for an Irish Study Visa?
+
+Online Visa Application
+
+You apply for your visa through the Irish Immigration ServiceAVATS online system.
+
+Gather Your Documents
+
+It is essential that you include all required documentation. Missing documents can lead todelays or even refusals, so double-check everything before submission.
+
+### Visa Checklist
+
+## Step 1: Complete the Application Form and gather all necessary documents.
+
+Please note that you should only submit original documentation and everything should be on official letterhead where relevant.
+
+1. Application Form
+
+- Completed and signedvisa application form fromAVATS.
+
+2. Application Letter
+
+The letter should include the following information:
+
+- Your full name and postal address.
+
+- Why you choseGriffith Collegeand your reason for studying in Ireland.
+
+- Your expected arrival dates.
+
+- The duration of your programme of study.
+
+- A commitment to: (a.) Adhere to all visa conditions, (b.) Not rely on Irish public services (such as social welfare or healthcare benefits), (c.) Not overstay in Ireland past the relevant expiry date.
+
+- Details of any family members in Ireland or the EU.
+
+- Postgraduate students - if your proposed programme of study is in a different field from your primary degree, you will need to explain why.
+
+3. Passport-Sized Photographs
+
+- Tworecentpassport-sized photos (taken within the last six months).
+
+- Yourname and visa reference numberare written on the back of each photo.
+
+4. Passport and Travel History
+
+- Currentpassport valid for at least 12 monthsafter your arrival in Ireland.
+
+- Copies ofall previous passports(if applicable).
+
+5. Proof of Course Enrolment
+
+- Letter of Acceptancefrom Griffith College – the “Invitation to Register” letter.
+
+- Details of the course, includingtuition fees paid and due.
+
+6. Educational History
+
+- CV/Resume, listing past education and any employment history.
+
+- Statement of Purpose, a statement explaining why you have chosen Ireland for your studies, how it fits with your longer-term goals and explaining any gaps in your education history.
+
+7. Proof of Tuition Fee Payment
+
+- A copy of your Electronic Transfer of Funds (ETF)to Griffith College’s bank account.
+
+- Official receiptfrom Griffith College.
+
+8. Academic Qualifications
+
+- Copies of yourprevious academic transcripts and certificates.
+
+9. English Language Proficiency
+
+- A valid English language test certificate such as:IELTS(Minimum score depends on the course).TOEFL, PTE, or Duolingo English Test.
+
+- IELTS(Minimum score depends on the course).
+
+- TOEFL, PTE, or Duolingo English Test.
+
+10. Private Medical Insurance
+
+- Proof ofmedical insurancethat covers you for your first year of study in Ireland. Griffith College recommends providers such as Study and Protect -www.studyandprotect.comto arrange the medical insurance.
+
+11. Previous Visa Refusals (if applicable)
+
+- If you’ve beenrefused a visa before, include a letter explaining the refusal and any supporting documents.
+
+12. Financial Evidence (Proving You Can Afford to Study in Ireland)
+
+- Personalbank statements from the last six months(for both you and your financial sponsor(s) if relevant).
+
+- Proof of access to at least €10,000for living expenses for one academic year.
+
+- Evidence oftuition fee payment for the first year.
+
+- If your programme lasts more than one year, proof that you have access to funding for subsequent years.
+
+- Anylarge or unusual transactions in your account must be explained(e.g., lump-sum deposits).
+
+13. Summary of Finances Form
+
+- A completedSummary of Finances Form, which provides an overview of your financial status.
+
+## Step 2: Pay the Visa Application Fee
+
+Visa fees may vary depending on the type of visa you apply for:
+
+- Single entry visa:€60
+
+- Multiple entry visa:€100*
+
+You will receive payment instructions when completing your AVATS application.
+
+*We advise students to apply for a multiple-entry visa so that in case of any difficulties in Ireland, you can leave and come back without difficulty.
+
+## What happens after I apply?
+
+Tracking Your Visa Application
+
+Once submitted, you cantrack your visa applicationonline.
+
+Processing Time
+
+Visa decisions can takeup to three months, or more, depending on where you are applying from, and the overall volume of applications.
+
+Visa Interview (if required)
+
+In some cases, applicants may be called for a visa interview. If this happens, be prepared to discuss your study plans, finances, and reasons for choosing Ireland.
+
+## Arriving in Ireland & Immigration Registration
+
+Once your visa is approved and you get the visa stamp in your passport, you are ready to travel. When you land in Ireland, you will pass throughBorder Controlat the Airport and theywill check the following documents upon arrival:
+
+- Passport with study visa
+
+- Griffith College acceptance letter –your“Invitation to Register” letter
+
+- Proof of accommodation
+
+When you go through Border Control at the Airport, your passport will be stamped. You must register with theIrish Immigration Service (ISD) in Dublin Citybefore the date in that Landing Stamp.
+
+When you register with the Irish Immigration Service you will receive yourIrish Residence Permit (IRP), which shows that you are legally entitled to reside in Ireland.
+
+## Need help?
+
+Griffith College’s International Office is here to guide you through the visa application process.
+
+- Email:international@griffith.ie
+
+- Phone:+353 1 415 0400
+
+- WhatsApp Number:+353 (87) 410 9530
+
+For official Irish visa guidelines, visit:
+
+- Irish Immigration Service
+
+Applying for a study visa may seem overwhelming, but by following this guide and preparing your documents in advance, you can avoid unnecessary delays and ensure a stress-free move to Ireland. Griffith College is here to support you every step of the way.
+
+Start your journey today - see you in Ireland!
+
+## View Contact Details
+
+Dublin - Main Campus+353 1 415 0400international@griffith.ieadmissions@griffith.ie
+
+Cork+353 21 450 7027international@griffith.ieadmissions.gcc@griffith.ie
+
+Limerick+353 61 310 031international@griffith.ieadmissions.gcl@griffith.ie
+
+Dublin City Centre+353 1 415 0450admissions.citycentre@griffith.ie
+
+## My Griffith
+
+- MyGriffith
+
+- Moodle
+
+- Students' Union
+
+- Library
+
+- Learner Hub
+
+- Fees & Payment
+
+- Careers Service
+
+## Resources
+
+- Quality Assurance
+
+- Learner Protection
+
+- Accommodation
+
+- Alumni
+
+- School Liaison
+
+- Data Protection
+
+- Web Accessibility
+
+- Prospectus
+
+- Student Handbook 24/25
+
+- Research and Innovation Hub
+
+- Partners
+
+- Diverse University Alliance
+
+## Useful Links
+
+- About Griffith
+
+- Jobs at Griffith College
+
+- Our People
+
+- Conference Centre
+
+- News
+
+- Events
+
+- Blog
+
+- GC50
+
+- Media Library & Press Resources
+
+- Griffith College Dublin Virtual Tour
+
+- CINNTE Institutional Review
+
+- Health & Safety Statement(PDF file)
+
+- Privacy & Legal
+
+- Cookie Policy
+
+- Sitemap
+
+© Copyright Griffith College 2025. All rights reserved. Griffith College is registered in Ireland as Bellerophon Limited. Registered Office: Griffith College, South Circular Road, Dublin 8, D08V04N. Registration No. 60469.
